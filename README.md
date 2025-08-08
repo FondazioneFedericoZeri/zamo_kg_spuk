@@ -40,16 +40,20 @@ SPUK generates static HTML pages from an RDF Knowledge Graph (KG), allowing user
 
 ### Start the site and the API
 
-If you are launching the code for the first time, before running the main script, make it executable:
+If you are launching the code for the first time, before running the main script, make it executable through the command line:
 
     chmod +x main.sh
 
-Start the static site generator and API server:
+Before starting the generator, you have to change the value of the parameter `GITHUB_DEPLOY` in `utils.py` from `True` to `False`
+
+    # src/utils.py
+
+    ...
+    GITHUB_DEPLOY = False
+    ...
+
+Start the static site generator in the command line:
 
     ./main.sh
 
 The website will be available at: http://127.0.0.1:8001.
-
-## Author
-
-Barzaghi, Sebastian (https://orcid.org/0000-0002-0799-1527).
