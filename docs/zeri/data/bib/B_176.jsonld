@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_176",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogue of the Rare and Valuable Collection Formed by the Widely Known and Eminent Expert and Connoisseur Chev. Raoul Tolentino: Removed from His Galleries at No. 57, Via Sistina, Rome, catalogo della vendita all'asta Clarke  (New York, 42 and 44 East 58th Street,  18-25 novembre 1922), a cura di Freund, K., Clarke, A. W., New York, 1922."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogue of the Rare and Valuable Collection Formed by the Widely Known and Eminent Expert and Connoisseur Chev. Raoul Tolentino: Removed from His Galleries at No. 57, Via Sistina, Rome, catalogo della vendita all'asta Clarke  (New York, 42 and 44 East 58th Street,  18-25 novembre 1922), a cura di Freund, K., Clarke, A. W."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

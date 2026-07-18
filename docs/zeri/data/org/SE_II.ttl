@@ -1,0 +1,28 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/SE_II> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Sestieri"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_112>,
+        <https://w3id.org/zeri/data/seat/IT_116>,
+        <https://w3id.org/zeri/data/seat/IT_119>,
+        <https://w3id.org/zeri/data/seat/IT_129>,
+        <https://w3id.org/zeri/data/seat/IT_94>,
+        <https://w3id.org/zeri/data/seat/USA_1> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_2>,
+        <https://w3id.org/zeri/data/collaboration/R_33>,
+        <https://w3id.org/zeri/data/collaboration/R_7> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_14/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_14_b/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_16_b/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_21/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_22/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_30/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_43/SE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_9/SE_II>,
+        <https://w3id.org/zeri/data/main-collaboration/SE_II_1>,
+        <https://w3id.org/zeri/data/main-collaboration/SE_II_2>,
+        <https://w3id.org/zeri/data/main-collaboration/SE_II_3>,
+        <https://w3id.org/zeri/data/main-collaboration/SE_II_5>,
+        <https://w3id.org/zeri/data/main-collaboration/SE_II_6> .
+

@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_6> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Torino"@it ;
+    schema:addressRegion "Piemonte"@it ;
+    schema:streetAddress "Piazza Maria Teresa 3"@it .
+

@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_24_2> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Carletti, L., Giometti, C, 2016, Raffaello on the road. Rinascimento e propaganda fascista in America (1938-40), Roma, Carocci" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/carletti-l-giometti-c> ;
+    dcterms:date "2016"^^xsd:gYear ;
+    dcterms:title "Raffaello on the road. Rinascimento e propaganda fascista in America (1938-40)"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/VE> .
+

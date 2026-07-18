@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/FR_7> a schema:PostalAddress ;
+    schema:addressCountry "Francia"@it ;
+    schema:addressLocality "Parigi"@it ;
+    schema:addressRegion "Francia"@it ;
+    schema:streetAddress "Rue La Fayette 93"@it .
+

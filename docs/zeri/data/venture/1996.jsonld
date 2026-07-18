@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/1996",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/1996"
+      }
+    ]
+  }
+]

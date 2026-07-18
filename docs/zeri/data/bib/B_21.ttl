@@ -1,0 +1,16 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_21> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Budd, D.M, 2020., The Barberini Tapestries : Charles Mather Ffoulke and the dealer's network., In Catterson,, pp. 154-178." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/budd-d-m> ;
+    dcterms:date "2020"^^xsd:gYear ;
+    dcterms:title "The Barberini Tapestries : Charles Mather Ffoulke and the dealer's network."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/SA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/SA_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/SA_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_II> .
+

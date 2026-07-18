@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_36",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Contini Bonacossi, V, 2008., Diario americano: 1926-1929., Siena, Gli Ori."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/contini-bonacossi-v"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2008"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Diario americano: 1926-1929."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_I_1"
+      }
+    ]
+  }
+]

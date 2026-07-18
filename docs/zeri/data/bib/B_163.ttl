@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_163> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogo dei mobili ed oggetti d'arte antichi componenti la collezione appartenuta al compianto comm. Gustavo Corvisieri dei mobili antichi e moderni che arredavano due appartamenti e di altri numerosi oggetti d'arte, catalogo della vendita all'asta Galleria L'Antonina (Roma, 25 marzo-9 aprile 1936), Roma, Quintiily., Roma 1936." ;
+    dcterms:title "Catalogo dei mobili ed oggetti d'arte antichi componenti la collezione appartenuta al compianto comm. Gustavo Corvisieri dei mobili antichi e moderni che arredavano due appartamenti e di altri numerosi oggetti d'arte, catalogo della vendita all'asta Galleria L'Antonina (Roma, 25 marzo-9 aprile 1936), Roma, Quintiily."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_II> .
+

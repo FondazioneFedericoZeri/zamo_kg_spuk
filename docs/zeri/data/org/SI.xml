@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/SI">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Simonetti Aldo Giulio &amp; C.</schema:name>
+    <schema:name xml:lang="it">Galleria Simonetti</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_97"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_134"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_14"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_17"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SI_5"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SI_4"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SI_3"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SI_2"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SI_1"/>
+  </rdf:Description>
+</rdf:RDF>

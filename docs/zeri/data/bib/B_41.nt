@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_41> <http://purl.org/dc/terms/bibliographicCitation> "Diebner, S; Rossini, O, 2024., Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925., Roma, Gangemini Editore spa." .
+<https://w3id.org/zeri/data/bib/B_41> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/diebner-s> .
+<https://w3id.org/zeri/data/bib/B_41> <http://purl.org/dc/terms/date> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_41> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/FE_1> .
+<https://w3id.org/zeri/data/bib/B_41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_41> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FE> .
+<https://w3id.org/zeri/data/bib/B_41> <http://purl.org/dc/terms/title> "Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925."@it .
+<https://w3id.org/zeri/data/bib/B_41> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/rossini-o> .
+<https://w3id.org/zeri/data/bib/B_41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .

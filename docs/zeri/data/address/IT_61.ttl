@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_61> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Firenze"@it ;
+    schema:addressRegion "Toscana"@it ;
+    schema:streetAddress "Via dei Fossi 45R"@it .
+

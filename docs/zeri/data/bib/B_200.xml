@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_200">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)., San Francisco 1923.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+  </rdf:Description>
+</rdf:RDF>

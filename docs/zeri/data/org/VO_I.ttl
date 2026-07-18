@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/VO_I> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Elia Volpi"@it,
+        "Galleria di Palazzo Davanzati"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_38>,
+        <https://w3id.org/zeri/data/seat/IT_82> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_10> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_1/VO_I>,
+        <https://w3id.org/zeri/data/collaboration/C_12/VO_I>,
+        <https://w3id.org/zeri/data/collaboration/C_7/VO_I>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_I_1> .
+

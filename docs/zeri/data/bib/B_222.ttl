@@ -1,0 +1,17 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_222> a bibo:PersonalCommunicationDocument,
+        sources:Object ;
+    dcterms:bibliographicCitation "6/4/2023, Intervista eredi Bellini, Firenze., Firenze" ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Intervista eredi Bellini, Firenze."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+

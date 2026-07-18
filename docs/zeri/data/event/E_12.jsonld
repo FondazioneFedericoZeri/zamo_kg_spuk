@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_12",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Per volere dello stesso Edoardo Villa, a causa di problemi economici, venne organizzata la vendita della sua collezione, che si tenne presso la Galleria Vitelli di Genova, nelle sale di Palazzo Granello, nel 1923."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - Collezione E. Villa"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1923"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/VO_III_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/org/VI_III"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_12"
+      }
+    ]
+  }
+]

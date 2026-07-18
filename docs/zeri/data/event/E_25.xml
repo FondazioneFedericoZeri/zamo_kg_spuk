@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_25">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Foundation"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E66_Formation"/>
+    <rdfs:comment xml:lang="it">Nel 1987 Piero Pagano, insieme a Marco Capozzi, fondò la prima casa di vendite sul territorio genovese, la "Casa d'Aste Rubinacci", intitolata allo zio Pompeo Rubinacci (1893-1974). La casa d'aste rimase attiva fino al 2006.</rdfs:comment>
+    <rdfs:label xml:lang="it">Inaugurazione "Casa d'aste Rubinacci"</rdfs:label>
+    <agents:hasFoundedOrganization rdf:resource="https://w3id.org/zeri/data/org/PA_I"/>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1987</events:hasDate>
+    <events:hasParticipant rdf:resource="https://w3id.org/zeri/data/person/PA_I_1"/>
+  </rdf:Description>
+</rdf:RDF>

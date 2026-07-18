@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/collaboration/R_6",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Collaboration"
+    ]
+  }
+]

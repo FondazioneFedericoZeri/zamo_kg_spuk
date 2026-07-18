@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/bib/B_59> <http://purl.org/dc/terms/date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_59> <http://purl.org/dc/terms/bibliographicCitation> "González-Palacios, A, 2014., Persona e maschera: collezionisti, antiquari e storici dell'arte., Milano, Archinto." .
+<https://w3id.org/zeri/data/bib/B_59> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/gonzalez-palacios-a> .
+<https://w3id.org/zeri/data/bib/B_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_59> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AP> .
+<https://w3id.org/zeri/data/bib/B_59> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_1> .
+<https://w3id.org/zeri/data/bib/B_59> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_3> .
+<https://w3id.org/zeri/data/bib/B_59> <http://purl.org/dc/terms/title> "Persona e maschera: collezionisti, antiquari e storici dell'arte."@it .
+<https://w3id.org/zeri/data/bib/B_59> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_2> .
+<https://w3id.org/zeri/data/bib/B_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

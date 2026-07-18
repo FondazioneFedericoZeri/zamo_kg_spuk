@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_76> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Lorizzo, L, 2018., L’arte di falsificare l’arte. Michele Lazzaroni e la Fototeca di Adolfo Venturi, in La fototeca di Adolfo Venturi alla Sapienza, catalogo della mostra, a cura di I. Schiaffini., Roma,, pp. 85-94." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/lorizzo-l> ;
+    dcterms:date "2018"^^xsd:gYear ;
+    dcterms:title "L’arte di falsificare l’arte. Michele Lazzaroni e la Fototeca di Adolfo Venturi, in La fototeca di Adolfo Venturi alla Sapienza, catalogo della mostra, a cura di I. Schiaffini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/LA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+

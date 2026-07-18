@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/JA">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Galleria d'Arte Ettore Jandolo</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_116"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_105"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_109"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_115"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_116_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_128"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_135_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_106"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_46"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_25"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_29"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_7"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_6"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_5"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_4"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_2"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_3"/>
+  </rdf:Description>
+</rdf:RDF>

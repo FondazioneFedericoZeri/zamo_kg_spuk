@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_9> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_31> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AC_1> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_44/AC> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_2> .
+<https://w3id.org/zeri/data/org/AC> <https://schema.org/name> "Galleria Accorsi"@it .
+<https://w3id.org/zeri/data/org/AC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_43> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_3> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_4> .
+<https://w3id.org/zeri/data/org/AC> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_1> .

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_208",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)., New York 1924."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PA_II_1"
+      }
+    ]
+  }
+]

@@ -2,8 +2,8 @@ import html, os
 from urllib.parse import urlparse
 
 
-GITHUB_DEPLOY = True
-REPO_NAME = "spuk"
+GITHUB_DEPLOY = False
+REPO_NAME = "zamo_kg_spuk"
 
 
 def get_uri_label(uri: str) -> str:

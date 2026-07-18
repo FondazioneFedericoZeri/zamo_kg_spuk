@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/1996",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_30"
+      }
+    ]
+  }
+]

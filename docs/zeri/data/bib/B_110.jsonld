@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_110",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Planiscig L, 2006., La collezione Luigi Grassi di piccoli bronzi del Rinascimento., Firenze, Centro Di."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/planiscig-l"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2006"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "La collezione Luigi Grassi di piccoli bronzi del Rinascimento."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      }
+    ]
+  }
+]

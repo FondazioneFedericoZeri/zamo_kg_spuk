@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/CA_I_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/"
+      }
+    ],
+    "https://schema.org/birthDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1863"
+      }
+    ],
+    "https://schema.org/deathDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1922"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Canessa"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Cesare"
+      }
+    ],
+    "https://schema.org/sibling": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_I_2"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_136"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/CA_I_1"
+      }
+    ]
+  }
+]

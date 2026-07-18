@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_4",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Avvisati, C, 2016., Il tesoro di Boscoreale e lo scandalo della vendita all'estero: i gioielli, gli argenti e gli aurei del 1. secolo d.C. trovati da Vincenzo de Prisco nella villa detta la Pisanella., Tricase, Youcanprint."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/avvisati-c"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2016"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il tesoro di Boscoreale e lo scandalo della vendita all'estero: i gioielli, gli argenti e gli aurei del 1. secolo d.C. trovati da Vincenzo de Prisco nella villa detta la Pisanella."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_1"
+      }
+    ]
+  }
+]

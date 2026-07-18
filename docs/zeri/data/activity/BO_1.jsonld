@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/activity/BO_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BO_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#refersTo": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/BO_1"
+      }
+    ]
+  }
+]

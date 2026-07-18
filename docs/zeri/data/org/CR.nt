@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/org/CR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_12> .
+<https://w3id.org/zeri/data/org/CR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/CR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_14> .
+<https://w3id.org/zeri/data/org/CR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_18> .
+<https://w3id.org/zeri/data/org/CR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CR_1> .

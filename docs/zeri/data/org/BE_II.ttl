@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/BE_II> a agents:ArtDealerOrganization ;
+    schema:name "The Italian Art Gallery"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_81>,
+        <https://w3id.org/zeri/data/seat/UK_1>,
+        <https://w3id.org/zeri/data/seat/UK_2>,
+        <https://w3id.org/zeri/data/seat/UK_4>,
+        <https://w3id.org/zeri/data/seat/UK_5>,
+        <https://w3id.org/zeri/data/seat/UK_7> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_18> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_20/BE_II>,
+        <https://w3id.org/zeri/data/collaboration/C_38/BE_II>,
+        <https://w3id.org/zeri/data/main-collaboration/BE_II_1> .
+

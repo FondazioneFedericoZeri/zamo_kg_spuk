@@ -1,0 +1,24 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/DI> a agents:ArtDealerOrganization ;
+    schema:name "Alessandra Di Castro antichità"@it,
+        "Antichità A.L. Di Castro"@it,
+        "Antichità Alberto Di Castro"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_104>,
+        <https://w3id.org/zeri/data/seat/IT_107>,
+        <https://w3id.org/zeri/data/seat/IT_92>,
+        <https://w3id.org/zeri/data/seat/IT_98> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_32>,
+        <https://w3id.org/zeri/data/collaboration/R_6> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_16/DI>,
+        <https://w3id.org/zeri/data/collaboration/C_18/DI>,
+        <https://w3id.org/zeri/data/collaboration/C_30/DI>,
+        <https://w3id.org/zeri/data/collaboration/C_5/DI>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_1>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_2>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_3>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_4>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_5>,
+        <https://w3id.org/zeri/data/main-collaboration/DI_6> .
+

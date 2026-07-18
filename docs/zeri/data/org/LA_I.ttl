@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/LA_I> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Lapiccirella"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_36>,
+        <https://w3id.org/zeri/data/seat/IT_50>,
+        <https://w3id.org/zeri/data/seat/IT_51>,
+        <https://w3id.org/zeri/data/seat/IT_77>,
+        <https://w3id.org/zeri/data/seat/IT_84>,
+        <https://w3id.org/zeri/data/seat/IT_87_b> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_26> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/LA_I_1>,
+        <https://w3id.org/zeri/data/main-collaboration/LA_I_2> .
+

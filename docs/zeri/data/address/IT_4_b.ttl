@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_4_b> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Varese"@it ;
+    schema:addressRegion "Lombardia"@it ;
+    schema:streetAddress "Piazza Podestà 2"@it .
+

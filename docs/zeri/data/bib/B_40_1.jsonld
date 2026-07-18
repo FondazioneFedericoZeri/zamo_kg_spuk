@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_40_1",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Di Lorenzo, A, 2002, Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti, in Di Lorenzo, pp. 37-45"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/di-lorenzo-a"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2002"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_III"
+      }
+    ]
+  }
+]

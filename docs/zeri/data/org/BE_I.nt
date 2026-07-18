@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BE_I_3> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_12> .
+<https://w3id.org/zeri/data/org/BE_I> <https://schema.org/name> "Galleria Bellini"@it .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BE_I_5> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_43> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_72> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_76> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BE_I_1> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BE_I_4> .
+<https://w3id.org/zeri/data/org/BE_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/BE_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BE_I_2> .

@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_215_1",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "L'Antiquario Alfredo Geri ha ritrovato la \"Gioconda\", in «L'Antiquario», VI, 1913, 9-12"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "L'Antiquario Alfredo Geri ha ritrovato la \"Gioconda\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GE_II"
+      }
+    ]
+  }
+]

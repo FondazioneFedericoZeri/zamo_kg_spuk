@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/C_35",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Joni"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Icilio Federico"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_35/VO_II"
+      }
+    ]
+  }
+]

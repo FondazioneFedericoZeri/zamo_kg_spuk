@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_20",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Briganti, G, 1990., Sulla fortuna di Alberto Savinio. In Savinio, A. , Vivarelli, P. , Di Carlo, M. Savinio: gli anni di Parigi., Milano: Electa,, pp. 13-18."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/briganti-g"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1990"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Sulla fortuna di Alberto Savinio. In Savinio, A. , Vivarelli, P. , Di Carlo, M. Savinio: gli anni di Parigi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/MO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/MO_1"
+      }
+    ]
+  }
+]

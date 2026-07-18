@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_12/VO_I> .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_I_1> .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_1/VO_I> .
+<https://w3id.org/zeri/data/org/VO_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/VO_I> <https://schema.org/name> "Galleria di Palazzo Davanzati"@it .
+<https://w3id.org/zeri/data/org/VO_I> <https://schema.org/name> "Galleria Elia Volpi"@it .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_10> .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_82> .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_7/VO_I> .
+<https://w3id.org/zeri/data/org/VO_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_38> .

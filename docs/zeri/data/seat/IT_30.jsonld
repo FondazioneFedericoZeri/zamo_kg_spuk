@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_30",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_30"
+      }
+    ]
+  }
+]

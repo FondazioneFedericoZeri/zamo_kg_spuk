@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_24_3> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Carotti, G, 1905, Una nuova raccolta di opere d'arte, in «L’Arte», VIII, 1905, pp. 50-52" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/carotti-g> ;
+    dcterms:date "1905"^^xsd:gYear ;
+    dcterms:title "Una nuova raccolta di opere d'arte"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+

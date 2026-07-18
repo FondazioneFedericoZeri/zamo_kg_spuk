@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_41",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Diebner, S; Rossini, O, 2024., Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925., Roma, Gangemini Editore spa."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/rossini-o"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/diebner-s"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2024"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/FE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/FE_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/collection/collezione-di-s-romano> a crm:E78_Curated_Holding,
+        sources:CuratedHolding .
+

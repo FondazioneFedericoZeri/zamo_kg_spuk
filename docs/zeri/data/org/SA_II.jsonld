@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SA_II",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_57"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_40"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_31"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_39"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_II_1"
+      }
+    ]
+  }
+]

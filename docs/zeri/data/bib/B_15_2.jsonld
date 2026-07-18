@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_15_2",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Bianchin R, 1987., Asta Ca’ Sagredo 1987., La Repubblica 29 novembre 1987."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/bianchin-r"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1987"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Asta Ca’ Sagredo 1987."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PO_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PO_II_1"
+      }
+    ]
+  }
+]

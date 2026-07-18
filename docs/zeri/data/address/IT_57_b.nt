@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/IT_57_b> <https://schema.org/addressLocality> "Firenze"@it .
+<https://w3id.org/zeri/data/address/IT_57_b> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_57_b> <https://schema.org/addressRegion> "Toscana"@it .
+<https://w3id.org/zeri/data/address/IT_57_b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/IT_57_b> <https://schema.org/streetAddress> "Via dei Fossi 31"@it .

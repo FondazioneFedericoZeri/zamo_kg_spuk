@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_56",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Luigi Albrighi e Paola Ventura"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1961"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveTo": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1979"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_56"
+      }
+    ]
+  }
+]

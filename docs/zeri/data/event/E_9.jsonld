@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_9",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1909, presso la casa d'aste \"Jandolo&Tavazzi\" di Roma,  in collaborazione con la \"Galleria Sangiorgi\",  venne venduta parte della collezione di Giovacchino Ferroni. La vendita è stata ampiamente reclamizzate e descritta anche sulle pagine de “L’Antiquario”."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - collezione G. Ferroni"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1909"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasFacilitator": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/org/JA-TA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/SA_IV_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/FE_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_9"
+      }
+    ]
+  }
+]

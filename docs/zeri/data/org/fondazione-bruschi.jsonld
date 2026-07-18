@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/fondazione-bruschi",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Organization"
+    ]
+  }
+]

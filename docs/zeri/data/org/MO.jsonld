@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/MO",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/FR_6"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/MO_1"
+      }
+    ]
+  }
+]

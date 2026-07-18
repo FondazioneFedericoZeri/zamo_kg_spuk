@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/address/IT_135",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "it",
+        "@value": "Italia"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "it",
+        "@value": "Roma"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "it",
+        "@value": "Lazio"
+      }
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "it",
+        "@value": "Viale di Tor di Quinto 58"
+      }
+    ]
+  }
+]

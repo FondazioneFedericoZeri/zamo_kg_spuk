@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_98",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Natale M, 2021., Vittorio Cini e Federico Zeri., In Barbero,, pp. 75-94."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/natale-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2021"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Vittorio Cini e Federico Zeri."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_1"
+      }
+    ]
+  }
+]

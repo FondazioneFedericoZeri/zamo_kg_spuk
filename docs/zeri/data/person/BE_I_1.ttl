@@ -1,0 +1,17 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
+
+<https://w3id.org/zeri/data/person/BE_I_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=bellini> ;
+    schema:familyName "Bellini"@it ;
+    schema:givenName "Giuseppe"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_72> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/BE_I_1> ;
+    zamo_ext:isGrandParentOf <https://w3id.org/zeri/data/person/BE_I_3>,
+        <https://w3id.org/zeri/data/person/BE_I_4> .
+

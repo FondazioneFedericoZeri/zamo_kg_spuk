@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_79",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Mambelli, F, 2020., Il più grande centro commerciale di oggetti d’arte: la Galleria Sangiorgi tra strategie di marketing e artigianato artistico., In Bacchi, Capitelli,, pp. 185-227."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/mambelli-f"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il più grande centro commerciale di oggetti d’arte: la Galleria Sangiorgi tra strategie di marketing e artigianato artistico."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_1"
+      }
+    ]
+  }
+]

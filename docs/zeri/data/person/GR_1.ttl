@@ -1,0 +1,21 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
+
+<https://w3id.org/zeri/data/person/GR_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?batch=100&page=1&view=gallery&sortby=AUTORE&decorator=layout_resp&apply=true&percorso_ricerca=F&locale=it&PRCM_PRCD=grassi> ;
+    schema:birthDate "1858"^^xsd:gYear ;
+    schema:deathDate "1937"^^xsd:gYear ;
+    schema:familyName "Grassi"@it ;
+    schema:givenName "Luigi"@it ;
+    schema:sibling <https://w3id.org/zeri/data/person/GR_4> ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_53>,
+        <https://w3id.org/zeri/data/location/IT_73> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/GR_1> ;
+    zamo_ext:isGrandParentOf <https://w3id.org/zeri/data/person/GR_3> .
+

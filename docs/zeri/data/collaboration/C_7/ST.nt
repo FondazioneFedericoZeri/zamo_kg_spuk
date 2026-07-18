@@ -1,0 +1,2 @@
+<https://w3id.org/zeri/data/collaboration/C_7/ST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Collaboration> .
+<https://w3id.org/zeri/data/collaboration/C_7/ST> <https://w3id.org/zeri/ontology/zamo/agents#hasRole> <https://w3id.org/zeri/ontology/zamo/agents#art-historian-consultant> .

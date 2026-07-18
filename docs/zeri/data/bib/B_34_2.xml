@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_34_2">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Colombi, M, 2021-2022, Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari, tesi di Dottorato, Università di Milano</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/colombi-m"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2021</dcterms:date>
+    <dcterms:title xml:lang="it">Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GR_II"/>
+  </rdf:Description>
+</rdf:RDF>

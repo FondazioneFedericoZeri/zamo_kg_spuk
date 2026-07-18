@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/marano-v> a crm:E21_Person,
+        foaf:Person,
+        schema:Person,
+        agents:Person .
+

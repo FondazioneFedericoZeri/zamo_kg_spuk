@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/JA-TA",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Casa di vendite Jandolo&Tavazzi"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_30"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_25"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA-TA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA-TA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA-TA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA-TA_1"
+      }
+    ]
+  }
+]

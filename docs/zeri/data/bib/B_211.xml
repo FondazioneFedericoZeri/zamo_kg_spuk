@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_211">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>The man of the day., «The Paris Time», 5 P.M. Edition, 8 marzo 1927, Parigi.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">The man of the day.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GR"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_4"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_1"/>
+  </rdf:Description>
+</rdf:RDF>

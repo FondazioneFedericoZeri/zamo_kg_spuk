@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/BE_II">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">The Italian Art Gallery</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_7"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_5"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_4"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_2"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_1"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_81"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_18"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/BE_II_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_38/BE_II"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_20/BE_II"/>
+  </rdf:Description>
+</rdf:RDF>

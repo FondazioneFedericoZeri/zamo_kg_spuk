@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/SE_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?locale=it&decorator=layout_resp&apply=true&percorso_ricerca=OA&filtrolocalizzazione_OA=4531%7C3289&sortby=LOCALIZZAZIONE&batch=10"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Segre"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/SE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/SE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/SE_I_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_28_2",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Cecutti, D, 2013, Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento, Firenze, Maschietto Editore, pp. 82, 202-203, 238"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/cecutti-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2013"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_III"
+      }
+    ]
+  }
+]

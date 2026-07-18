@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_30> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Arezzo"@it ;
+    schema:addressRegion "Toscana"@it ;
+    schema:streetAddress "Corso Italia    14  BR_I 1967"@it .
+

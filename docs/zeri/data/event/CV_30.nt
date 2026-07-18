@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/event/CV_30> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/event/E_2> .
+<https://w3id.org/zeri/data/event/CV_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Purchase> .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/CA_I> .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_3> .
+<https://w3id.org/zeri/data/event/CV_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E96_Purchase> .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/CV_30> .
+<https://w3id.org/zeri/data/event/CV_30> <http://www.w3.org/2000/01/rdf-schema#comment> "Gli antiquari Canessa scoprirono nel 1895 il tesoro di Boscoreale, un servizio di argenteria di oltre 100 pezzi di epoca romana, che contribuirono ad esportare illegalmente cedendolo al barone Edmond De Rothschild. La collezione si conserva oggi al Museo del Louvre."@it .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#hasReceiver> <https://w3id.org/zeri/data/client/CL_29> .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_2> .
+<https://w3id.org/zeri/data/event/CV_30> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_1> .
+<https://w3id.org/zeri/data/event/CV_30> <http://www.w3.org/2000/01/rdf-schema#label> "Cessione del tesoro di Boscoreale al barone Edmond De Rothschild"@it .

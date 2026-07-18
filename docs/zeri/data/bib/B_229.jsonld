@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_229",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "23/10/2023, Intervista a Davide Sestieri., Roma"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Davide Sestieri."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_1"
+      }
+    ]
+  }
+]

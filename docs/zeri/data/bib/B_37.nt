@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_37> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_II> .
+<https://w3id.org/zeri/data/bib/B_37> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/de-callata-f> .
+<https://w3id.org/zeri/data/bib/B_37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_37> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_II_1> .
+<https://w3id.org/zeri/data/bib/B_37> <http://purl.org/dc/terms/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_37> <http://purl.org/dc/terms/title> "Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting."@it .
+<https://w3id.org/zeri/data/bib/B_37> <http://purl.org/dc/terms/bibliographicCitation> "De Callataÿ, F, 2016., Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting., In «Anabases», XXIII,, pp. 47-73." .

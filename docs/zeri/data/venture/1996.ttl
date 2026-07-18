@@ -1,0 +1,5 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/venture/1996> a agents:FamiliarVenture ;
+    agents:isCarriedOutBy <https://w3id.org/zeri/data/org/1996> .
+

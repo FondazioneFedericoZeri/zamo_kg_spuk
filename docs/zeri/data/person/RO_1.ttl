@@ -1,0 +1,18 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/person/RO_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/> ;
+    schema:birthDate "1875"^^xsd:gYear ;
+    schema:deathDate "1955"^^xsd:gYear ;
+    schema:familyName "Romano"@it ;
+    schema:givenName "Salvatore"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_68>,
+        <https://w3id.org/zeri/data/location/IT_75_a> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/RO_1> .
+

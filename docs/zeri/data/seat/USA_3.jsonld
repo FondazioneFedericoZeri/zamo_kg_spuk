@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/USA_3",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Amedeo Canessa, \"C. & E. Canessa\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1906"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveTo": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1914"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/USA_3"
+      }
+    ]
+  }
+]

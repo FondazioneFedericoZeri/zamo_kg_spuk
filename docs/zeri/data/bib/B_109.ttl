@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_109> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Pini, S, 2011., Salvatore Romano, dai segreti del Palazzo Magnani Feroni a Santo Spirito., In Mannini,, pp. 148-156." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/pini-s> ;
+    dcterms:date "2011"^^xsd:gYear ;
+    dcterms:title "Salvatore Romano, dai segreti del Palazzo Magnani Feroni a Santo Spirito."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+

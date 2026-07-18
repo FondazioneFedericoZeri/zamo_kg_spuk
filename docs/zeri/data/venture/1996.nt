@@ -1,0 +1,2 @@
+<https://w3id.org/zeri/data/venture/1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture> .
+<https://w3id.org/zeri/data/venture/1996> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/org/1996> .

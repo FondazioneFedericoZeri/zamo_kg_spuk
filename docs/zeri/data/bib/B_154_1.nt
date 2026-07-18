@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_154_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/zaru-c> .
+<https://w3id.org/zeri/data/bib/B_154_1> <http://purl.org/dc/terms/bibliographicCitation> "Zaru, C, 2022, L'affare Ventura: antiquari e collaborazionisti intorno alla seconda guerra mondiale. Una ricerca ispirata ai documenti dell’Archivio Siviero, in «Contesti d'arte», anno 2, numero 2, pp. 179-199" .
+<https://w3id.org/zeri/data/bib/B_154_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VE> .
+<https://w3id.org/zeri/data/bib/B_154_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_154_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_154_1> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_154_1> <http://purl.org/dc/terms/title> "L'affare Ventura: antiquari e collaborazionisti intorno alla seconda guerra mondiale. Una ricerca ispirata ai documenti dell’Archivio Siviero"@it .

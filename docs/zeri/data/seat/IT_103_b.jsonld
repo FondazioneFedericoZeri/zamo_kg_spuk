@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_103_b",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "data di apertura/chiusura incerta"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Emanuele Efrati e Giuseppe Antonacci, \"Antonacci-Efrati\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1955"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveTo": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1998"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_103_b"
+      }
+    ]
+  }
+]

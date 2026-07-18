@@ -1,0 +1,5 @@
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+
+<https://w3id.org/zeri/data/lot/E_12> a events:Lot ;
+    events:consistsOf <https://w3id.org/zeri/data/collection/collezione-e-villa> .
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_87">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Martini Stelio, M, 1966., Antiquari a Roma., In «Capitolivm», XLI,, pp. 224-235.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/martini-stelio-m"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1966</dcterms:date>
+    <dcterms:title xml:lang="it">Antiquari a Roma.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/SE_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SE_II_6"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SE_II_5"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SE_II_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SE_II_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SE_II_1"/>
+  </rdf:Description>
+</rdf:RDF>

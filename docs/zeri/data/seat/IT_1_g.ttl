@@ -1,0 +1,7 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/seat/IT_1_g> a agents:Seat ;
+    schema:name "Antonio Salvadori"@it ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_1_g> .
+

@@ -1,0 +1,43 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_21",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Event",
+      "http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence": [
+      {
+        "@id": "https://w3id.org/zeri/data/initiative/biaf"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "La famiglia di antiquari Bellini ideò la Mostra Nazionale di Antiquariato, che nel 1959 divenne la Biennale Internazionale di Antiquariato."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Inaugurazione della Biennale Internazionale di Antiquariato"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1959"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasParticipant": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_3"
+      }
+    ]
+  }
+]

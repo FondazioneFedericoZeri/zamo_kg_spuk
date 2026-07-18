@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_153",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Zaninelli, F, 2023., Some Remarks on Wilhelm BOde and the Art Market in Italy, 1880-1909: The Cases of Pietro Foresti (1854-1926) and A. Chiesa., In Smalcerz,, pp. 151-205."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/zaninelli-f"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Some Remarks on Wilhelm BOde and the Art Market in Italy, 1880-1909: The Cases of Pietro Foresti (1854-1926) and A. Chiesa."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/FO"
+      }
+    ]
+  }
+]

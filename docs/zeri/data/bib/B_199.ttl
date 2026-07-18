@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_199> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Raimondo Orselli., In «L'Antiquario», XVII, 1, 1930,, p. 10." ;
+    dcterms:title "Raimondo Orselli."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/OR_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/OR> .
+

@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Una prima importante vendita della collezione Simonetti fu venduta dallo stesso Attilio Simonetti nel 1883 nella casa d'aste di Roma."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - Collezione Simonetti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1883"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/SI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/SI_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_1"
+      }
+    ]
+  }
+]

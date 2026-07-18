@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_192> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Italian furniture of the Renaissance, rare Majolica, brocades, velvets, Renaissance bronzes, sculptures, stone and terra cotta groups, Primitive and Renaissance paintings, the collection of Achille De Clemente, Florence, Italy, sold by his order, catalogo della vendita all'asta American Art Association (New York, 15-17 gennaio 1931)., New York, 1931." ;
+    dcterms:title "Italian furniture of the Renaissance, rare Majolica, brocades, velvets, Renaissance bronzes, sculptures, stone and terra cotta groups, Primitive and Renaissance paintings, the collection of Achille De Clemente, Florence, Italy, sold by his order, catalogo della vendita all'asta American Art Association (New York, 15-17 gennaio 1931)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/DE_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/DE> .
+

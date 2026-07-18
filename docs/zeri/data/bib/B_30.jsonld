@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_30",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Coen P, 2020., Il dibattito arte-industria, fra aspirazioni museologiche e casi concreti., In Coen,, pp. 51-94."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/coen-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il dibattito arte-industria, fra aspirazioni museologiche e casi concreti."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_II_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/GR> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Ognissanti"@it,
+        "Luigi Grassi & sons"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_135_d>,
+        <https://w3id.org/zeri/data/seat/IT_52_b>,
+        <https://w3id.org/zeri/data/seat/IT_53>,
+        <https://w3id.org/zeri/data/seat/IT_73>,
+        <https://w3id.org/zeri/data/seat/IT_88> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_13>,
+        <https://w3id.org/zeri/data/collaboration/R_22> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/GR_1>,
+        <https://w3id.org/zeri/data/main-collaboration/GR_2>,
+        <https://w3id.org/zeri/data/main-collaboration/GR_3>,
+        <https://w3id.org/zeri/data/main-collaboration/GR_4> .
+

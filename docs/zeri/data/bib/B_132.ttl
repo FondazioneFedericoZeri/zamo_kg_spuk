@@ -1,0 +1,17 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_132> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Tolosani, D, 1924., Luigi Grassi., In «L'Antiquario. Rivista indipendente», XI, 3,, pp. 81-86." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/tolosani-d> ;
+    dcterms:date "1924"^^xsd:gYear ;
+    dcterms:title "Luigi Grassi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+

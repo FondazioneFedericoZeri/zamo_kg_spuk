@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_84> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_84> <https://schema.org/name> "Leonardo Lapiccirella, \"Galleria Lapiccirella\""@it .
+<https://w3id.org/zeri/data/seat/IT_84> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_84> .
+<https://w3id.org/zeri/data/seat/IT_84> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1978"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .

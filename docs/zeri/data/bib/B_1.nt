@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_I_1> .
+<https://w3id.org/zeri/data/bib/B_1> <http://purl.org/dc/terms/bibliographicCitation> "Agosti, G, 2008., Altri quaranta dipinti antichi della Collezione Saibene., Verona, Valdonega." .
+<https://w3id.org/zeri/data/bib/B_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_I_2> .
+<https://w3id.org/zeri/data/bib/B_1> <http://purl.org/dc/terms/date> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/agosti-g> .
+<https://w3id.org/zeri/data/bib/B_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_I> .
+<https://w3id.org/zeri/data/bib/B_1> <http://purl.org/dc/terms/title> "Altri quaranta dipinti antichi della Collezione Saibene."@it .

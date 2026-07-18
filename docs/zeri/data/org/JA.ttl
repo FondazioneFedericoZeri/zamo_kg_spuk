@@ -1,0 +1,24 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/JA> a agents:ArtDealerOrganization ;
+    schema:name "Galleria d'Arte Ettore Jandolo"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_105>,
+        <https://w3id.org/zeri/data/seat/IT_106>,
+        <https://w3id.org/zeri/data/seat/IT_109>,
+        <https://w3id.org/zeri/data/seat/IT_115>,
+        <https://w3id.org/zeri/data/seat/IT_116>,
+        <https://w3id.org/zeri/data/seat/IT_116_b>,
+        <https://w3id.org/zeri/data/seat/IT_128>,
+        <https://w3id.org/zeri/data/seat/IT_135_b> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_25>,
+        <https://w3id.org/zeri/data/collaboration/R_29>,
+        <https://w3id.org/zeri/data/collaboration/R_46> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/JA_1>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_2>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_3>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_4>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_5>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_6>,
+        <https://w3id.org/zeri/data/main-collaboration/JA_7> .
+

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_189",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919)., New York 1919."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

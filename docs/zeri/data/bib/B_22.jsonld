@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_22",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Caneva, C; Colle, E; Paolucci, A; Papi, A; Galleria degli Uffizi, 2018., La collezione Contini Bonacossi nelle Gallerie degli Uffizi., Milano, Giunti."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/papi-a"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/paolucci-a"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/galleria-degli-uffizi"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/colle-e"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/caneva-c"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "La collezione Contini Bonacossi nelle Gallerie degli Uffizi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_I_1"
+      }
+    ]
+  }
+]

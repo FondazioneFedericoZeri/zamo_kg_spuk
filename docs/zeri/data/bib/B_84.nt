@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_84> <http://purl.org/dc/terms/title> "Matteo Marangoni : Carteggi (1990-1958)."@it .
+<https://w3id.org/zeri/data/bib/B_84> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/barreca-l> .
+<https://w3id.org/zeri/data/bib/B_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_84> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_II_1> .
+<https://w3id.org/zeri/data/bib/B_84> <http://purl.org/dc/terms/bibliographicCitation> "Marangoni, M; Barreca, L, 2006., Matteo Marangoni : Carteggi (1990-1958)., Palermo, Editrice Mediterranea." .
+<https://w3id.org/zeri/data/bib/B_84> <http://purl.org/dc/terms/date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_84> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_II> .
+<https://w3id.org/zeri/data/bib/B_84> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/marangoni-m> .

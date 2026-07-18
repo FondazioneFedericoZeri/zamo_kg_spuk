@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_74_b> a agents:Seat ;
+    schema:name "Giuliano Freschi"@it ;
+    agents:isActiveFrom "1972"^^xsd:gYear ;
+    agents:isActiveTo "1990"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_74_b> .
+

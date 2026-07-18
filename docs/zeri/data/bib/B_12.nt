@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_12> <http://purl.org/dc/terms/date> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_12> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GA_1> .
+<https://w3id.org/zeri/data/bib/B_12> <http://purl.org/dc/terms/bibliographicCitation> "Bellania, S, 2015., Duse e Novelli nelle Glosse Zum Wiener Theater (1903-196) di Herman Bahr., In «Acting Archives Review», V, 10,, pp. 68-84." .
+<https://w3id.org/zeri/data/bib/B_12> <http://purl.org/dc/terms/title> "Duse e Novelli nelle Glosse Zum Wiener Theater (1903-196) di Herman Bahr."@it .
+<https://w3id.org/zeri/data/bib/B_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_12> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GA> .
+<https://w3id.org/zeri/data/bib/B_12> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bellania-s> .

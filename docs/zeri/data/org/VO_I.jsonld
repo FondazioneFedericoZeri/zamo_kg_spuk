@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/VO_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria di Palazzo Davanzati"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Elia Volpi"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_82"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_38"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_10"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/VO_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_7/VO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_12/VO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_1/VO_I"
+      }
+    ]
+  }
+]

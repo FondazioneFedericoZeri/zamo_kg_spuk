@@ -1,0 +1,76 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/DI",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Alessandra Di Castro antichità"
+      },
+      {
+        "@language": "it",
+        "@value": "Antichità A.L. Di Castro"
+      },
+      {
+        "@language": "it",
+        "@value": "Antichità Alberto Di Castro"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_104"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_107"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_92"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_98"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_32"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_16/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_18/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_5/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/DI_2"
+      }
+    ]
+  }
+]

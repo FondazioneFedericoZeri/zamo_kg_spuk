@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/ME">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_86"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_75_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_71_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_57_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_52_d"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_48"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_46"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_44_a"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_41"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_40"/>
+  </rdf:Description>
+</rdf:RDF>

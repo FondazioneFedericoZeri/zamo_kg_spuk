@@ -1,0 +1,10 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/CO_III_1",
+    "https://w3id.org/zeri/ontology/zamo/extended#isUncleOrAuntOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/GR_1"
+      }
+    ]
+  }
+]

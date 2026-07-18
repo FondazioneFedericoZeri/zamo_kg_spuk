@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_41> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Diebner, S; Rossini, O, 2024., Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925., Roma, Gangemini Editore spa." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/diebner-s>,
+        <https://w3id.org/zeri/data/person/rossini-o> ;
+    dcterms:date "2024"^^xsd:gYear ;
+    dcterms:title "Lettere di Ludwig Pollak a Wilhelm Froehneer : 1903-1925."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/FE_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/FE> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/person/C_66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://w3id.org/zeri/data/person/C_66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/C_66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/C_66> <https://schema.org/familyName> "Von Bode"@it .
+<https://w3id.org/zeri/data/person/C_66> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_66/BA_III> .
+<https://w3id.org/zeri/data/person/C_66> <https://schema.org/givenName> "Wilhelm"@it .
+<https://w3id.org/zeri/data/person/C_66> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_66/BA_IV> .

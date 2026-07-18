@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_23",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Foundation",
+      "http://www.cidoc-crm.org/cidoc-crm/E66_Formation"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by": [
+      {
+        "@id": "https://w3id.org/zeri/data/cessation/AC"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Negli spazi della \"Galleria Accorsi\" di via Po' venne istitutita nel 1975 la Fondazione Accorsi-Ometto, oggi sede del museo di Arti Decorative, che accoglie, oltre alla collezione Accorsi, anche parte degli oggetti raccolti da un suo collaboratore, Giulio Ometto (1942-2019)."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Inaugurazione Fondazione Accorsi-Ometto"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/fondazione-accorsi-ometto"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1975"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasParticipant": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/C_44"
+      }
+    ]
+  }
+]

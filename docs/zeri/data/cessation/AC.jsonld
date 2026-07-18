@@ -1,0 +1,14 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/cessation/AC",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#CessationOfActivity",
+      "http://www.cidoc-crm.org/cidoc-crm/E68_Dissolution"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasClosedOrganization": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/AC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/UK_7> a schema:PostalAddress ;
+    schema:addressCountry "Regno Unito"@it ;
+    schema:addressLocality "Londra"@it ;
+    schema:addressRegion "Regno Unito"@it ;
+    schema:streetAddress "Savile Row 32"@it .
+

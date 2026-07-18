@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_184> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Deluxe illustrated catalogue of the furniture and works of art from the castle formerly occupied by the savoy family in verzuolo (piedmont) italy : and other valuable artistic property recently selected abroad by the connoisseur chevalier raoul tolentino, catalogo della vendita all'asta America Art Association (New York,  16-18 febbraio 1922)., New York, 1922." ;
+    dcterms:title "Deluxe illustrated catalogue of the furniture and works of art from the castle formerly occupied by the savoy family in verzuolo (piedmont) italy : and other valuable artistic property recently selected abroad by the connoisseur chevalier raoul tolentino, catalogo della vendita all'asta America Art Association (New York,  16-18 febbraio 1922)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/TO_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+

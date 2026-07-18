@@ -1,0 +1,5 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/collaboration/C_20/CO_I> a agents:Collaboration ;
+    agents:hasRole agents:art-historian-consultant .
+

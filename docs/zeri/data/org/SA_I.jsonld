@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Salocchi"
+      },
+      {
+        "@language": "it",
+        "@value": "Antiquaria Salocchi e Freschi"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_59"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_45"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_34"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_28"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_8"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_33/SA_I"
+      }
+    ]
+  }
+]

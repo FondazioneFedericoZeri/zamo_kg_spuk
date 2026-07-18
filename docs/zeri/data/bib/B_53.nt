@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/bib/B_53> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/ST_1> .
+<https://w3id.org/zeri/data/bib/B_53> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/giannini-c> .
+<https://w3id.org/zeri/data/bib/B_53> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_III> .
+<https://w3id.org/zeri/data/bib/B_53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_53> <http://purl.org/dc/terms/bibliographicCitation> "Giannini, C, 2011., Attilio Steffanoni, restauratore e antiquario. Un diario inedito, in (2011) Francesco Malagusgi Valeri (1867- 1928). Tra storiografia artistica, museo e tutela, Atti del convegno (Milano-Bologna, 20-21 ottobre 2011), a cura di Sciolla, G.C., Rovetta, A., Milano, Segrate,, pp. 205-216." .
+<https://w3id.org/zeri/data/bib/B_53> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/ST> .
+<https://w3id.org/zeri/data/bib/B_53> <http://purl.org/dc/terms/title> "Attilio Steffanoni, restauratore e antiquario. Un diario inedito, in (2011) Francesco Malagusgi Valeri (1867- 1928). Tra storiografia artistica, museo e tutela, Atti del convegno (Milano-Bologna, 20-21 ottobre 2011), a cura di Sciolla, G.C., Rovetta, A."@it .
+<https://w3id.org/zeri/data/bib/B_53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_53> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_2> .
+<https://w3id.org/zeri/data/bib/B_53> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_1> .
+<https://w3id.org/zeri/data/bib/B_53> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .

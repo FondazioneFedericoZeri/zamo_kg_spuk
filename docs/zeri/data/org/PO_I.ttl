@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/PO_I> a agents:ArtDealerOrganization ;
+    schema:name "Cav. Prof. Publio Podio & C."@it,
+        "Galleria fratelli Podio Antichità"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_23>,
+        <https://w3id.org/zeri/data/seat/IT_26>,
+        <https://w3id.org/zeri/data/seat/IT_27> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_19>,
+        <https://w3id.org/zeri/data/collaboration/R_51> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/PO_I_1>,
+        <https://w3id.org/zeri/data/main-collaboration/PO_I_2>,
+        <https://w3id.org/zeri/data/main-collaboration/PO_I_3>,
+        <https://w3id.org/zeri/data/main-collaboration/PO_I_4> .
+

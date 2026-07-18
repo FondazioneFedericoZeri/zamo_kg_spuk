@@ -1,0 +1,60 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_11> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Batini, G, 1961., L'antiquario., Firenze, Vallecchi." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/batini-g> ;
+    dcterms:date "1961"^^xsd:gYear ;
+    dcterms:title "L'antiquario."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/AN-EF_1>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_2>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_3>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_4>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_5>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/BO_1>,
+        <https://w3id.org/zeri/data/reconstruction/BR_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/BR_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/BR_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/BR_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/CR_1>,
+        <https://w3id.org/zeri/data/reconstruction/DI_1>,
+        <https://w3id.org/zeri/data/reconstruction/DI_2>,
+        <https://w3id.org/zeri/data/reconstruction/DI_3>,
+        <https://w3id.org/zeri/data/reconstruction/DI_4>,
+        <https://w3id.org/zeri/data/reconstruction/DI_5>,
+        <https://w3id.org/zeri/data/reconstruction/DI_6>,
+        <https://w3id.org/zeri/data/reconstruction/GI_1>,
+        <https://w3id.org/zeri/data/reconstruction/LA_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/LA_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/NI_1>,
+        <https://w3id.org/zeri/data/reconstruction/OR_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/SA_IV_1>,
+        <https://w3id.org/zeri/data/reconstruction/SA_IV_2>,
+        <https://w3id.org/zeri/data/reconstruction/SA_IV_3>,
+        <https://w3id.org/zeri/data/reconstruction/SA_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/SA_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/AN-EF>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BO>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BR_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BR_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/DI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/LA_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/NI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/OR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_IV> .
+

@@ -1,0 +1,14 @@
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_IV_2> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://schema.org/name> "Galleria dei bronzi e dei marmi, negozio di arte antica e moderna"@it .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_50/SA_IV> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_124> .
+<https://w3id.org/zeri/data/org/SA_IV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_IV_3> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_39/SA_IV> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://schema.org/name> "Hotel Des Ventes G. Sangiorgi"@it .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_63/SA_IV> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_IV_1> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_123> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_9> .
+<https://w3id.org/zeri/data/org/SA_IV> <https://schema.org/name> "Galleria Sangiorgi - Roma Palazzo Borghese"@it .
+<https://w3id.org/zeri/data/org/SA_IV> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_42> .

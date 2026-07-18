@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/AP",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "W. Apolloni"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_117"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_114"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_108"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_8"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AP_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AP_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AP_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_51/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_11/AP"
+      }
+    ]
+  }
+]

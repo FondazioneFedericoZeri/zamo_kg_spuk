@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/DI">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Alessandra Di Castro antichità</schema:name>
+    <schema:name xml:lang="it">Antichità A.L. Di Castro</schema:name>
+    <schema:name xml:lang="it">Antichità Alberto Di Castro</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_104"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_107"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_92"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_98"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_6"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_32"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_6"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_5"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_4"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_3"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_16/DI"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_18/DI"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_30/DI"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_5/DI"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/DI_2"/>
+  </rdf:Description>
+</rdf:RDF>

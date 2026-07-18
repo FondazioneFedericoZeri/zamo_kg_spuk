@@ -1,0 +1,15 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_21> a crm:E63_Beginning_of_Existence,
+        events:Event ;
+    rdfs:label "Inaugurazione della Biennale Internazionale di Antiquariato"@it ;
+    crm:P92_brought_into_existence <https://w3id.org/zeri/data/initiative/biaf> ;
+    rdfs:comment "La famiglia di antiquari Bellini ideò la Mostra Nazionale di Antiquariato, che nel 1959 divenne la Biennale Internazionale di Antiquariato."@it ;
+    events:hasDate "1959"^^xsd:gYear ;
+    events:hasParticipant <https://w3id.org/zeri/data/org/BE_I>,
+        <https://w3id.org/zeri/data/person/BE_I_3>,
+        <https://w3id.org/zeri/data/person/BE_I_4> .
+

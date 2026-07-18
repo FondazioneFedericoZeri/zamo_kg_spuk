@@ -1,0 +1,9 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/org/PA_I> a agents:ArtDealerOrganization ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_11>,
+        <https://w3id.org/zeri/data/seat/IT_13>,
+        <https://w3id.org/zeri/data/seat/IT_19> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_27> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/PA_I_1> .
+

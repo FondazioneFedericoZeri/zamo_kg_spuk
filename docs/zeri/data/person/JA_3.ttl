@@ -1,0 +1,20 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/person/JA_3> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    crm:P152_has_parent <https://w3id.org/zeri/data/person/JA_1> ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Jandolo> ;
+    schema:deathDate "1912"^^xsd:gYear ;
+    schema:familyName "Jandolo"@it ;
+    schema:givenName "Antonio"@it ;
+    schema:sibling <https://w3id.org/zeri/data/person/JA_4> ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_105>,
+        <https://w3id.org/zeri/data/location/IT_109>,
+        <https://w3id.org/zeri/data/location/IT_128> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/JA_3> .
+

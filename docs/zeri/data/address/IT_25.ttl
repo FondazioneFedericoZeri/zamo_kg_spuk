@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_25> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Bologna"@it ;
+    schema:addressRegion "Emilia-Romagna"@it ;
+    schema:streetAddress "Via del Monte, Ghetto Ebraico 8"@it .
+

@@ -1,0 +1,58 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/LA_I_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=lapiccirella"
+      }
+    ],
+    "https://schema.org/birthDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1927"
+      }
+    ],
+    "https://schema.org/deathDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2022"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Lapicirella"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Leonardo"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_84"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_77"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_50"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_36"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/LA_I_1"
+      }
+    ]
+  }
+]

@@ -7,7 +7,7 @@ rm -rf docs
 mkdir docs
 
 cp static/style.css docs/
-cp static/img/ -r docs/
+cp -r static/img/ docs/ #updated for mac
 
 echo "🏗️  Generating static site from RDF..."
 python3 main.py

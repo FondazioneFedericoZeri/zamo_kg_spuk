@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_22> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Caneva, C; Colle, E; Paolucci, A; Papi, A; Galleria degli Uffizi, 2018., La collezione Contini Bonacossi nelle Gallerie degli Uffizi., Milano, Giunti." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/caneva-c>,
+        <https://w3id.org/zeri/data/person/colle-e>,
+        <https://w3id.org/zeri/data/person/galleria-degli-uffizi>,
+        <https://w3id.org/zeri/data/person/paolucci-a>,
+        <https://w3id.org/zeri/data/person/papi-a> ;
+    dcterms:date "2018"^^xsd:gYear ;
+    dcterms:title "La collezione Contini Bonacossi nelle Gallerie degli Uffizi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+

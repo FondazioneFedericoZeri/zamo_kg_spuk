@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_191> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Italian Count marries American society woman., In «The New York Herald», 20 settembre 1922,, p. 1." ;
+    dcterms:title "Italian Count marries American society woman."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+

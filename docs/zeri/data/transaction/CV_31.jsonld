@@ -1,0 +1,21 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/transaction/CV_31",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Transaction"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasReceiver": [
+      {
+        "@id": "https://w3id.org/zeri/data/client/CL_30"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/PA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/PA_II_1"
+      }
+    ]
+  }
+]

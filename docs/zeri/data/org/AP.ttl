@@ -1,0 +1,20 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/AP> a agents:ArtDealerOrganization ;
+    schema:name "W. Apolloni"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_108>,
+        <https://w3id.org/zeri/data/seat/IT_114>,
+        <https://w3id.org/zeri/data/seat/IT_117> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_1>,
+        <https://w3id.org/zeri/data/collaboration/R_5>,
+        <https://w3id.org/zeri/data/collaboration/R_6>,
+        <https://w3id.org/zeri/data/collaboration/R_7>,
+        <https://w3id.org/zeri/data/collaboration/R_8> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_11/AP>,
+        <https://w3id.org/zeri/data/collaboration/C_30/AP>,
+        <https://w3id.org/zeri/data/collaboration/C_51/AP>,
+        <https://w3id.org/zeri/data/main-collaboration/AP_1>,
+        <https://w3id.org/zeri/data/main-collaboration/AP_2>,
+        <https://w3id.org/zeri/data/main-collaboration/AP_3> .
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/AN-EF_4">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/home/it"/>
+    <crm:P152_has_parent rdf:resource="https://w3id.org/zeri/data/person/AN-EF_3"/>
+    <schema:familyName xml:lang="it">Antonacci-Efrati</schema:familyName>
+    <schema:givenName xml:lang="it">Paolo Antonacci</schema:givenName>
+    <schema:sibling rdf:resource="https://w3id.org/zeri/data/person/AN-EF_5"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_103"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/AN-EF_4"/>
+  </rdf:Description>
+</rdf:RDF>

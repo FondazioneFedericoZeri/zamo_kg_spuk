@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_211> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_2> .
+<https://w3id.org/zeri/data/bib/B_211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_211> <http://purl.org/dc/terms/title> "The man of the day."@it .
+<https://w3id.org/zeri/data/bib/B_211> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_4> .
+<https://w3id.org/zeri/data/bib/B_211> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_3> .
+<https://w3id.org/zeri/data/bib/B_211> <http://purl.org/dc/terms/bibliographicCitation> "The man of the day., «The Paris Time», 5 P.M. Edition, 8 marzo 1927, Parigi." .
+<https://w3id.org/zeri/data/bib/B_211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_211> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+<https://w3id.org/zeri/data/bib/B_211> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_1> .

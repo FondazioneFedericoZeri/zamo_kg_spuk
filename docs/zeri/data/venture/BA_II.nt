@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/venture/BA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/Ba_II_2> .
+<https://w3id.org/zeri/data/venture/BA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/Ba_II_3> .
+<https://w3id.org/zeri/data/venture/BA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/org/BA_II> .
+<https://w3id.org/zeri/data/venture/BA_II> <https://schema.org/name> "Bardini"@it .
+<https://w3id.org/zeri/data/venture/BA_II> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?view=list&batch=10&sortby=LOCALIZZAZIONE&page=3&decorator=layout_resp&apply=true&percorso_ricerca=OA&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=S.+Bardini> .
+<https://w3id.org/zeri/data/venture/BA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/Ba_II_1> .
+<https://w3id.org/zeri/data/venture/BA_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture> .

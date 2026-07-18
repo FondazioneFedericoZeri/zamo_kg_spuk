@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_144",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Tolosani, D, 1926., Galleria Bellini., In «L'Antiquario», XIII,2,, pp. 53-54."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/tolosani-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1926"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Galleria Bellini."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_1"
+      }
+    ]
+  }
+]

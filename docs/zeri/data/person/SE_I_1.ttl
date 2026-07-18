@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/SE_I_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?locale=it&decorator=layout_resp&apply=true&percorso_ricerca=OA&filtrolocalizzazione_OA=4531%7C3289&sortby=LOCALIZZAZIONE&batch=10> ;
+    schema:familyName "Segre"@it ;
+    schema:givenName "Emanuele"@it ;
+    schema:sibling <https://w3id.org/zeri/data/person/SE_I_2> ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_96> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/SE_I_1> .
+

@@ -1,0 +1,17 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
+
+<https://w3id.org/zeri/data/person/BR_II_3> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=L.+bruschi> ;
+    schema:familyName "Bruschi_L"@it ;
+    schema:givenName "Anita Almehagen"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_60> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/BR_II_3> ;
+    zamo_ext:isInLawOf <https://w3id.org/zeri/data/person/BR_II_1>,
+        <https://w3id.org/zeri/data/person/BR_II_2> .
+

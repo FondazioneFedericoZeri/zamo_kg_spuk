@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/RU",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Studio d'Arte"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_17"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_15"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_13"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_27"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/RU_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_17/RU"
+      }
+    ]
+  }
+]

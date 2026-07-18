@@ -1,0 +1,21 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/CA_III",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_4_i"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_4_h"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_52"
+      }
+    ]
+  }
+]

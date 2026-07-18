@@ -1,0 +1,4 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/collaboration/R_7> a agents:Collaboration .
+

@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_77> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Lorizzo, L, 2015., Un falso Rinascimento?: 2. il barone Michele Lazzaroni e la scultura., In «Studiolo», 11, 2014,, pp. 108-119, 301-302." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/lorizzo-l> ;
+    dcterms:date "2015"^^xsd:gYear ;
+    dcterms:title "Un falso Rinascimento?: 2. il barone Michele Lazzaroni e la scultura."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/LA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+

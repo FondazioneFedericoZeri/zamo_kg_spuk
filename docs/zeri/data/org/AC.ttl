@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/AC> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Accorsi"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_9> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_1>,
+        <https://w3id.org/zeri/data/collaboration/R_2>,
+        <https://w3id.org/zeri/data/collaboration/R_3>,
+        <https://w3id.org/zeri/data/collaboration/R_31>,
+        <https://w3id.org/zeri/data/collaboration/R_4>,
+        <https://w3id.org/zeri/data/collaboration/R_43> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_44/AC>,
+        <https://w3id.org/zeri/data/main-collaboration/AC_1> .
+

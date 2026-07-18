@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/TA">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Filippo Tavazzi antichità</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_106"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_93"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_111"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_100"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_30"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_29"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/TA_1"/>
+  </rdf:Description>
+</rdf:RDF>

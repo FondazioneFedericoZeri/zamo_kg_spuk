@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_201",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Rare italian art in Tolentino sale., In «American Art News», 11 novembre 1922, 21, 5,, p. 4."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Rare italian art in Tolentino sale."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

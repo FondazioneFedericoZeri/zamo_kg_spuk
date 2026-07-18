@@ -1,0 +1,2 @@
+<https://w3id.org/zeri/data/lot/E_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Lot> .
+<https://w3id.org/zeri/data/lot/E_3> <https://w3id.org/zeri/ontology/zamo/events#consistsOf> <https://w3id.org/zeri/data/collection/argenti-cacace> .

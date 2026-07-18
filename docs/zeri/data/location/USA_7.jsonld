@@ -1,0 +1,14 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/location/USA_7",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Location",
+      "https://schema.org/Place"
+    ],
+    "https://schema.org/address": [
+      {
+        "@id": "https://w3id.org/zeri/data/address/USA_7"
+      }
+    ]
+  }
+]

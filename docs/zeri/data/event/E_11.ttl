@@ -1,0 +1,15 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_11> a crm:E96_Purchase,
+        events:Purchase ;
+    rdfs:label "Vendita all'asta - Collezione E. Volpi"@it ;
+    rdfs:comment "Un'ulteriore vendita all'asta della collezione di Elia Volpi c'è stata negli Stati Uniti nel 1916 per conto di Raoul Tolentino presso l'American Art Association di New York."@it ;
+    events:hasDate "1916"^^xsd:gYear ;
+    events:hasFacilitator <https://w3id.org/zeri/data/person/TO_1> ;
+    events:hasSurrender <https://w3id.org/zeri/data/org/VO_I>,
+        <https://w3id.org/zeri/data/person/VO_I_1> ;
+    events:transfersPropertyOf <https://w3id.org/zeri/data/lot/E_11> .
+

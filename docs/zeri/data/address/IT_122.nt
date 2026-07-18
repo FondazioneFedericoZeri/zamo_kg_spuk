@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/IT_122> <https://schema.org/streetAddress> "Via Porta Pinciana 32"@it .
+<https://w3id.org/zeri/data/address/IT_122> <https://schema.org/addressRegion> "Lazio"@it .
+<https://w3id.org/zeri/data/address/IT_122> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/IT_122> <https://schema.org/addressLocality> "Roma"@it .

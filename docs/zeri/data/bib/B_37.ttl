@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_37> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "De Callataÿ, F, 2016., Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting., In «Anabases», XXIII,, pp. 47-73." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/de-callata-f> ;
+    dcterms:date "2016"^^xsd:gYear ;
+    dcterms:title "Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/CA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CA_II> .
+

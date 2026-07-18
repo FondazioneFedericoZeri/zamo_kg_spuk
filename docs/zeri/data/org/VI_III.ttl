@@ -1,0 +1,9 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/VI_III> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Permanente d’Arte Antica e Moderna A. Vitelli"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_20>,
+        <https://w3id.org/zeri/data/seat/IT_21> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/VI_III_1> .
+

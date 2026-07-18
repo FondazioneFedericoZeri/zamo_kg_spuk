@@ -1,0 +1,15 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/initiative/biaf",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Initiative",
+      "http://www.cidoc-crm.org/cidoc-crm/E77_Persistent_Item"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Biennale Internazionale di Antiquariato"
+      }
+    ]
+  }
+]

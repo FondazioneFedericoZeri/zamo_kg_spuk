@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/GA_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/> ;
+    schema:familyName "Galliani"@it ;
+    schema:givenName "Antonio"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_28> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/GA_1> .
+

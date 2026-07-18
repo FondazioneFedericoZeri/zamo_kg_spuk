@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_39",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Del Giorgio, L, 2021-2022., Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo., Università degli Studi di Firenze."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/del-giorgio-l"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2021"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CI_1"
+      }
+    ]
+  }
+]

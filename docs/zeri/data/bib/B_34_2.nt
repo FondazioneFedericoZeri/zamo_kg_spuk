@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_34_2> <http://purl.org/dc/terms/bibliographicCitation> "Colombi, M, 2021-2022, Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari, tesi di Dottorato, Università di Milano" .
+<https://w3id.org/zeri/data/bib/B_34_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_34_2> <http://purl.org/dc/terms/title> "Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari"@it .
+<https://w3id.org/zeri/data/bib/B_34_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+<https://w3id.org/zeri/data/bib/B_34_2> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_34_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_34_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/colombi-m> .

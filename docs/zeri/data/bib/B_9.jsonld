@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_9",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Barsanti, A; Pollak, L, 1922., Raccolta Alfredo Barsanti : bronzi italiani (Trecento - Settecento)., Roma, Istituto italiano d’arti grafiche."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/barsanti-a"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/pollak-l"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1922"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Raccolta Alfredo Barsanti : bronzi italiani (Trecento - Settecento)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_III_1"
+      }
+    ]
+  }
+]

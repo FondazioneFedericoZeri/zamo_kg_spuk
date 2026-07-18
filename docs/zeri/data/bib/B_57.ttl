@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_57> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Glaros, M, 2012., Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II., PhD diss., University of Western Sidney,, pp.  337-342." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/glaros-m> ;
+    dcterms:date "2012"^^xsd:gYear ;
+    dcterms:title "Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_4>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
+

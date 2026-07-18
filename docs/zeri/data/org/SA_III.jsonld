@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SA_III",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Impresa di vendita in Italia Giulio Sambon"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_80"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_138"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_110"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_101"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_52"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_16"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_49"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_III_1"
+      }
+    ]
+  }
+]

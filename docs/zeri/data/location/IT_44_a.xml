@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/location/IT_44_a">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Location"/>
+    <rdf:type rdf:resource="https://schema.org/Place"/>
+    <schema:address rdf:resource="https://w3id.org/zeri/data/address/IT_44_a"/>
+  </rdf:Description>
+</rdf:RDF>

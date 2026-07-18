@@ -1,0 +1,4 @@
+@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
+
+<https://w3id.org/zeri/data/person/CO_III_1> zamo_ext:isUncleOrAuntOf <https://w3id.org/zeri/data/person/GR_1> .
+

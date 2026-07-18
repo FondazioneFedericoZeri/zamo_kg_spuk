@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_226",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "6/6/2023, Intervista Emanuela Sestieri., Roma"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista Emanuela Sestieri."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_1"
+      }
+    ]
+  }
+]

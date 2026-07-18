@@ -1,0 +1,5 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/main-collaboration/AN-EF_3> a agents:Collaboration ;
+    agents:hasRole agents:managing-director .
+

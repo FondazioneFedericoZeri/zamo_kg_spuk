@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_3> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Milano"@it ;
+    schema:addressRegion "Lombardia"@it ;
+    schema:streetAddress "Via Monte Napoleone 11"@it .
+

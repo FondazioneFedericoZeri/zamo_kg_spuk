@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/LA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Lapiccirella"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_87_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_84"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_77"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_51"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_50"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_36"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_26"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/LA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/LA_I_1"
+      }
+    ]
+  }
+]

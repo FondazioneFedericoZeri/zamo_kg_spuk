@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_13">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/events#Purchase"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"/>
+    <rdfs:comment xml:lang="it">Nel 1924 presso l'American Art Association di New York venne effettuata la vendita della collezione Paolini.</rdfs:comment>
+    <rdfs:label xml:lang="it">Vendita all'asta - collezione P. Paolini</rdfs:label>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1924</events:hasDate>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/org/PA_II"/>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/person/PA_II_1"/>
+    <events:transfersPropertyOf rdf:resource="https://w3id.org/zeri/data/lot/E_13"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/CR_1">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/"/>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1897</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1979</schema:deathDate>
+    <schema:familyName xml:lang="it">Crosa</schema:familyName>
+    <schema:givenName xml:lang="it">Severino</schema:givenName>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_18"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_14"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_12"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/CR_1"/>
+  </rdf:Description>
+</rdf:RDF>

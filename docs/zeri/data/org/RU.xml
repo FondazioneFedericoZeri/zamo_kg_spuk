@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/RU">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Studio d'Arte</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_17"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_15"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_13"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_27"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/RU_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_17/RU"/>
+  </rdf:Description>
+</rdf:RDF>

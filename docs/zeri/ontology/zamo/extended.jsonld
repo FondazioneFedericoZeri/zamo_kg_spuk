@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/ontology/zamo/extended#isGrandParentOf",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#ObjectProperty"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#domain": [
+      {
+        "@id": "https://w3id.org/zeri/ontology/zamo/agents#Person"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#range": [
+      {
+        "@id": "https://w3id.org/zeri/ontology/zamo/agents#Person"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+      {
+        "@id": "https://schema.org/relatedTo"
+      }
+    ]
+  }
+]

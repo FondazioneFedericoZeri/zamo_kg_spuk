@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/CO_I">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_121"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_132"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_87"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_18"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_19"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_20"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_37"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_50"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/Co_I_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_7/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_20/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_25/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_37/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_39/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_42/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_62/CO_I"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_64/CO_I"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_87_c",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "data di apertura/chiusura incerta"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Salvatore e Francesco Romano (magazzino)"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1924"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveTo": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1960"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_87_c"
+      }
+    ]
+  }
+]

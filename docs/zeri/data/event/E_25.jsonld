@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_25",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Foundation",
+      "http://www.cidoc-crm.org/cidoc-crm/E66_Formation"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1987 Piero Pagano, insieme a Marco Capozzi, fondò la prima casa di vendite sul territorio genovese, la \"Casa d'Aste Rubinacci\", intitolata allo zio Pompeo Rubinacci (1893-1974). La casa d'aste rimase attiva fino al 2006."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Inaugurazione \"Casa d'aste Rubinacci\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/PA_I"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1987"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasParticipant": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/PA_I_1"
+      }
+    ]
+  }
+]

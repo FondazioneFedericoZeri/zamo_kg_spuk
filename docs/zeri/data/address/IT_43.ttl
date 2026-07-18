@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_43> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Firenze"@it ;
+    schema:addressRegion "Toscana"@it ;
+    schema:streetAddress "Piazza Santa Trinita 5R"@it .
+

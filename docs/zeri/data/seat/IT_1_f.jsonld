@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_1_f",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "data di apertura/chiusura incerta"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Alfredo Geri, \"Geri-Boralevi\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1920"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isActiveTo": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1929"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_1_f"
+      }
+    ]
+  }
+]

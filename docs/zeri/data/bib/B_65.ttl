@@ -1,0 +1,34 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_65> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Jandolo, A, 1935., Le memorie di un antiquario., Milano, Ceschina." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/jandolo-a> ;
+    dcterms:date "1935"^^xsd:gYear ;
+    dcterms:title "Le memorie di un antiquario."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Ba_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/Ba_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/Ba_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/JA_1>,
+        <https://w3id.org/zeri/data/reconstruction/JA_2>,
+        <https://w3id.org/zeri/data/reconstruction/JA_3>,
+        <https://w3id.org/zeri/data/reconstruction/JA_4>,
+        <https://w3id.org/zeri/data/reconstruction/JA_5>,
+        <https://w3id.org/zeri/data/reconstruction/JA_6>,
+        <https://w3id.org/zeri/data/reconstruction/JA_7>,
+        <https://w3id.org/zeri/data/reconstruction/SE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/SE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/TA_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/JA>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SE_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/TA> .
+

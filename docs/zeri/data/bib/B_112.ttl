@@ -1,0 +1,17 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_112> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Porretti, L, 2004., Notizie su Luigi Grassi pittore, restauratore e antiquario (1858-1937)., In «Notizie da Palazzo Albani», Urbino QuattroVenti, XXXIII,, pp. 175-184." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/porretti-l> ;
+    dcterms:date "2004"^^xsd:gYear ;
+    dcterms:title "Notizie su Luigi Grassi pittore, restauratore e antiquario (1858-1937)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+

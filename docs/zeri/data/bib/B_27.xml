@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_27">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/BookSection"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Cavicchi, M, 2017., Falsi di primo Novecento nell'archivio di Luigi Albrighi., In Ottani Cavina,, pp. 199-225.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/cavicchi-m"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2017</dcterms:date>
+    <dcterms:title xml:lang="it">Falsi di primo Novecento nell'archivio di Luigi Albrighi.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GE_I"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/AL"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/AL_1"/>
+  </rdf:Description>
+</rdf:RDF>

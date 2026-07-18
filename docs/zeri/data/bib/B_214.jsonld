@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_214",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Vendita all’asta dell’importante raccolta di dipinti antichi, mobili, oggetti d’arte e di arredamento, argenterie e preziosi appartenenti alla Successione di Miss Rita Miriam Bellesi, catalogo della vendita all'asta Pandolfini (Firenze, 14-17 ottobre 1968)., Firenze 1968."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Vendita all’asta dell’importante raccolta di dipinti antichi, mobili, oggetti d’arte e di arredamento, argenterie e preziosi appartenenti alla Successione di Miss Rita Miriam Bellesi, catalogo della vendita all'asta Pandolfini (Firenze, 14-17 ottobre 1968)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_II_1"
+      }
+    ]
+  }
+]

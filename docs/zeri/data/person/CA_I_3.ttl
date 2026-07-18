@@ -1,0 +1,21 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/person/CA_I_3> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/> ;
+    schema:birthDate "1874"^^xsd:gYear ;
+    schema:deathDate "1934"^^xsd:gYear ;
+    schema:familyName "Canessa"@it ;
+    schema:givenName "Amedeo"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/USA_3>,
+        <https://w3id.org/zeri/data/location/USA_4>,
+        <https://w3id.org/zeri/data/location/USA_5>,
+        <https://w3id.org/zeri/data/location/USA_6>,
+        <https://w3id.org/zeri/data/location/USA_7> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/CA_I_3> .
+

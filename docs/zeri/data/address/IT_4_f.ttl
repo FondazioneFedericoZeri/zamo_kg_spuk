@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_4_f> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Milano"@it ;
+    schema:addressRegion "Lombardia"@it ;
+    schema:streetAddress "Corso Venezia 8 (/10)"@it .
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/"
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_2">
+    <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMsci/S19_Encounter_Event"/>
+    <rdfs:comment xml:lang="it">Gli antiquari Canessa scoprirono nel 1895 il tesoro di Boscoreale, un servizio di argenteria di oltre 100 pezzi di epoca romana, che contribuirono ad esportare illegalmente cedendolo al barone Edmond De Rothschild. La collezione si conserva oggi al Museo del Louvre.</rdfs:comment>
+    <rdfs:label xml:lang="it">Scoperta del tesoro di Boscoreale</rdfs:label>
+    <crm:P14_carried_out_by rdf:resource="https://w3id.org/zeri/data/org/CA_I"/>
+    <crm:P14_carried_out_by rdf:resource="https://w3id.org/zeri/data/person/CA_I_3"/>
+    <crm:P14_carried_out_by rdf:resource="https://w3id.org/zeri/data/person/CA_I_2"/>
+    <crm:P14_carried_out_by rdf:resource="https://w3id.org/zeri/data/person/CA_I_1"/>
+    <crmsci:O19_encountered_object rdf:resource="https://w3id.org/zeri/data/collection/tesoro-di-boscoreale"/>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895</events:hasDate>
+  </rdf:Description>
+</rdf:RDF>

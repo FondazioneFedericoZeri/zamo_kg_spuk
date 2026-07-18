@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_3",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Antonetto, R; Cottino, A, 1999., Pietro Accorsi: un antiquario, un'epoca., Torino, Omega Arte."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/cottino-a"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/antonetto-r"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1999"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Pietro Accorsi: un antiquario, un'epoca."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AC"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AC_1"
+      }
+    ]
+  }
+]

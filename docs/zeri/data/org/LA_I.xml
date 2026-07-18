@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/LA_I">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Galleria Lapiccirella</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_87_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_84"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_77"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_51"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_50"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_36"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_26"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/LA_I_2"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/LA_I_1"/>
+  </rdf:Description>
+</rdf:RDF>

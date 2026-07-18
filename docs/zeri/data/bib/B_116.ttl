@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_116> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Riccetti, L, 2010., 1909 tra collezionismo e tutela : connoisseur antiquari e la ceramica medievale orvietana, Catalogo delle mostre: John Pierpont Morgan, Alexandre Imbert e la ceramica medievale orvietana, (Perugia, Galleria Nazionale dell'Umbria, Palazzo Baldeschi al Corso, 7 novembre 2009 - 10 gennaio 2010), Connoisseur e antiquari. Il ritorno delle ceramiche Imbert a Orvieto, (Orvieto, Museo Archeologico Nazionale, 13 marzo - 6 giugno 2010)., Milano, Giunti." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/riccetti-l> ;
+    dcterms:date "2010"^^xsd:gYear ;
+    dcterms:title "1909 tra collezionismo e tutela : connoisseur antiquari e la ceramica medievale orvietana, Catalogo delle mostre: John Pierpont Morgan, Alexandre Imbert e la ceramica medievale orvietana, (Perugia, Galleria Nazionale dell'Umbria, Palazzo Baldeschi al Corso, 7 novembre 2009 - 10 gennaio 2010), Connoisseur e antiquari. Il ritorno delle ceramiche Imbert a Orvieto, (Orvieto, Museo Archeologico Nazionale, 13 marzo - 6 giugno 2010)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/IM_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/IM> .
+

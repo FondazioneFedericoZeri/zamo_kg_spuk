@@ -1,0 +1,26 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/address/IT_22_b",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "it",
+        "@value": "Italia"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "it",
+        "@value": "Bologna"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "it",
+        "@value": "Emilia-Romagna"
+      }
+    ]
+  }
+]

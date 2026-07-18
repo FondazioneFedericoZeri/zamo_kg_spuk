@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_118",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Rizzo, R, 2016., Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato, Cinisello Balsamo, Silvana."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/rizzo-r"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2016"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AC"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AC_1"
+      }
+    ]
+  }
+]

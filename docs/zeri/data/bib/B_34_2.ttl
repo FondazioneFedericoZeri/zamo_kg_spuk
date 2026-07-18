@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_34_2> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Colombi, M, 2021-2022, Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari, tesi di Dottorato, Università di Milano" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/colombi-m> ;
+    dcterms:date "2021"^^xsd:gYear ;
+    dcterms:title "Milano e il mercato dell'arte nella seconda metà dell'Ottocento. Il ruolo degli antiquari"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+

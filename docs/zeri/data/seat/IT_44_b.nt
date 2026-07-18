@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_44_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_44_b> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_44_b> .
+<https://w3id.org/zeri/data/seat/IT_44_b> <https://schema.org/name> "Paola Ventura"@it .
+<https://w3id.org/zeri/data/seat/IT_44_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_44_b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .

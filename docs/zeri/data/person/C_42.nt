@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/person/C_42> <https://schema.org/familyName> "Modestini"@it .
+<https://w3id.org/zeri/data/person/C_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/C_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://w3id.org/zeri/data/person/C_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/C_42> <https://schema.org/givenName> "Mario"@it .
+<https://w3id.org/zeri/data/person/C_42> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_42/CO_I> .

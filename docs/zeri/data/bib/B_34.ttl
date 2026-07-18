@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_34> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Colombi, M, 2021., «Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)., In «Acme», vol. 74, 2,, pp. 95-121." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/colombi-m> ;
+    dcterms:date "2021"^^xsd:gYear ;
+    dcterms:title "«Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BA_IV>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
+

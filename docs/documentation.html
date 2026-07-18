@@ -5,7 +5,7 @@ lang="en">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Index</title>
-        <link rel="stylesheet" href="/spuk/style.css">
+        <link rel="stylesheet" href="/style.css">
         <script type="text/javascript" src="http://kozea.github.com/pygal.js/latest/pygal-tooltips.min.js"></script>
     </head>
     <body>
@@ -15,8 +15,8 @@ lang="en">
   role="navigation"
   aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="/spuk/index.html">
-        <img src="/spuk/img/logo.png"/>
+      <a class="navbar-item" href="/index.html">
+        <img src="/logo.png"/>
         <span class="is-large">SPUK</span>
       </a>
 
@@ -30,8 +30,8 @@ lang="en">
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="/spuk/sparql.html">SPARQL Query Interface</a>
-        <a class="navbar-item" href="/spuk/documentation.html">Documentation</a>
+        <a class="navbar-item" href="/sparql.html">SPARQL Query Interface</a>
+        <a class="navbar-item" href="/documentation.html">Documentation</a>
       </div>
     </div>
   </nav>
@@ -40,42 +40,36 @@ lang="en">
 
 <div class="container">
     <section class="section">
-        <h1 class="title">Cultural Heritage Acquisition and Digitisation Knowledge Graph (CHAD-KG)</h1>
+        <h1 class="title">Zeri Art Market Knowledge Graph (ZAMO-KG)</h1>
         <p class="subtitle">
-            The CHAD-KG is a knowledge graph containing descriptive metadata and digitisation paradata for a series of cultural heritage objects. These objects were initially displayed in a temporary museum exhibition dedicated to Ulisse Aldrovandi, an influential Italian Renaissance naturalist and botanist.
+            This knowledge graph contains material on the art market, produced within a research project carried out by the Fondazione Federico Zeri (University of Bologna). It is based on the Zeri Art Market Ontology (<a href="https://w3id.org/zeri/ontology/zamo" target="_blank">ZAMO</a>), and originates from source data published in the "Mercato dell'Arte" repository by the Fondazione Federico Zeri.
         </p>
     </section>
 
     <section class="section">
-        <h2 class="title is-4">CHAD-AP Ontology</h2>
+        <h2 class="title is-4">ZAMO Ontology</h2>
         <p>
-            The structure of CHAD-KG is built upon the Cultural Heritage Acquisition and Digitisation Application Profile (CHAD-AP), an OWL ontology designed for describing cultural heritage objects, as well as the processes of acquisition and digitisation. The ontology enables structured and machine-actionable data, providing a framework for representing cultural heritage information.
+            The structure of ZAMO-KG is built upon the Zeri Art Market Ontology (ZAMO), an OWL ontology designed for describing agents, events and sources relevant to the art market domain. The ontology enables structured and machine-actionable data, providing a framework for representing art market information.
         </p>
         <p>
-            Documentation for CHAD-AP can be found here: <a href="https://w3id.org/dharc/ontology/chad-ap" target="_blank">CHAD-AP Documentation</a>.
+            Documentation for ZAMO can be found here: <a href="https://w3id.org/zeri/ontology/zamo" target="_blank">ZAMO Documentation</a>. The ontology's source code is available on <a href="https://github.com/FondazioneFedericoZeri/zamo" target="_blank">GitHub</a>.
         </p>
     </section>
 
     <section class="section">
         <h2 class="title is-4">Construction of the Knowledge Graph</h2>
         <p>
-            CHAD-KG was constructed using the Morph-KGC extension, which utilizes YARRRML mapping files, a configuration file, and a set of user-defined functions. This setup generates RDF triples that are aligned with the CHAD-AP ontology from tabular data. 
-        </p>
-        <p>
-            The software documentation for Morph-KGC can be accessed here: <a href="https://github.com/dharc-org/morph-kgc-changes-metadata" target="_blank">Morph-KGC Documentation</a>.
+            The Zeri Art Market Knowledge Graph (ZAMO-KG) is created starting from source tabular data (originally published in the <a href="https://github.com/FondazioneFedericoZeri/Mercato_dell_arte" target="_blank">"Mercato dell'Arte"</a> repository by the Fondazione Federico Zeri). Python scripts were used to iterate over the datasets to create a Turtle file and validate it with competency questions. This static website for content negotiation was lastly built with <em>Simple PUblisher of Knowledge</em> (<a href="https://doi.org/10.5281/zenodo.15389756" target="_blank">SPUK</a>).
         </p>
     </section>
 
     <section class="section">
         <h2 class="title is-4">Additional information</h2>
         <p>
-            DOI: <a href="https://doi.org/10.5281/zenodo.15102846" target="_blank">10.5281/zenodo.15102846</a>
+            Ontology: <a href="https://github.com/FondazioneFedericoZeri/zamo" target="_blank">https://github.com/FondazioneFedericoZeri/zamo</a>
         </p>
         <p>
-            License: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>
-        </p>
-        <p>
-            Endpoint: <a href="https://chad-kg.duckdns.org/chadkg/sparql">https://chad-kg.duckdns.org/chadkg/sparql</a>
+            Endpoint: <a href="http://localhost:3030/zamo-kg/sparql">http://localhost:3030/zamo-kg/sparql</a>
         </p>
     </section>
 </div>

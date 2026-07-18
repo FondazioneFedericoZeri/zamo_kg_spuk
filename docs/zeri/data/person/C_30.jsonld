@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/C_30",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Gonzáles Palacios"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Alvar"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/AN-EF"
+      }
+    ]
+  }
+]

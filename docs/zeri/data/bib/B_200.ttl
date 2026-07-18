@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_200> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)., San Francisco 1923." ;
+    dcterms:title "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/TO_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+

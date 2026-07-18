@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_14> a crm:E66_Formation,
+        agents:Foundation ;
+    rdfs:label "Inaugurazione Museo Stefano Bardini"@it ;
+    crm:P15_was_influenced_by <https://w3id.org/zeri/data/cessation/BA>,
+        <https://w3id.org/zeri/data/event/E_14_0> ;
+    rdfs:comment "L'antiquario Stefano Bardini, morto nel 1922, donò la sua collezione e il palazzo di sua proprietà al comune di Firenze, che decise tre anni dopo di aprire un museo a lui dedicato."@it ;
+    agents:hasFoundedOrganization <https://w3id.org/zeri/data/org/museo-bardini> ;
+    events:hasDate "1925"^^xsd:gYear .
+

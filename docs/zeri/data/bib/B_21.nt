@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/bib/B_21> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_2> .
+<https://w3id.org/zeri/data/bib/B_21> <http://purl.org/dc/terms/bibliographicCitation> "Budd, D.M, 2020., The Barberini Tapestries : Charles Mather Ffoulke and the dealer's network., In Catterson,, pp. 154-178." .
+<https://w3id.org/zeri/data/bib/B_21> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/budd-d-m> .
+<https://w3id.org/zeri/data/bib/B_21> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_1> .
+<https://w3id.org/zeri/data/bib/B_21> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_21> <http://purl.org/dc/terms/title> "The Barberini Tapestries : Charles Mather Ffoulke and the dealer's network."@it .
+<https://w3id.org/zeri/data/bib/B_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_21> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_3> .
+<https://w3id.org/zeri/data/bib/B_21> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_II> .
+<https://w3id.org/zeri/data/bib/B_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .

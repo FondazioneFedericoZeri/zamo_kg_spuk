@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_188",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)., New York 1924."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

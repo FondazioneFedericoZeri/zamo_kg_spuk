@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_208">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>The collection of Professor Paolo Paolini,  distinguished paintings &amp; sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)., New York 1924.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">The collection of Professor Paolo Paolini,  distinguished paintings &amp; sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/PA_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/PA_II_1"/>
+  </rdf:Description>
+</rdf:RDF>

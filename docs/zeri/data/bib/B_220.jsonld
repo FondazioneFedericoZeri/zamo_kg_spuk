@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_220",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "23/3/2023, Intervista a Luca Mana., Torino"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Luca Mana."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AC"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AC_1"
+      }
+    ]
+  }
+]

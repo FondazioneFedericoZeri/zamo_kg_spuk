@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/BE_I_4">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&amp;apply=true&amp;percorso_ricerca=OA&amp;sortby=LOCALIZZAZIONE&amp;batch=10&amp;view=list&amp;locale=it&amp;PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=bellini"/>
+    <crm:P152_has_parent rdf:resource="https://w3id.org/zeri/data/person/BE_I_2"/>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1909</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1994</schema:deathDate>
+    <schema:familyName xml:lang="it">Bellini</schema:familyName>
+    <schema:givenName xml:lang="it">Giuseppe</schema:givenName>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_76"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_43"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/BE_I_4"/>
+    <zamo_ext:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/BE_I_5"/>
+  </rdf:Description>
+</rdf:RDF>

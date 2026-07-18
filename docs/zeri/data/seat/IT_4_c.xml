@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/seat/IT_4_c">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Seat"/>
+    <schema:name xml:lang="it">Alfredo Geri, Aldo Geri, "Casa di vendite Arte Antica e Moderna" (Palazzo Sormani, sede e abitazione privata)</schema:name>
+    <agents:isActiveFrom rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1916</agents:isActiveFrom>
+    <agents:isActiveTo rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1921</agents:isActiveTo>
+    <agents:isLocatedIn rdf:resource="https://w3id.org/zeri/data/location/IT_4_c"/>
+  </rdf:Description>
+</rdf:RDF>

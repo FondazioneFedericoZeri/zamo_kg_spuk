@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/publication/memorie_antiquario",
+    "@type": [
+      "http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Memorie di un antiquario"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_16",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Boccardo, P, 2001., Costantino Nigro, antiquario e mecenate, e i suoi rapporti con Roberto Longhi, Caterina Marcenaro e Angelo Costa., In Orlando,, pp. 80-91."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/boccardo-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2001"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Costantino Nigro, antiquario e mecenate, e i suoi rapporti con Roberto Longhi, Caterina Marcenaro e Angelo Costa."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/NI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/NI_1"
+      }
+    ]
+  }
+]

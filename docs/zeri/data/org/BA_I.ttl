@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/BA_I> a agents:ArtDealerOrganization ;
+    schema:name "Bacarelli antichità"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_39>,
+        <https://w3id.org/zeri/data/seat/IT_58>,
+        <https://w3id.org/zeri/data/seat/IT_61>,
+        <https://w3id.org/zeri/data/seat/IT_67>,
+        <https://w3id.org/zeri/data/seat/IT_69>,
+        <https://w3id.org/zeri/data/seat/IT_74> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_32/BA_I>,
+        <https://w3id.org/zeri/data/main-collaboration/Ba_I_1>,
+        <https://w3id.org/zeri/data/main-collaboration/Ba_I_2>,
+        <https://w3id.org/zeri/data/main-collaboration/Ba_I_3> .
+

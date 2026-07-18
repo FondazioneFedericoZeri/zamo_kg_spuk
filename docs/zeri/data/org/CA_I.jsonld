@@ -1,0 +1,66 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/CA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Canessa Antiquaires – Numismates"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Canessa"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/FR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/FR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/FR_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/FR_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_136"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_7"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_16"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/CA_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/CA_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/CA_I_2"
+      }
+    ]
+  }
+]

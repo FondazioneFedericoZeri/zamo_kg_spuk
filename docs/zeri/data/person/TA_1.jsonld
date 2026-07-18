@@ -1,0 +1,55 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/TA_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=tavazzi"
+      }
+    ],
+    "https://schema.org/birthDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1857"
+      }
+    ],
+    "https://schema.org/deathDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1924"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Tavazzi"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Filippo"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_93"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_112"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_100"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/TA_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/SE_I_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?locale=it&decorator=layout_resp&apply=true&percorso_ricerca=OA&filtrolocalizzazione_OA=4531%7C3289&sortby=LOCALIZZAZIONE&batch=10"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Segre"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Emanuele"
+      }
+    ],
+    "https://schema.org/sibling": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/SE_I_2"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_96"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_I_1"
+      }
+    ]
+  }
+]

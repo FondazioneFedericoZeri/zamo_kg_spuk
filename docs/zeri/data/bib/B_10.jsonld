@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_10",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Bartoli Amici, P, 2004., Jandolo, Augusto., In Dizionario biografico degli italiani, 62,"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/bartoli-amici-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2004"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Jandolo, Augusto."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/JA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_1"
+      }
+    ]
+  }
+]

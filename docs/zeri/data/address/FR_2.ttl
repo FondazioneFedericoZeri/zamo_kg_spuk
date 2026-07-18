@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/FR_2> a schema:PostalAddress ;
+    schema:addressCountry "Francia"@it ;
+    schema:addressLocality "Parigi"@it ;
+    schema:addressRegion "Francia"@it ;
+    schema:streetAddress "Avenue des Champs-Élysées 93"@it .
+

@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_4",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Tra le celebri vendite attribuite alla \"Galleria Sangiorgi\", c'è la collezione del Principe Orsini, venduta nel 1896."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - Collezione Principe Orsini"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1896"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/SA_IV_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_4"
+      }
+    ]
+  }
+]

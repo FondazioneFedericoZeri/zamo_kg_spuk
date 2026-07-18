@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_44> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Firenze"@it ;
+    schema:addressRegion "Toscana"@it ;
+    schema:streetAddress "Ponte Vecchio 1"@it .
+

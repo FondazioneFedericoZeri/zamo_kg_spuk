@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_196> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Nuovi antiquari a Firenze, In «L'Antiquario», X, 4-5, 1923,, p. 57." ;
+    dcterms:title "Nuovi antiquari a Firenze"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/PI_1>,
+        <https://w3id.org/zeri/data/reconstruction/PI_2>,
+        <https://w3id.org/zeri/data/reconstruction/PI_3>,
+        <https://w3id.org/zeri/data/reconstruction/venture/PI> .
+

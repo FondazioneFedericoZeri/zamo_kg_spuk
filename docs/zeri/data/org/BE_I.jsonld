@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/BE_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Bellini"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_76"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_72"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_43"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_12"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_I_1"
+      }
+    ]
+  }
+]

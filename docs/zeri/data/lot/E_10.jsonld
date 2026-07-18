@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/lot/E_10",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Lot"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#consistsOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/collection/collezione-e-volpi"
+      }
+    ]
+  }
+]

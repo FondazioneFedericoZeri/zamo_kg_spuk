@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/person/C_30> <https://schema.org/familyName> "Gonzáles Palacios"@it .
+<https://w3id.org/zeri/data/person/C_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/C_30> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/AP> .
+<https://w3id.org/zeri/data/person/C_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/C_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://w3id.org/zeri/data/person/C_30> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/DI> .
+<https://w3id.org/zeri/data/person/C_30> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/AN-EF> .
+<https://w3id.org/zeri/data/person/C_30> <https://schema.org/givenName> "Alvar"@it .
+<https://w3id.org/zeri/data/person/C_30> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/SE_II> .

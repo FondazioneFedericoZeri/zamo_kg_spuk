@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/GR_1">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?batch=100&amp;page=1&amp;view=gallery&amp;sortby=AUTORE&amp;decorator=layout_resp&amp;apply=true&amp;percorso_ricerca=F&amp;locale=it&amp;PRCM_PRCD=grassi"/>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1858</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1937</schema:deathDate>
+    <schema:familyName xml:lang="it">Grassi</schema:familyName>
+    <schema:givenName xml:lang="it">Luigi</schema:givenName>
+    <schema:sibling rdf:resource="https://w3id.org/zeri/data/person/GR_4"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_73"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_53"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/GR_1"/>
+    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/GR_3"/>
+  </rdf:Description>
+</rdf:RDF>

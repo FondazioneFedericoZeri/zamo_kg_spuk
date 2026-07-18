@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_6",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Collaboration"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasRole": [
+      {
+        "@id": "https://w3id.org/zeri/ontology/zamo/agents#managing-director"
+      }
+    ]
+  }
+]

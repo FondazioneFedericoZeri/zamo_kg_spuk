@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/AN-EF_4",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P152_has_parent": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_3"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/home/it"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Antonacci-Efrati"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Paolo Antonacci"
+      }
+    ],
+    "https://schema.org/sibling": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_5"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_103"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_4"
+      }
+    ]
+  }
+]

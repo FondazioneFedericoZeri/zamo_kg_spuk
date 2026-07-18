@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_94> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Napodano, L, 2018., Giulio Sambon mercante d'arte., In «Acme», vol. 17, 2,, pp. 131-165." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/napodano-l> ;
+    dcterms:date "2018"^^xsd:gYear ;
+    dcterms:title "Giulio Sambon mercante d'arte."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/SA_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_III> .
+

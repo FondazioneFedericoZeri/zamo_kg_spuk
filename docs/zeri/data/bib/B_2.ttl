@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_2> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Anderson, J, 1996., The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli., In Kennerschaft: Kolloquium zum 150sten Geburtstag von Wilhelm von Bode, Jahrbuch der Berliner Museen; N.F., 38,, pp. 107-119." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/anderson-j> ;
+    dcterms:date "1996"^^xsd:gYear ;
+    dcterms:title "The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BA_IV>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
+

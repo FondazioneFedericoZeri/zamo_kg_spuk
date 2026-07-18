@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/AN-EF_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/home/it> ;
+    schema:familyName "Antonacci-Efrati"@it ;
+    schema:givenName "Emanuele Efrati"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_103> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/AN-EF_1> .
+

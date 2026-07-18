@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_171> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogo di quanto viene venduto dal Palazzo Internazionale delle Aste ed Esposizioni : Firenze, per ordine di Eredi Giugni, comprendente: mobili, quadri, sculture, arazzi, tappeti, maioliche, porcellane ed oggetti dal XIV al XIX secolo, catalogo della vendita all'asta Palazzo Internazionale, Firenze, 17-19 ottobre 1970)., Bologna 1970." ;
+    dcterms:title "Catalogo di quanto viene venduto dal Palazzo Internazionale delle Aste ed Esposizioni : Firenze, per ordine di Eredi Giugni, comprendente: mobili, quadri, sculture, arazzi, tappeti, maioliche, porcellane ed oggetti dal XIV al XIX secolo, catalogo della vendita all'asta Palazzo Internazionale, Firenze, 17-19 ottobre 1970)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GI_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GI> .
+

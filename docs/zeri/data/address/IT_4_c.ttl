@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_4_c> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Milano"@it ;
+    schema:addressRegion "Lombardia"@it ;
+    schema:streetAddress "via Borgonuovo 24bis"@it .
+

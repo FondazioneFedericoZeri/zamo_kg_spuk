@@ -1,0 +1,10 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/ME_5",
+    "http://www.cidoc-crm.org/cidoc-crm/P152_has_parent": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/ME_1"
+      }
+    ]
+  }
+]

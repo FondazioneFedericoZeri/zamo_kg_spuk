@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/org/VI_III> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VI_III_1> .
+<https://w3id.org/zeri/data/org/VI_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_21> .
+<https://w3id.org/zeri/data/org/VI_III> <https://schema.org/name> "Galleria Permanente d’Arte Antica e Moderna A. Vitelli"@it .
+<https://w3id.org/zeri/data/org/VI_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_20> .
+<https://w3id.org/zeri/data/org/VI_III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .

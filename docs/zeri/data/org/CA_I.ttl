@@ -1,0 +1,21 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/CA_I> a agents:ArtDealerOrganization ;
+    schema:name "Canessa Antiquaires – Numismates"@it,
+        "Galleria Canessa"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/FR_2>,
+        <https://w3id.org/zeri/data/seat/FR_3>,
+        <https://w3id.org/zeri/data/seat/FR_5>,
+        <https://w3id.org/zeri/data/seat/FR_7>,
+        <https://w3id.org/zeri/data/seat/IT_136>,
+        <https://w3id.org/zeri/data/seat/USA_3>,
+        <https://w3id.org/zeri/data/seat/USA_4>,
+        <https://w3id.org/zeri/data/seat/USA_5>,
+        <https://w3id.org/zeri/data/seat/USA_6>,
+        <https://w3id.org/zeri/data/seat/USA_7> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_16> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/CA_I_1>,
+        <https://w3id.org/zeri/data/main-collaboration/CA_I_2>,
+        <https://w3id.org/zeri/data/main-collaboration/CA_I_3> .
+

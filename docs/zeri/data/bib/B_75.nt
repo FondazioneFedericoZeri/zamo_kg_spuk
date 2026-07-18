@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_75> <http://purl.org/dc/terms/bibliographicCitation> "L'Obiettivo, 1932., Salvatore Romano., In «L'Antiquario», XVIII-XXV, 1,, p. 48." .
+<https://w3id.org/zeri/data/bib/B_75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_75> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/l-obiettivo> .
+<https://w3id.org/zeri/data/bib/B_75> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_1> .
+<https://w3id.org/zeri/data/bib/B_75> <http://purl.org/dc/terms/date> "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_75> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+<https://w3id.org/zeri/data/bib/B_75> <http://purl.org/dc/terms/title> "Salvatore Romano."@it .
+<https://w3id.org/zeri/data/bib/B_75> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_2> .
+<https://w3id.org/zeri/data/bib/B_75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

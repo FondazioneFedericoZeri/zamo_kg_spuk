@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BR_II_1> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_37/BR_II> .
+<https://w3id.org/zeri/data/org/BR_II> <https://schema.org/name> "Antichità Bruschi"@it .
+<https://w3id.org/zeri/data/org/BR_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_60> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_33> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BR_II_3> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BR_II_2> .
+<https://w3id.org/zeri/data/org/BR_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_15> .

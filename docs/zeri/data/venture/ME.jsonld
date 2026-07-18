@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/ME",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Melli"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Melli"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/ME"
+      }
+    ]
+  }
+]

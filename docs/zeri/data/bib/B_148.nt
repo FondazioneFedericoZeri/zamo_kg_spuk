@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_148> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_III> .
+<https://w3id.org/zeri/data/bib/B_148> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/turco-v> .
+<https://w3id.org/zeri/data/bib/B_148> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_III_1> .
+<https://w3id.org/zeri/data/bib/B_148> <http://purl.org/dc/terms/date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_148> <http://purl.org/dc/terms/bibliographicCitation> "Turco, V, 1924., Barsanti e i suoi bronzi., In «L'Antiquario», XI, 2,, pp. 37-44." .
+<https://w3id.org/zeri/data/bib/B_148> <http://purl.org/dc/terms/title> "Barsanti e i suoi bronzi."@it .

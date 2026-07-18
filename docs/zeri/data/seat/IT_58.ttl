@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_58> a agents:Seat ;
+    rdfs:comment "data di apertura/chiusura incerta"@it ;
+    schema:name "Benvenuto e Riccardo Bacarelli dal 1996"@it ;
+    agents:isActiveFrom "1980"^^xsd:gYear ;
+    agents:isActiveTo "2015"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_58> .
+

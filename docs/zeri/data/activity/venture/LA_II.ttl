@@ -1,0 +1,6 @@
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/activity/venture/LA_II> a sources:AgentActivity ;
+    sources:isReconstructedBy <https://w3id.org/zeri/data/reconstruction/venture/LA_II> ;
+    sources:refersTo <https://w3id.org/zeri/data/venture/LA_II> .
+

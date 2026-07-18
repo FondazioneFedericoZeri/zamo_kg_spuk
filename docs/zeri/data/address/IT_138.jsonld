@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/address/IT_138",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "it",
+        "@value": "Italia"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "it",
+        "@value": "Napoli"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "it",
+        "@value": "Campania"
+      }
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "it",
+        "@value": "via Gennaro Serra 24"
+      }
+    ]
+  }
+]

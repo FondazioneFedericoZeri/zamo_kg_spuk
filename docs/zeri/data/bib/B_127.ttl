@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_127> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Terris, J. J, 1952., Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]., 1952." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/terris-j-j> ;
+    dcterms:date "1952"^^xsd:gYear ;
+    dcterms:title "Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/LA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+

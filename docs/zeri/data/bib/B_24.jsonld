@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_24",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Cappellini, P, 2019., Trading Old Masters in Florence 1890-1914 : heritage protection and the Florentine art trade in post-unification Italy., In «Journal of the history of collections»,  vol. 31, 2,, pp. 363-371."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/cappellini-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2019"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Trading Old Masters in Florence 1890-1914 : heritage protection and the Florentine art trade in post-unification Italy."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_1"
+      }
+    ]
+  }
+]

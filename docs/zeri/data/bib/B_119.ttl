@@ -1,0 +1,24 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_119> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Romanengo, M, 2001., Il mondo del collezionismo privato a Genova nel Novecento., In Orlando,, pp. 110-120." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/romanengo-m> ;
+    dcterms:date "2001"^^xsd:gYear ;
+    dcterms:title "Il mondo del collezionismo privato a Genova nel Novecento."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BO_1>,
+        <https://w3id.org/zeri/data/reconstruction/CR_1>,
+        <https://w3id.org/zeri/data/reconstruction/PA_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/RU_1>,
+        <https://w3id.org/zeri/data/reconstruction/VI_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/VI_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BO>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/PA_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RU>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VI_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
+

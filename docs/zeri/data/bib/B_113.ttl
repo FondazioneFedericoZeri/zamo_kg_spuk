@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_113> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Provo, A, 2017., Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market., In Catterson,, pp. 269-190." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/provo-a> ;
+    dcterms:date "2017"^^xsd:gYear ;
+    dcterms:title "Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/PA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/PA_II> .
+

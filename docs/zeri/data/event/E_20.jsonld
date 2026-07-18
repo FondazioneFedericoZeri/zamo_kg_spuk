@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_20",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Gift",
+      "http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1946 Salvatore Romano donò al Comune di Firenze circa settanta oggetti d’arte della sua collezione, affinché venissero esposti nel cenacolo di Santo Spirito, per onorare i suoi natali e rendere omaggio alla città che lo aveva accolto. Salvatore non solo diresse il nuovo museo fino alla morte, ma ottenne perfino di essere tumulato nel sarcofago che si erge verso il fondo del cenacolo. Tale luogo \"Fondazione Salvatore Romano\", è oggi intitolato proprio al famoso antiquario."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Donazione collezione di Salvatore Romano"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1946"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/RO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/RO_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_20"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_18",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1935, presso la casa d'aste \"Galleria Ciardello\" di Firenze, venne venduta parte della collezione di Achille De Clemente."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - collezione Achille De Clemente"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1935"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/DE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/DE_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_18"
+      }
+    ]
+  }
+]

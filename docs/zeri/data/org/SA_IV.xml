@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/SA_IV">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Hotel Des Ventes G. Sangiorgi</schema:name>
+    <schema:name xml:lang="it">Galleria dei bronzi e dei marmi, negozio di arte antica e moderna</schema:name>
+    <schema:name xml:lang="it">Galleria Sangiorgi - Roma Palazzo Borghese</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/USA_9"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_124"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_123"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_42"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SA_IV_3"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SA_IV_2"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SA_IV_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_63/SA_IV"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_50/SA_IV"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_39/SA_IV"/>
+  </rdf:Description>
+</rdf:RDF>

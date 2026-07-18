@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_51> a agents:Seat ;
+    rdfs:comment "data di apertura/chiusura incerta"@it ;
+    schema:name "Carlo e Riccardo Bruscoli, Marcello Guidi; dal 1957 al 1966 il negozio ai civici 50-52r è rilevato da Leonardo Lapiccirella"@it ;
+    agents:isActiveFrom "1950"^^xsd:gYear ;
+    agents:isActiveTo "1957"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_51> .
+

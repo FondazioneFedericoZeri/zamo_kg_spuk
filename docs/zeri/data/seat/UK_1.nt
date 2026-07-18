@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/UK_1> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/UK_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/UK_1> <https://schema.org/name> "Giuseppe Bellesi (Pall Mall Deposit, magazzino)"@it .
+<https://w3id.org/zeri/data/seat/UK_1> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/UK_1> .
+<https://w3id.org/zeri/data/seat/UK_1> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> .

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_156_1">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Zorzi, E, 1934, L'arte italiana in America, in «Gazzetta di Venezia», 3 febbraio 1934</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/zorzi-e"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1934</dcterms:date>
+    <dcterms:title xml:lang="it">L'arte italiana in America</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BR_III"/>
+  </rdf:Description>
+</rdf:RDF>

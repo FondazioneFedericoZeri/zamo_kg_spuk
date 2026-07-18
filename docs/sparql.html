@@ -5,7 +5,7 @@ lang="en">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Index</title>
-        <link rel="stylesheet" href="/spuk/style.css">
+        <link rel="stylesheet" href="/style.css">
         <script type="text/javascript" src="http://kozea.github.com/pygal.js/latest/pygal-tooltips.min.js"></script>
     </head>
     <body>
@@ -15,8 +15,8 @@ lang="en">
   role="navigation"
   aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="/spuk/index.html">
-        <img src="/spuk/img/logo.png"/>
+      <a class="navbar-item" href="/index.html">
+        <img src="/logo.png"/>
         <span class="is-large">SPUK</span>
       </a>
 
@@ -30,12 +30,13 @@ lang="en">
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="/spuk/sparql.html">SPARQL Query Interface</a>
-        <a class="navbar-item" href="/spuk/documentation.html">Documentation</a>
+        <a class="navbar-item" href="/sparql.html">SPARQL Query Interface</a>
+        <a class="navbar-item" href="/documentation.html">Documentation</a>
       </div>
     </div>
   </nav>
 </div>
+        
         
   <!-- SPARQL Interface Section -->
   <div id="sparql-interface" class="box">
@@ -49,28 +50,26 @@ lang="en">
             <div class="select">
               <select id="exampleSelect">
                 <option value="">-- Choose an example --</option>
-                <!-- Titolo museale -->
-                <option value="PREFIX aat: <http://vocab.getty.edu/page/aat/> PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?content WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item . ?expression lrmoo:R4i_is_embodied_in ?manifestation . ?work lrmoo:R3_is_realised_in ?expression ; crm:P102_has_title ?title . ?title crm:P2_has_type aat:300417207 ; crm:P190_has_symbolic_content ?content . FILTER(lang(?content) = 'it') }">Titles given by the museum</option>
-                <!-- Tipologia -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?type WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item ; crm:P2_has_type ?type . }">Types</option>
-                <!-- Didascalia -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?description WHERE { ?item a lrmoo:F5_Item ; crm:P3_has_note ?description . }">Descriptions</option>
-                <!-- Tecnica -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?technique WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item . ?expression lrmoo:R4i_is_embodied_in ?manifestation . ?creation a lrmoo:F28_Expression_Creation ; lrmoo:R17_created ?expression ; crm:P32_used_general_technique ?technique . }">Techniques</option>
-                <!-- Data -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item (IF(STR(YEAR(?begin)) = STR(YEAR(?end)), STR(YEAR(?begin)), CONCAT(STR(YEAR(?begin)), '-', STR(YEAR(?end)))) AS ?date) WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item . ?expression lrmoo:R4i_is_embodied_in ?manifestation . ?creation a lrmoo:F28_Expression_Creation ; lrmoo:R17_created ?expression ; crm:P4_has_time-span ?timespan . ?timespan crm:P82a_begin_of_the_begin ?begin ; crm:P82b_end_of_the_end ?end . }">Dates</option>
-                <!-- Ente di conservazione -->
-                <option value="PREFIX aat: <http://vocab.getty.edu/page/aat/> PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item (REPLACE(REPLACE(STR(?conservation_org), '.*/([^/]+)/[^/]+$', '$1'), '_', ' ') AS ?conservation_org_label) WHERE { ?item a lrmoo:F5_Item . ?activity crm:P16_used_specific_object ?item ; crm:P2_has_type aat:300054277 ; crm:P14_carried_out_by ?conservation_org . }">Keepers</option>
-                <!-- Luogo di conservazione -->
-                <option value="PREFIX aat: <http://vocab.getty.edu/page/aat/> PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item (REPLACE(REPLACE(STR(?conservation_place), '.*/([^/]+)/[^/]+$', '$1'), '_', ' ') AS ?conservation_place_label) WHERE { ?item a lrmoo:F5_Item . ?activity crm:P16_used_specific_object ?item ; crm:P2_has_type aat:300054277 ; crm:P14_carried_out_by ?conservation_org . ?conservation_org crm:P74_has_current_or_former_residence ?conservation_place . }">Conservation places</option>
-                <!-- Riproduzione digitale -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?digital_repr WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item ; crm:P130i_features_are_also_found_on ?digital_repr . }">Digital replicas</option>
-                <!-- Modello digitale esistente -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item ?existing_model WHERE { ?item a lrmoo:F5_Item ; crm:P130i_features_are_also_found_on ?3d_model . ?3d_model crm:P130_shows_features_of ?existing_model . }">Existing digital models</option>
-                <!-- Soggetti -->
-                <option value="PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item (GROUP_CONCAT(REPLACE(REPLACE(STR(?subject), '.*/([^/]+)/[^/]+', '$1'), '_', ' ') ; SEPARATOR='; ') AS ?subjects) WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item . ?expression lrmoo:R4i_is_embodied_in ?manifestation ; crm:P129_is_about ?subject . } GROUP BY ?item">Subjects</option>
-                <!-- Persone o enti -->
-                <option value='PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/> PREFIX lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> SELECT ?item (GROUP_CONCAT(CONCAT(?clean_name, " (", STR(?activity_type), ")"); SEPARATOR="; ") AS ?agents) WHERE { ?item a lrmoo:F5_Item . ?manifestation lrmoo:R7i_is_exemplified_by ?item . ?expression lrmoo:R4i_is_embodied_in ?manifestation . ?creation a lrmoo:F28_Expression_Creation ; lrmoo:R17_created ?expression ; crm:P9_consists_of ?activity . ?activity crm:P2_has_type ?activity_type ; crm:P14_carried_out_by ?agent . BIND(STR(?agent) AS ?agent_uri) BIND(STRAFTER(?agent_uri, "acr/") AS ?after_acr) BIND(STRBEFORE(?after_acr, "/1") AS ?agent_name_raw) BIND(REPLACE(?agent_name_raw, "_", " ") AS ?clean_name) } GROUP BY ?item'>People or organisations</option>
+                <!-- Q1: entità antiquariali con sede negli Stati Uniti -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT DISTINCT ?venture ?org ?nome WHERE { ?venture agents:isCarriedOutBy ?org . ?org a agents:ArtDealerOrganization ; agents:hasSeat ?seat . ?seat agents:isLocatedIn ?loc . ?loc schema:address ?a . ?a schema:addressCountry ?paese . FILTER(CONTAINS(STR(?paese), 'Stati Uniti')) OPTIONAL { ?venture schema:name ?nome } } ORDER BY ?org">Q1 – Antiquari con sede negli Stati Uniti</option>
+                <!-- Q2: indirizzo di Giuseppe Bellesi nel 1950 -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT ?indirizzo ?città ?da ?a WHERE { org:BE_II agents:hasSeat ?sede . ?sede agents:isLocatedIn ?loc ; agents:isActiveFrom ?da ; agents:isActiveTo ?a . ?loc schema:address ?addr . ?addr schema:streetAddress ?indirizzo ; schema:addressLocality ?città . FILTER(STR(?da) <= '1950' && STR(?a) >= '1950') } ORDER BY ?città">Q2 – Indirizzo di Giuseppe Bellesi nel 1950</option>
+                <!-- Q3: collaborazioni di Accorsi -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT DISTINCT ?fam_antiquari ?nome WHERE { org:AC agents:isCollaboratorIn ?collab . ?org agents:isCollaboratorIn ?collab ; a agents:ArtDealerOrganization . ?fam_antiquari agents:isCarriedOutBy ?org . FILTER(?org != org:AC) OPTIONAL { ?fam_antiquari schema:name ?nome } }">Q3 – Collaborazioni di Accorsi</option>
+                <!-- Q4: bibliografia su Brass -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT ?anno ?citation WHERE { ?activity a sources:AgentActivity ; sources:refersTo venture:BR_III ; sources:isReconstructedBy ?recon . ?bib sources:isSourceFor ?recon . OPTIONAL { ?bib dcterms:date ?anno } OPTIONAL { ?bib dcterms:bibliographicCitation ?citation } } ORDER BY ?anno">Q4 – Bibliografia su Brass</option>
+                <!-- Q5: storici dell'arte consulenti di più antiquari -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT ?person ?nome ?cognome (COUNT(DISTINCT ?collab) AS ?n_antiquari) WHERE { ?person agents:providesServiceIn ?collab . ?collab agents:hasRole agents:art-historian-consultant . OPTIONAL { ?person schema:givenName ?nome } OPTIONAL { ?person schema:familyName ?cognome } } GROUP BY ?person ?nome ?cognome HAVING (COUNT(DISTINCT ?collab) > 1) ORDER BY DESC(?n_antiquari)">Q5 – Storici dell'arte consulenti di più antiquari</option>
+                <!-- Q6: membri della famiglia Sestieri antiquari -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT DISTINCT ?person ?nome ?cognome WHERE { { venture:SE_II agents:isCarriedOutBy ?person . ?person a agents:Person. } OPTIONAL { ?person schema:givenName ?nome } OPTIONAL { ?person schema:familyName ?cognome } } ORDER BY ?nome">Q6 – Membri della famiglia Sestieri antiquari</option>
+                <!-- Q7: eventi 1890-1900 -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT ?evento ?label ?anno WHERE { ?evento events:hasDate ?anno ; rdfs:label ?label . FILTER(STR(?anno) >= '1890' && STR(?anno) <= '1900') } ORDER BY ?anno">Q7 – Eventi importanti tra il 1890 e il 1900</option>
+                <!-- Q8: antiquari con sede a Milano -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT DISTINCT ?nome WHERE { ?org a agents:ArtDealerOrganization ; agents:hasSeat ?sede . ?sede agents:isLocatedIn ?loc . ?loc schema:address ?a . ?a schema:addressLocality ?città . ?venture agents:isCarriedOutBy ?org . FILTER(CONTAINS(LCASE(STR(?città)), 'milano')) OPTIONAL { ?venture schema:name ?nome } } ORDER BY ?venture">Q8 – Antiquari con sede a Milano</option>
+                <!-- Q9: clienti principali di Ferroni -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT DISTINCT ?client ?nome ?cognome WHERE { ?trans events:hasSurrender ?venditore ; events:hasReceiver ?client . FILTER(?venditore IN (person:FE_1, org:FE)) OPTIONAL { ?client schema:givenName ?nome } OPTIONAL { ?client schema:familyName ?cognome } } ORDER BY ?cognome">Q9 – Clienti principali di Ferroni</option>
+                <!-- Q10: sedi romane dell'antiquario Apolloni -->
+                <option value="PREFIX agents: <https://w3id.org/zeri/ontology/zamo/agents#> PREFIX events: <https://w3id.org/zeri/ontology/zamo/events#> PREFIX sources: <https://w3id.org/zeri/ontology/zamo/sources#> PREFIX schema: <https://schema.org/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dcterms: <http://purl.org/dc/terms/> PREFIX venture: <https://w3id.org/zeri/data/venture/> PREFIX org: <https://w3id.org/zeri/data/org/> PREFIX person: <https://w3id.org/zeri/data/person/> PREFIX seat: <https://w3id.org/zeri/data/seat/> PREFIX location: <https://w3id.org/zeri/data/location/> PREFIX event: <https://w3id.org/zeri/data/event/> PREFIX bib: <https://w3id.org/zeri/data/bib/> PREFIX client: <https://w3id.org/zeri/data/client/> SELECT ?indirizzo ?città ?da ?a WHERE { org:AP agents:hasSeat ?sede . ?sede agents:isLocatedIn ?loc . OPTIONAL { ?sede agents:isActiveFrom ?da } OPTIONAL { ?sede agents:isActiveTo ?a } OPTIONAL { ?loc schema:address ?addr . ?addr schema:streetAddress ?indirizzo ; schema:addressLocality ?città } } ORDER BY ?da">Q10 – Sedi romane dell'antiquario Apolloni</option>
               </select>
             </div>
           </div>
@@ -80,7 +79,7 @@ lang="en">
       <div class="field">
         <label for="endpoint" class="label">Endpoint URL:</label>
         <div class="control">
-          <input id="endpoint" type="text" class="input" value="https://chad-kg.duckdns.org/chadkg/sparql" />
+          <input id="endpoint" type="text" class="input" value="http://localhost:3030/zamo-kg/sparql" />
         </div>
       </div>
 
@@ -137,6 +136,7 @@ lang="en">
               }
             });
     </script>
+
   
         <footer class="footer">
     <div class="content has-text-centered">

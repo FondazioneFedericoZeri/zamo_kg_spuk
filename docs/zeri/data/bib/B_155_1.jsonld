@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_155_1",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Zeri, F, 1986, Una sala Alitalia ad Assisi nel sacro Convento. Le 57 opere più belle della collezione Mason Perkins, in «Il Giornale dell'Arte», numero 37, p. 16"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/zeri-f"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1986"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Una sala Alitalia ad Assisi nel sacro Convento. Le 57 opere più belle della collezione Mason Perkins"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/FO"
+      }
+    ]
+  }
+]

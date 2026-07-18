@@ -1,0 +1,12 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_204> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Salvatore e Francesco Romano antiquari a Firenze, un secolo di attività a Palazzo Magnani Feroni, catalogo della vendita all'asta Sotheby's, (Firenze, 12-15 ottobre 2009)., Firenze 2009." ;
+    dcterms:title "Salvatore e Francesco Romano antiquari a Firenze, un secolo di attività a Palazzo Magnani Feroni, catalogo della vendita all'asta Sotheby's, (Firenze, 12-15 ottobre 2009)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+

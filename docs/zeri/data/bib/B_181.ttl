@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_181> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Commemorazione di Edoardo Villa., In «L'Antiquario», XII, 1, 1925,, p. 45." ;
+    dcterms:title "Commemorazione di Edoardo Villa."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VI_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
+

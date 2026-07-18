@@ -1,0 +1,20 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_119_2> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Romiti, A, 1952., L'antiquario, in «Strenna dei Romanisti»., 13.1952, pp. 22-25;" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/romiti-a> ;
+    dcterms:date "1952"^^xsd:gYear ;
+    dcterms:title "L'antiquario, in «Strenna dei Romanisti»."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/JA_1>,
+        <https://w3id.org/zeri/data/reconstruction/JA_2>,
+        <https://w3id.org/zeri/data/reconstruction/JA_3>,
+        <https://w3id.org/zeri/data/reconstruction/JA_4>,
+        <https://w3id.org/zeri/data/reconstruction/JA_5>,
+        <https://w3id.org/zeri/data/reconstruction/JA_6>,
+        <https://w3id.org/zeri/data/reconstruction/JA_7>,
+        <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+

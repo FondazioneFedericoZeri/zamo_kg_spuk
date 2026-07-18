@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_IV",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#HistoricalReconstruction"
+    ]
+  }
+]

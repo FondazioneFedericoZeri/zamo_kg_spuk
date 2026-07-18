@@ -1,0 +1,13 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/BR_II> a agents:ArtDealerOrganization ;
+    schema:name "Antichità Bruschi"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_33>,
+        <https://w3id.org/zeri/data/seat/IT_60> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_15> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_37/BR_II>,
+        <https://w3id.org/zeri/data/main-collaboration/BR_II_1>,
+        <https://w3id.org/zeri/data/main-collaboration/BR_II_2>,
+        <https://w3id.org/zeri/data/main-collaboration/BR_II_3> .
+

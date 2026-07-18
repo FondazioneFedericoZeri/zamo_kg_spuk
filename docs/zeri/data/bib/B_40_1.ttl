@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_40_1> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Di Lorenzo, A, 2002, Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti, in Di Lorenzo, pp. 37-45" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/di-lorenzo-a> ;
+    dcterms:date "2002"^^xsd:gYear ;
+    dcterms:title "Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/CA_III>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+

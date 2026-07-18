@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_102> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Ojetti, U, 1954., I taccuini: 1914-1943., Firenze, Sansoni." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/ojetti-u> ;
+    dcterms:date "1954"^^xsd:gYear ;
+    dcterms:title "I taccuini: 1914-1943."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/CI_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CI> .
+

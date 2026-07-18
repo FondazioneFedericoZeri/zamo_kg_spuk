@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_23> a crm:E66_Formation,
+        agents:Foundation ;
+    rdfs:label "Inaugurazione Fondazione Accorsi-Ometto"@it ;
+    crm:P15_was_influenced_by <https://w3id.org/zeri/data/cessation/AC> ;
+    rdfs:comment "Negli spazi della \"Galleria Accorsi\" di via Po' venne istitutita nel 1975 la Fondazione Accorsi-Ometto, oggi sede del museo di Arti Decorative, che accoglie, oltre alla collezione Accorsi, anche parte degli oggetti raccolti da un suo collaboratore, Giulio Ometto (1942-2019)."@it ;
+    agents:hasFoundedOrganization <https://w3id.org/zeri/data/org/fondazione-accorsi-ometto> ;
+    events:hasDate "1975"^^xsd:gYear ;
+    events:hasParticipant <https://w3id.org/zeri/data/person/C_44> .
+

@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/publication/le_musée",
+    "@type": [
+      "http://purl.org/ontology/bibo/Periodical",
+      "http://www.cidoc-crm.org/cidoc-crm/E77_Persistent_Item",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Le Musée. Revue d’art mensuelle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_182> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Commemorazione di Vincenzo Ciampolini., In «L'Antiquario», XVIII-XXV, 1, 1932,, p. 46." ;
+    dcterms:title "Commemorazione di Vincenzo Ciampolini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/CI_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CI> .
+

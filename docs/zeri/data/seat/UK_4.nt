@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/UK_4> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/UK_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/UK_4> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/UK_4> .
+<https://w3id.org/zeri/data/seat/UK_4> <https://schema.org/name> "Giuseppe Bellesi, \"The Italian Art Gallery\""@it .
+<https://w3id.org/zeri/data/seat/UK_4> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .

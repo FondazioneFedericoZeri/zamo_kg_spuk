@@ -2,7 +2,7 @@ from src.rdf_graph import RDFGraph
 from src.html_page import HTMLPage, IndexPage, QueryPage, DocPage
 
 def main():
-    source = "https://chad-kg.duckdns.org/chadkg/sparql"
+    source = "http://localhost:3030/zamo-kg/sparql" # ! Edit with correct endpoint !
     rdf = RDFGraph(source, is_sparql_endpoint=True)
     entities = rdf.get_property_object_data()
     summary = rdf.get_summary()

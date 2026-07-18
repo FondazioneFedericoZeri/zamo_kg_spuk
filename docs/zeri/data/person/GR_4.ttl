@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/GR_4> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?batch=100&page=1&view=gallery&sortby=AUTORE&decorator=layout_resp&apply=true&percorso_ricerca=F&locale=it&PRCM_PRCD=grassi> ;
+    schema:familyName "Grassi"@it ;
+    schema:givenName "Giuseppe"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_30>,
+        <https://w3id.org/zeri/data/location/IT_88> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/GR_4> .
+

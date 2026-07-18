@@ -1,0 +1,10 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/publication/le_musée> a bibo:Periodical,
+        crm:E77_Persistent_Item,
+        sources:BibliographicItem ;
+    rdfs:label "Le Musée. Revue d’art mensuelle"@it .
+

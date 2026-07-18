@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_102_d> a agents:Seat ;
+    schema:name "Dario Sabatello, \"Galleria Sabatello\""@it ;
+    agents:isActiveFrom "1932"^^xsd:gYear ;
+    agents:isActiveTo "1935"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_102_d> .
+

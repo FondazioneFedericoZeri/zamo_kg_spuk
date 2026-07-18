@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/BA_III> a agents:ArtDealerOrganization ;
+    schema:name "Casa Buti"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_126>,
+        <https://w3id.org/zeri/data/seat/IT_130>,
+        <https://w3id.org/zeri/data/seat/IT_131> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_14> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_24/BA_III>,
+        <https://w3id.org/zeri/data/collaboration/C_50/BA_III>,
+        <https://w3id.org/zeri/data/collaboration/C_66/BA_III>,
+        <https://w3id.org/zeri/data/main-collaboration/Ba_III_1> .
+

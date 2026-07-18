@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_195",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L., Firenze, Polistampa, 2011."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_1"
+      }
+    ]
+  }
+]

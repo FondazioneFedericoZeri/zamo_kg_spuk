@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/SA_III> a agents:ArtDealerOrganization ;
+    schema:name "Impresa di vendita in Italia Giulio Sambon"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_101>,
+        <https://w3id.org/zeri/data/seat/IT_110>,
+        <https://w3id.org/zeri/data/seat/IT_138>,
+        <https://w3id.org/zeri/data/seat/IT_4>,
+        <https://w3id.org/zeri/data/seat/IT_80> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_16>,
+        <https://w3id.org/zeri/data/collaboration/R_49>,
+        <https://w3id.org/zeri/data/collaboration/R_52> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/SA_III_1> .
+

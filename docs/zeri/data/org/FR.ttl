@@ -1,0 +1,13 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/FR> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Freschi"@it,
+        "Galleria antiquaria Salocchi-Freschi"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_45>,
+        <https://w3id.org/zeri/data/seat/IT_71>,
+        <https://w3id.org/zeri/data/seat/IT_74_b> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_28> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/FR_1>,
+        <https://w3id.org/zeri/data/main-collaboration/FR_2> .
+

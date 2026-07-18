@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_184">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Deluxe illustrated catalogue of the furniture and works of art from the castle formerly occupied by the savoy family in verzuolo (piedmont) italy : and other valuable artistic property recently selected abroad by the connoisseur chevalier raoul tolentino, catalogo della vendita all'asta America Art Association (New York,  16-18 febbraio 1922)., New York, 1922.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Deluxe illustrated catalogue of the furniture and works of art from the castle formerly occupied by the savoy family in verzuolo (piedmont) italy : and other valuable artistic property recently selected abroad by the connoisseur chevalier raoul tolentino, catalogo della vendita all'asta America Art Association (New York,  16-18 febbraio 1922).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+  </rdf:Description>
+</rdf:RDF>

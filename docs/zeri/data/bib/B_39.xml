@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_39">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Del Giorgio, L, 2021-2022., Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo., Università degli Studi di Firenze.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/del-giorgio-l"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2021</dcterms:date>
+    <dcterms:title xml:lang="it">Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/CI"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/CI_1"/>
+  </rdf:Description>
+</rdf:RDF>

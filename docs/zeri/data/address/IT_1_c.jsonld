@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/address/IT_1_c",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "it",
+        "@value": "Italia"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "it",
+        "@value": "Venezia"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "it",
+        "@value": "Veneto"
+      }
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "it",
+        "@value": "Calle Larga XXII marzo"
+      }
+    ]
+  }
+]

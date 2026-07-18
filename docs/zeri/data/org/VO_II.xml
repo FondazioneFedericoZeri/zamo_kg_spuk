@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/VO_II">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Galleria Leonardo</schema:name>
+    <schema:name xml:lang="it">Volterra e Melli</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_46"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_48"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_75_b"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_86"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/FR_4"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_35"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_44"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/UK_3"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_41"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_20"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_5"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_4"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_3"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_2"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_1"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_67/VO_II"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_35/VO_II"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_40/VO_II"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_41/VO_II"/>
+  </rdf:Description>
+</rdf:RDF>

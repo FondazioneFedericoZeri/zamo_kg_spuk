@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_26> a crm:E66_Formation,
+        agents:Foundation ;
+    rdfs:label "Inaugurazione fondazione Ivan Bruschi"@it ;
+    crm:P15_was_influenced_by <https://w3id.org/zeri/data/cessation/BR_I> ;
+    rdfs:comment "L'antiquario Ivan Bruschi lasciò in eredità al comune di Arezzo il palazzo di famiglia, Palazzo del Capitano del Popolo, e la sua collezione. Nel 1996 il comune aprì la Fondazione a lui dedicata."@it ;
+    agents:hasFoundedOrganization <https://w3id.org/zeri/data/org/fondazione-bruschi> ;
+    events:hasDate "1996"^^xsd:gYear ;
+    events:hasParticipant <https://w3id.org/zeri/data/person/BR_I_1> .
+

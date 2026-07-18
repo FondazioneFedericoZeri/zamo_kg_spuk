@@ -1,0 +1,117 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_117",
+    "@type": [
+      "http://purl.org/ontology/bibo/Book",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Riccio, B, 1996., Lettere sull’antiquariato : di Mario Praz e Luigi Magnani 1952-1981., Torino, U. Allemandi., p. 116."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/riccio-b"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1996"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Lettere sull’antiquariato : di Mario Praz e Luigi Magnani 1952-1981."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GU-BR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AN-EF"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GU-BR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GU-BR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GU-BR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GU-BR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_6"
+      }
+    ]
+  }
+]

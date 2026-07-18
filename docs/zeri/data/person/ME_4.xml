@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/ME_4">
+    <crm:P152_has_parent rdf:resource="https://w3id.org/zeri/data/person/ME_1"/>
+  </rdf:Description>
+</rdf:RDF>

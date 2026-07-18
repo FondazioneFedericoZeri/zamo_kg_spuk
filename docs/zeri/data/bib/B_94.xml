@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_94">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Napodano, L, 2018., Giulio Sambon mercante d'arte., In «Acme», vol. 17, 2,, pp. 131-165.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/napodano-l"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2018</dcterms:date>
+    <dcterms:title xml:lang="it">Giulio Sambon mercante d'arte.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/SA_III"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SA_III_1"/>
+  </rdf:Description>
+</rdf:RDF>

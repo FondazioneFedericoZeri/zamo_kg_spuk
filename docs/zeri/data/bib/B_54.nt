@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_54> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/ST> .
+<https://w3id.org/zeri/data/bib/B_54> <http://purl.org/dc/terms/title> "Franco Steffanoni per Gian Battista Tiepolo. Frammenti di lettere famigliari, in Tiepolo e la prima guerra mondiale, a cura di Giulio Manieri Elia e Chiara Piva."@it .
+<https://w3id.org/zeri/data/bib/B_54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_54> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_54> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/ST_1> .
+<https://w3id.org/zeri/data/bib/B_54> <http://purl.org/dc/terms/bibliographicCitation> "Giannini, F, 2017., Franco Steffanoni per Gian Battista Tiepolo. Frammenti di lettere famigliari, in Tiepolo e la prima guerra mondiale, a cura di Giulio Manieri Elia e Chiara Piva., Firenze." .
+<https://w3id.org/zeri/data/bib/B_54> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/giannini-f> .

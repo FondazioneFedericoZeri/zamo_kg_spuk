@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_116> a agents:Seat ;
+    schema:name "Guido Sestieri"@it ;
+    agents:isActiveFrom "1932"^^xsd:gYear ;
+    agents:isActiveTo "1939"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_116> .
+

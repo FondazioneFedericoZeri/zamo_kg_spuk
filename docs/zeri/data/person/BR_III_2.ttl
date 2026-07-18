@@ -1,0 +1,4 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<https://w3id.org/zeri/data/person/BR_III_2> crm:P152_has_parent <https://w3id.org/zeri/data/person/BR_III_1> .
+

@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_17",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "L'intera collezione Simonetti fu venduta per volere dei figli nel 1932, presso la casa d'aste di Guido Tavazzi"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - Collezione Simonetti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1932"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasFacilitator": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/JA-TA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/JA-TA_4"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/SI"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_17"
+      }
+    ]
+  }
+]

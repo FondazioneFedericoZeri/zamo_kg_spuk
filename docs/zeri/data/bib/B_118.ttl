@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_118> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Rizzo, R, 2016., Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato, Cinisello Balsamo, Silvana." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/rizzo-r> ;
+    dcterms:date "2016"^^xsd:gYear ;
+    dcterms:title "Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/AC_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/AC> .
+

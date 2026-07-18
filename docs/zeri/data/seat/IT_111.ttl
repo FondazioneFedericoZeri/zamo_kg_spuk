@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_111> a agents:Seat ;
+    rdfs:comment "data di apertura/chiusura incerta"@it ;
+    schema:name "Filippo Tavazzi (1880 ca.-1895); Pellegrino Sestieri (1895 ca.-1915 ca.)"@it ;
+    agents:isActiveFrom "1880"^^xsd:gYear ;
+    agents:isActiveTo "1915"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_111> .
+

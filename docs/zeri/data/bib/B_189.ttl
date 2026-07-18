@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_189> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919)., New York 1919." ;
+    dcterms:title "Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/TO_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+

@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_35> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Conti, G, 2009., I fratelli Bellini, inventori di un nuovo modo di fare antiquariato: un ricordo dei fondatori della Biennale fiorentina e dell'A.A.I., In «Gazzetta antiquaria»,  N.S. 55, 1,, pp. 22-25." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/conti-g> ;
+    dcterms:date "2009"^^xsd:gYear ;
+    dcterms:title "I fratelli Bellini, inventori di un nuovo modo di fare antiquariato: un ricordo dei fondatori della Biennale fiorentina e dell'A.A.I."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+

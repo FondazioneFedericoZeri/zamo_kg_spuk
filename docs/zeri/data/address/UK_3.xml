@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/address/UK_3">
+    <rdf:type rdf:resource="https://schema.org/PostalAddress"/>
+    <schema:addressCountry xml:lang="it">Regno Unito</schema:addressCountry>
+    <schema:addressLocality xml:lang="it">Londra</schema:addressLocality>
+    <schema:addressRegion xml:lang="it">Regno Unito</schema:addressRegion>
+    <schema:streetAddress xml:lang="it">King Street</schema:streetAddress>
+  </rdf:Description>
+</rdf:RDF>

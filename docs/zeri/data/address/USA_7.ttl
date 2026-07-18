@@ -1,0 +1,7 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/USA_7> a schema:PostalAddress ;
+    schema:addressCountry "Stati Uniti d'America"@it ;
+    schema:addressRegion "Stati Uniti d'America"@it ;
+    schema:streetAddress "New York"@it .
+

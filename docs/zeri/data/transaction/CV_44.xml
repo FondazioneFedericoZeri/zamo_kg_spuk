@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/transaction/CV_44">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/events#Transaction"/>
+    <events:hasReceiver rdf:resource="https://w3id.org/zeri/data/client/CL_42"/>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/person/BA_IV_1"/>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/org/BA_IV"/>
+  </rdf:Description>
+</rdf:RDF>

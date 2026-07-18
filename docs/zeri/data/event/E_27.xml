@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_27">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Foundation"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E66_Formation"/>
+    <rdfs:comment xml:lang="it">Nel 2007 venne aperto a Firenze il Museo privato dedicato a Luigi Bellini</rdfs:comment>
+    <rdfs:label xml:lang="it">Inaugurazione Museo Bellini</rdfs:label>
+    <crm:P15_was_influenced_by rdf:resource="https://w3id.org/zeri/data/cessation/BE_I"/>
+    <agents:hasFoundedOrganization rdf:resource="https://w3id.org/zeri/data/org/museo-bellini"/>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2007</events:hasDate>
+  </rdf:Description>
+</rdf:RDF>

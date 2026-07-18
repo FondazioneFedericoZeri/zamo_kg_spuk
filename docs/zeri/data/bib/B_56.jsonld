@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_56",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Giometti, C; Ciancabilla, L, 2019., Stefano Bardini estrattista : affreschi staccati nell'Italia unita fra antiquariato, collezionismo e musei., Pisa, ETS."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/ciancabilla-l"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/giometti-c"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2019"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Stefano Bardini estrattista : affreschi staccati nell'Italia unita fra antiquariato, collezionismo e musei."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_1"
+      }
+    ]
+  }
+]

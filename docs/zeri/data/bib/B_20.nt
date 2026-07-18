@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_20> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/MO> .
+<https://w3id.org/zeri/data/bib/B_20> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/MO_1> .
+<https://w3id.org/zeri/data/bib/B_20> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/briganti-g> .
+<https://w3id.org/zeri/data/bib/B_20> <http://purl.org/dc/terms/bibliographicCitation> "Briganti, G, 1990., Sulla fortuna di Alberto Savinio. In Savinio, A. , Vivarelli, P. , Di Carlo, M. Savinio: gli anni di Parigi., Milano: Electa,, pp. 13-18." .
+<https://w3id.org/zeri/data/bib/B_20> <http://purl.org/dc/terms/title> "Sulla fortuna di Alberto Savinio. In Savinio, A. , Vivarelli, P. , Di Carlo, M. Savinio: gli anni di Parigi."@it .
+<https://w3id.org/zeri/data/bib/B_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_20> <http://purl.org/dc/terms/date> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .

@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_23",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Cappellini, P, 2023., Bardini and Beyond: Wilhelm Bode and the art dealers in Florence., In Smalcerz,, pp. 125-148."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/cappellini-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Bardini and Beyond: Wilhelm Bode and the art dealers in Florence."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_1"
+      }
+    ]
+  }
+]

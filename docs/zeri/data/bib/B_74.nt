@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/bib/B_74> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_1> .
+<https://w3id.org/zeri/data/bib/B_74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_74> <http://purl.org/dc/terms/title> "I fratelli Pini."@it .
+<https://w3id.org/zeri/data/bib/B_74> <http://purl.org/dc/terms/date> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_74> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_2> .
+<https://w3id.org/zeri/data/bib/B_74> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_3> .
+<https://w3id.org/zeri/data/bib/B_74> <http://purl.org/dc/terms/bibliographicCitation> "L'Etrusco, 1925., I fratelli Pini., In «L'Antiquario», XII, 3,, p. 144." .
+<https://w3id.org/zeri/data/bib/B_74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_74> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/l-etrusco> .
+<https://w3id.org/zeri/data/bib/B_74> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PI> .

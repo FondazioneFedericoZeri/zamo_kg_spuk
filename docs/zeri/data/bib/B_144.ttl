@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_144> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Tolosani, D, 1926., Galleria Bellini., In «L'Antiquario», XIII,2,, pp. 53-54." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/tolosani-d> ;
+    dcterms:date "1926"^^xsd:gYear ;
+    dcterms:title "Galleria Bellini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+

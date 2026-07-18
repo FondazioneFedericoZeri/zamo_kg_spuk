@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_174",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)., Roma 1909."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/FE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/FE_1"
+      }
+    ]
+  }
+]

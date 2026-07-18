@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/address/IT_48",
+    "@type": [
+      "https://schema.org/PostalAddress"
+    ],
+    "https://schema.org/addressCountry": [
+      {
+        "@language": "it",
+        "@value": "Italia"
+      }
+    ],
+    "https://schema.org/addressLocality": [
+      {
+        "@language": "it",
+        "@value": "Firenze"
+      }
+    ],
+    "https://schema.org/addressRegion": [
+      {
+        "@language": "it",
+        "@value": "Toscana"
+      }
+    ],
+    "https://schema.org/streetAddress": [
+      {
+        "@language": "it",
+        "@value": "Borgo Ognissanti 17"
+      }
+    ]
+  }
+]

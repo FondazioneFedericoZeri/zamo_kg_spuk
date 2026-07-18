@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_4_f> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_4_f> <https://schema.org/name> "Aldo Geri, \"Galleria Geri, del Bramante, del Portico\""@it .
+<https://w3id.org/zeri/data/seat/IT_4_f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_4_f> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_4_f> .
+<https://w3id.org/zeri/data/seat/IT_4_f> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .

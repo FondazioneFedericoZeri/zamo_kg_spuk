@@ -1,0 +1,4 @@
+<https://w3id.org/zeri/data/address/USA_7> <https://schema.org/addressRegion> "Stati Uniti d'America"@it .
+<https://w3id.org/zeri/data/address/USA_7> <https://schema.org/addressCountry> "Stati Uniti d'America"@it .
+<https://w3id.org/zeri/data/address/USA_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/USA_7> <https://schema.org/streetAddress> "New York"@it .

@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/reconstruction/LA_I_2",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#HistoricalReconstruction"
+    ]
+  }
+]

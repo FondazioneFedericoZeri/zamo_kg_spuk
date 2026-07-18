@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_97> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Napoleone, V, 2017., Bardini e Roma, collaborazioni antiquarie per una clientela d'oltreoceano., In Teodori, Celani,, pp. 69-81: p. 80, nota 19." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/napoleone-v> ;
+    dcterms:date "2017"^^xsd:gYear ;
+    dcterms:title "Bardini e Roma, collaborazioni antiquarie per una clientela d'oltreoceano."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_II> .
+

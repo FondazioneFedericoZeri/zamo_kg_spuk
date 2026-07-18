@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_175> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)., Roma 1910." ;
+    dcterms:title "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+

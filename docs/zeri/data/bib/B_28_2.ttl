@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_28_2> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Cecutti, D, 2013, Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento, Firenze, Maschietto Editore, pp. 82, 202-203, 238" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/cecutti-d> ;
+    dcterms:date "2013"^^xsd:gYear ;
+    dcterms:title "Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
+

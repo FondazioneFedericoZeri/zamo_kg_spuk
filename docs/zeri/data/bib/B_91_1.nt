@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_91_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_91_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+<https://w3id.org/zeri/data/bib/B_91_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/morandotti-a> .
+<https://w3id.org/zeri/data/bib/B_91_1> <http://purl.org/dc/terms/date> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_91_1> <http://purl.org/dc/terms/title> "Il collezionismo in Lombardia. Studi e ricerche tra '600 e '800"@it .
+<https://w3id.org/zeri/data/bib/B_91_1> <http://purl.org/dc/terms/bibliographicCitation> "Morandotti, A, 2008, Il collezionismo in Lombardia. Studi e ricerche tra '600 e '800, Milano, Officina Libraria" .
+<https://w3id.org/zeri/data/bib/B_91_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

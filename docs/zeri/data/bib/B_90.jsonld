@@ -1,0 +1,54 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_90",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Modestini, M, 2018., Capolavori : basato su un manoscritto di Mario Modestini., Fiesole, Cadmo."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/modestini-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Capolavori : basato su un manoscritto di Mario Modestini."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VO_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_V"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_1"
+      }
+    ]
+  }
+]

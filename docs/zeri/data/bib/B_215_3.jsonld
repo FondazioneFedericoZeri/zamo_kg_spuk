@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_215_3",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "La Madonna del Giambellino rubata e recuperata a Venezia, in «L'Antiquario», II, 1909, 1, pp. 6-8"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "La Madonna del Giambellino rubata e recuperata a Venezia"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_VI"
+      }
+    ]
+  }
+]

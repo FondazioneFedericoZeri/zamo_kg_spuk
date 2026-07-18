@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/seat/IT_58> <https://schema.org/name> "Benvenuto e Riccardo Bacarelli dal 1996"@it .
+<https://w3id.org/zeri/data/seat/IT_58> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_58> <http://www.w3.org/2000/01/rdf-schema#comment> "data di apertura/chiusura incerta"@it .
+<https://w3id.org/zeri/data/seat/IT_58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_58> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_58> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_58> .

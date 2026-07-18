@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_106_2> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Pellegrini, E, 2014, Gli scambi di opere d’arte nella politica del Ventennio. I Busti Vanchetoni per la Pietà di Palestrina e il caso Ventura-Goering, in Cipriani Curzi Picardi, pp. 245-251" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/pellegrini-e> ;
+    dcterms:date "2014"^^xsd:gYear ;
+    dcterms:title "Gli scambi di opere d’arte nella politica del Ventennio. I Busti Vanchetoni per la Pietà di Palestrina e il caso Ventura-Goering"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/VE> .
+

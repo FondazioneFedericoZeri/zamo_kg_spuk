@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_94> a agents:Seat ;
+    schema:name "Emanuele e Guido Sestieri, \"Galleria Sestieri\""@it ;
+    agents:isActiveFrom "1945"^^xsd:gYear ;
+    agents:isActiveTo "1985"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_94> .
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/venture/VO_I">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&amp;apply=true&amp;percorso_ricerca=OA&amp;sortby=LOCALIZZAZIONE&amp;batch=10&amp;view=list&amp;locale=it&amp;PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=E.+Volpi"/>
+    <schema:name xml:lang="it">Volpi</schema:name>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/org/VO_I"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/VO_I_1"/>
+  </rdf:Description>
+</rdf:RDF>

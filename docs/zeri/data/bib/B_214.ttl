@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_214> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Vendita all’asta dell’importante raccolta di dipinti antichi, mobili, oggetti d’arte e di arredamento, argenterie e preziosi appartenenti alla Successione di Miss Rita Miriam Bellesi, catalogo della vendita all'asta Pandolfini (Firenze, 14-17 ottobre 1968)., Firenze 1968." ;
+    dcterms:title "Vendita all’asta dell’importante raccolta di dipinti antichi, mobili, oggetti d’arte e di arredamento, argenterie e preziosi appartenenti alla Successione di Miss Rita Miriam Bellesi, catalogo della vendita all'asta Pandolfini (Firenze, 14-17 ottobre 1968)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_II> .
+

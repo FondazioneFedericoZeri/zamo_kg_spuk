@@ -1,0 +1,14 @@
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_53> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_88> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_52_b> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_73> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/GR_4> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/GR_1> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/GR_2> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_22> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/GR_3> .
+<https://w3id.org/zeri/data/org/GR> <https://schema.org/name> "Galleria Ognissanti"@it .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_135_d> .
+<https://w3id.org/zeri/data/org/GR> <https://schema.org/name> "Luigi Grassi & sons"@it .
+<https://w3id.org/zeri/data/org/GR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/GR> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_13> .

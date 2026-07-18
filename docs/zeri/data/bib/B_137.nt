@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/bib/B_137> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_1> .
+<https://w3id.org/zeri/data/bib/B_137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_137> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_2> .
+<https://w3id.org/zeri/data/bib/B_137> <http://purl.org/dc/terms/title> "Giuseppe Salvadori."@it .
+<https://w3id.org/zeri/data/bib/B_137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_137> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_II_3> .
+<https://w3id.org/zeri/data/bib/B_137> <http://purl.org/dc/terms/date> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_137> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_II> .
+<https://w3id.org/zeri/data/bib/B_137> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1929., Giuseppe Salvadori., In «L'Antiquario», XVI,, pp. 3-9." .
+<https://w3id.org/zeri/data/bib/B_137> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .

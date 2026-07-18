@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/transaction/CV_17",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Transaction"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasReceiver": [
+      {
+        "@id": "https://w3id.org/zeri/data/client/CL_17"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_III_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/org/CO_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/GR_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/org/GR_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/org/CA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CO_III_1"
+      }
+    ]
+  }
+]

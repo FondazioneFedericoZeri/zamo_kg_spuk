@@ -1,0 +1,13 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/collaboration/C_62/CO_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Collaboration"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasRole": [
+      {
+        "@id": "https://w3id.org/zeri/ontology/zamo/agents#art-historian-consultant"
+      }
+    ]
+  }
+]

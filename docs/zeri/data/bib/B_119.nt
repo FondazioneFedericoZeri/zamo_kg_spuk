@@ -1,0 +1,18 @@
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VI_II> .
+<https://w3id.org/zeri/data/bib/B_119> <http://purl.org/dc/terms/title> "Il mondo del collezionismo privato a Genova nel Novecento."@it .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BO_1> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RU_1> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RU> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VI_II_1> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PA_I> .
+<https://w3id.org/zeri/data/bib/B_119> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/romanengo-m> .
+<https://w3id.org/zeri/data/bib/B_119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BO> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CR_1> .
+<https://w3id.org/zeri/data/bib/B_119> <http://purl.org/dc/terms/bibliographicCitation> "Romanengo, M, 2001., Il mondo del collezionismo privato a Genova nel Novecento., In Orlando,, pp. 110-120." .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CR> .
+<https://w3id.org/zeri/data/bib/B_119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VI_III_1> .
+<https://w3id.org/zeri/data/bib/B_119> <http://purl.org/dc/terms/date> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_119> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PA_I_1> .

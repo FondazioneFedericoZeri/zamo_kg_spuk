@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_23> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Cappellini, P, 2023., Bardini and Beyond: Wilhelm Bode and the art dealers in Florence., In Smalcerz,, pp. 125-148." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/cappellini-p> ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Bardini and Beyond: Wilhelm Bode and the art dealers in Florence."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/Co_III_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_III> .
+

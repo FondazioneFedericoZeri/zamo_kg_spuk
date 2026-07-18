@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_73">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>L'Etrusco, 1923., I bronzi di Barsanti., In «L'Antiquario», X, 1-2,, p. 8.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/l-etrusco"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1923</dcterms:date>
+    <dcterms:title xml:lang="it">I bronzi di Barsanti.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BA_III"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Ba_III_1"/>
+  </rdf:Description>
+</rdf:RDF>

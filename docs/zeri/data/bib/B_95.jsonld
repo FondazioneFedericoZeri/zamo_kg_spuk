@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_95",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Napoleone, V, 2020., Between Florence and Berlin: the international art market in post-unification Rome., In Catterson,, pp. 181-208."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/napoleone-v"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Between Florence and Berlin: the international art market in post-unification Rome."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_III_1"
+      }
+    ]
+  }
+]

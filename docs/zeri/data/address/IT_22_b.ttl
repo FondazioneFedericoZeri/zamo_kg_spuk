@@ -1,0 +1,7 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_22_b> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Bologna"@it ;
+    schema:addressRegion "Emilia-Romagna"@it .
+

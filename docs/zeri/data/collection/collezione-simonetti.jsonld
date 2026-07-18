@@ -1,0 +1,9 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/collection/collezione-simonetti",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#CuratedHolding",
+      "http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding"
+    ]
+  }
+]

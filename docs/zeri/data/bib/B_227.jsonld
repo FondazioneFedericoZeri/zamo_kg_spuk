@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_227",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "9/6/2023, Intervista a Marco Fabio Apolloni., Roma"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Marco Fabio Apolloni."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_1"
+      }
+    ]
+  }
+]

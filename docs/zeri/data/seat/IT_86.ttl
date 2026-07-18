@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_86> a agents:Seat ;
+    rdfs:comment "data di apertura/chiusura incerta"@it ;
+    schema:name "Gustavo Volterra e Cesare Melli, \"Volterra & Melli\" (sede e laboratori)"@it ;
+    agents:isActiveFrom "1901"^^xsd:gYear ;
+    agents:isActiveTo "1913"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_86> .
+

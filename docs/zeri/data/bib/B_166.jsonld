@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_166",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogo della collezione Baslini de Milano da vendersi per conto degli eredi. Quadri, avori, medaglie, placchette, armi, bronzi, ferri, maioliche, porcellano, oggetti d’arte, marmi, terre cotte, arazzi, stoffe, merletti, mobili diversi, catalogo della vendita all'asta Impresa di Vendite in Italia Giulio Sambon (Milano, 26 Novembre 1888 e giorni successivi)., Milano 1888."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogo della collezione Baslini de Milano da vendersi per conto degli eredi. Quadri, avori, medaglie, placchette, armi, bronzi, ferri, maioliche, porcellano, oggetti d’arte, marmi, terre cotte, arazzi, stoffe, merletti, mobili diversi, catalogo della vendita all'asta Impresa di Vendite in Italia Giulio Sambon (Milano, 26 Novembre 1888 e giorni successivi)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BA_IV"
+      }
+    ]
+  }
+]

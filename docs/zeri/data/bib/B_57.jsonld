@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_57",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Glaros, M, 2012., Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II., PhD diss., University of Western Sidney,, pp.  337-342."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/glaros-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2012"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VO_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_1"
+      }
+    ]
+  }
+]

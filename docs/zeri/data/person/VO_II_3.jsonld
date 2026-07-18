@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/VO_II_3",
+    "@type": [
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+      "https://schema.org/Person",
+      "https://w3id.org/zeri/ontology/zamo/agents#Person"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P152_has_parent": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/VO_II_1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Volterra"
+      }
+    ],
+    "https://schema.org/birthDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1887"
+      }
+    ],
+    "https://schema.org/deathDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1944"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Volterra"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Gastone"
+      }
+    ],
+    "https://schema.org/sibling": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/VO_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/VO_II_4"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_86"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_75_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_48"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/FR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_30"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_35"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_44"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/UK_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_46"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/VO_II_3"
+      }
+    ]
+  }
+]

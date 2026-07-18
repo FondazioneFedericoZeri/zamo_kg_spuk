@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/reconstruction/SI_5",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#HistoricalReconstruction"
+    ]
+  }
+]

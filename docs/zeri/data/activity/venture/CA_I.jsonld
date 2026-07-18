@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/activity/venture/CA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_I"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#refersTo": [
+      {
+        "@id": "https://w3id.org/zeri/data/venture/CA_I"
+      }
+    ]
+  }
+]

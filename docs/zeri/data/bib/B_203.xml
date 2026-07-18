@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_203">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Roman antiquarian killed by autobus., In «The Paris Time», 5 p.m. Ed., 2 agosto 1928,, p. 1.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Roman antiquarian killed by autobus.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+  </rdf:Description>
+</rdf:RDF>

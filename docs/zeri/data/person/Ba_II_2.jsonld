@@ -1,0 +1,10 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/BA_II_2",
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_10"
+      }
+    ]
+  }
+]

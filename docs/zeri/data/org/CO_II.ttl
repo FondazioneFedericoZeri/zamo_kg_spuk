@@ -1,0 +1,11 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/CO_II> a agents:ArtDealerOrganization ;
+    schema:name "Casa di vendite Corvisieri & C."@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_113>,
+        <https://w3id.org/zeri/data/seat/IT_113_b> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_21>,
+        <https://w3id.org/zeri/data/collaboration/R_45> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/Co_II_1> .
+

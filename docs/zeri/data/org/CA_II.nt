@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/org/CA_II> <https://schema.org/name> "Giacomini & C."@it .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_113_b> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_107_b> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_113> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_125> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_99> .
+<https://w3id.org/zeri/data/org/CA_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_17> .
+<https://w3id.org/zeri/data/org/CA_II> <https://schema.org/name> "Corvisieri &C."@it .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CA_II_1> .
+<https://w3id.org/zeri/data/org/CA_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_21> .

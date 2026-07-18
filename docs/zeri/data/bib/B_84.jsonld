@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_84",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Marangoni, M; Barreca, L, 2006., Matteo Marangoni : Carteggi (1990-1958)., Palermo, Editrice Mediterranea."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/marangoni-m"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/barreca-l"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2006"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Matteo Marangoni : Carteggi (1990-1958)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_II_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/event/E_26> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/cessation/BR_I> .
+<https://w3id.org/zeri/data/event/E_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Foundation> .
+<https://w3id.org/zeri/data/event/E_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E66_Formation> .
+<https://w3id.org/zeri/data/event/E_26> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione fondazione Ivan Bruschi"@it .
+<https://w3id.org/zeri/data/event/E_26> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BR_I_1> .
+<https://w3id.org/zeri/data/event/E_26> <https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization> <https://w3id.org/zeri/data/org/fondazione-bruschi> .
+<https://w3id.org/zeri/data/event/E_26> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_26> <http://www.w3.org/2000/01/rdf-schema#comment> "L'antiquario Ivan Bruschi lasciò in eredità al comune di Arezzo il palazzo di famiglia, Palazzo del Capitano del Popolo, e la sua collezione. Nel 1996 il comune aprì la Fondazione a lui dedicata."@it .

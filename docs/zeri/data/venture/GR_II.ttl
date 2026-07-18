@@ -1,0 +1,9 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/venture/GR_II> a agents:FamiliarVenture ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&fulltextOA=Milano&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Grandi> ;
+    schema:name "Grandi"@it ;
+    agents:isCarriedOutBy <https://w3id.org/zeri/data/org/GR_II> .
+

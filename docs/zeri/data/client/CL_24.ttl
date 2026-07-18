@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/client/CL_24> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    schema:familyName "Clay Frick"@it ;
+    schema:givenName "Henry"@it .
+

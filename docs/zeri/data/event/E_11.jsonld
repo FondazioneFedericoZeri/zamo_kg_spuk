@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_11",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Un'ulteriore vendita all'asta della collezione di Elia Volpi c'è stata negli Stati Uniti nel 1916 per conto di Raoul Tolentino presso l'American Art Association di New York."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta - Collezione E. Volpi"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1916"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasFacilitator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/TO_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/VO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/VO_I_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_11"
+      }
+    ]
+  }
+]

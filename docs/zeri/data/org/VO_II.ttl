@@ -1,0 +1,26 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/VO_II> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Leonardo"@it,
+        "Volterra e Melli"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/FR_4>,
+        <https://w3id.org/zeri/data/seat/IT_35>,
+        <https://w3id.org/zeri/data/seat/IT_44>,
+        <https://w3id.org/zeri/data/seat/IT_46>,
+        <https://w3id.org/zeri/data/seat/IT_48>,
+        <https://w3id.org/zeri/data/seat/IT_75_b>,
+        <https://w3id.org/zeri/data/seat/IT_86>,
+        <https://w3id.org/zeri/data/seat/UK_3> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_20>,
+        <https://w3id.org/zeri/data/collaboration/R_41> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_35/VO_II>,
+        <https://w3id.org/zeri/data/collaboration/C_40/VO_II>,
+        <https://w3id.org/zeri/data/collaboration/C_41/VO_II>,
+        <https://w3id.org/zeri/data/collaboration/C_67/VO_II>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_II_1>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_II_2>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_II_3>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_II_4>,
+        <https://w3id.org/zeri/data/main-collaboration/VO_II_5> .
+

@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/GI",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria d’Arte"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_70"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_54"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GI_1"
+      }
+    ]
+  }
+]

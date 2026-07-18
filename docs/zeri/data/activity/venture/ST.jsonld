@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/activity/venture/ST",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/ST"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#refersTo": [
+      {
+        "@id": "https://w3id.org/zeri/data/venture/ST"
+      }
+    ]
+  }
+]

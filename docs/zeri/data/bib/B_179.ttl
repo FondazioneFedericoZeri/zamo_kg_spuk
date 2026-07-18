@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_179> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Commemorazione di Arturo Rambaldi., In «L'Antiquario», XVI, 3, 1929,, p. 177." ;
+    dcterms:title "Commemorazione di Arturo Rambaldi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RA_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RA> .
+

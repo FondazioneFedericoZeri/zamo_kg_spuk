@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_27",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Cavicchi, M, 2017., Falsi di primo Novecento nell'archivio di Luigi Albrighi., In Ottani Cavina,, pp. 199-225."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/cavicchi-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2017"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Falsi di primo Novecento nell'archivio di Luigi Albrighi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AL"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AL_1"
+      }
+    ]
+  }
+]

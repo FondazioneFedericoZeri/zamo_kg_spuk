@@ -1,0 +1,17 @@
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_136> .
+<https://w3id.org/zeri/data/org/CA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_16> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_7> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_7> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_3> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CA_I_3> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_4> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_5> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_6> .
+<https://w3id.org/zeri/data/org/CA_I> <https://schema.org/name> "Canessa Antiquaires – Numismates"@it .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CA_I_1> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CA_I_2> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_5> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_2> .
+<https://w3id.org/zeri/data/org/CA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_3> .
+<https://w3id.org/zeri/data/org/CA_I> <https://schema.org/name> "Galleria Canessa"@it .

@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/person/C_43> <https://schema.org/familyName> "Molajoli"@it .
+<https://w3id.org/zeri/data/person/C_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/C_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/C_43> <https://schema.org/givenName> "Bruno"@it .
+<https://w3id.org/zeri/data/person/C_43> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_43/SE_II> .
+<https://w3id.org/zeri/data/person/C_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .

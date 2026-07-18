@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_17">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/events#Purchase"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"/>
+    <rdfs:comment xml:lang="it">L'intera collezione Simonetti fu venduta per volere dei figli nel 1932, presso la casa d'aste di Guido Tavazzi</rdfs:comment>
+    <rdfs:label xml:lang="it">Vendita all'asta - Collezione Simonetti</rdfs:label>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1932</events:hasDate>
+    <events:hasFacilitator rdf:resource="https://w3id.org/zeri/data/org/JA-TA"/>
+    <events:hasFacilitator rdf:resource="https://w3id.org/zeri/data/person/JA-TA_4"/>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/org/SI"/>
+    <events:transfersPropertyOf rdf:resource="https://w3id.org/zeri/data/lot/E_17"/>
+  </rdf:Description>
+</rdf:RDF>

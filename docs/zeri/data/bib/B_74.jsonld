@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_74",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "L'Etrusco, 1925., I fratelli Pini., In «L'Antiquario», XII, 3,, p. 144."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/l-etrusco"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1925"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "I fratelli Pini."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_1"
+      }
+    ]
+  }
+]

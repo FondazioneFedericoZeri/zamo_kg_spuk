@@ -1,0 +1,14 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_1> a crm:E96_Purchase,
+        events:Purchase ;
+    rdfs:label "Vendita all'asta - Collezione Simonetti"@it ;
+    rdfs:comment "Una prima importante vendita della collezione Simonetti fu venduta dallo stesso Attilio Simonetti nel 1883 nella casa d'aste di Roma."@it ;
+    events:hasDate "1883"^^xsd:gYear ;
+    events:hasSurrender <https://w3id.org/zeri/data/org/SI>,
+        <https://w3id.org/zeri/data/person/SI_1> ;
+    events:transfersPropertyOf <https://w3id.org/zeri/data/lot/E_1> .
+

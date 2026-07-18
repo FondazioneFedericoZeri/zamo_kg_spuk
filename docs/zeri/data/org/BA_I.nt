@@ -1,0 +1,12 @@
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_58> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/Ba_I_1> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_67> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_61> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/Ba_I_3> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_69> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_39> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/Ba_I_2> .
+<https://w3id.org/zeri/data/org/BA_I> <https://schema.org/name> "Bacarelli antichità"@it .
+<https://w3id.org/zeri/data/org/BA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_32/BA_I> .
+<https://w3id.org/zeri/data/org/BA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_74> .

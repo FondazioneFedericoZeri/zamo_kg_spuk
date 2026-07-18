@@ -1,0 +1,3 @@
+<https://w3id.org/zeri/data/activity/AN-EF_3> <https://w3id.org/zeri/ontology/zamo/sources#refersTo> <https://w3id.org/zeri/data/person/AN-EF_3> .
+<https://w3id.org/zeri/data/activity/AN-EF_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#AgentActivity> .
+<https://w3id.org/zeri/data/activity/AN-EF_3> <https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy> <https://w3id.org/zeri/data/reconstruction/AN-EF_3> .

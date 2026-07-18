@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_217> a bibo:PersonalCommunicationDocument,
+        sources:Object ;
+    dcterms:bibliographicCitation "15/2/2023, Intervista a Mattia e Maria Novella Romano., Firenze" ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Intervista a Mattia e Maria Novella Romano."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+

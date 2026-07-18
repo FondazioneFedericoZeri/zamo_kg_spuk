@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/TO> a agents:ArtDealerOrganization ;
+    schema:name "Galerie d’Art Ancien"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_127>,
+        <https://w3id.org/zeri/data/seat/IT_34>,
+        <https://w3id.org/zeri/data/seat/IT_49>,
+        <https://w3id.org/zeri/data/seat/USA_2> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_18_b/TO>,
+        <https://w3id.org/zeri/data/main-collaboration/TO_1> .
+

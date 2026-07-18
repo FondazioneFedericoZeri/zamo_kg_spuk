@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/client/CL_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Emanuele Filiberto di Savoia-Aosta"
+      }
+    ]
+  }
+]

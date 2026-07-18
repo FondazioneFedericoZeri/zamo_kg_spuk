@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_191",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Italian Count marries American society woman., In «The New York Herald», 20 settembre 1922,, p. 1."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Italian Count marries American society woman."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      }
+    ]
+  }
+]

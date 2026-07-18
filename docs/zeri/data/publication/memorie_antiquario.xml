@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/publication/memorie_antiquario">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <rdfs:label xml:lang="it">Memorie di un antiquario</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

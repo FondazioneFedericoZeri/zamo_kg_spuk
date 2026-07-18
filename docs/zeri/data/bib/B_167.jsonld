@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_167",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogo della collezione De Clemente, oggetti di sola arte antica, quadri, sculture, bronzi, mobili, maioliche italiane, ecc., ecc, catalogo della vendita all'asta Ciardiello (Firenze, 29 aprile-3 maggio 1935)., Firenze 1935."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogo della collezione De Clemente, oggetti di sola arte antica, quadri, sculture, bronzi, mobili, maioliche italiane, ecc., ecc, catalogo della vendita all'asta Ciardiello (Firenze, 29 aprile-3 maggio 1935)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/DE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DE_1"
+      }
+    ]
+  }
+]

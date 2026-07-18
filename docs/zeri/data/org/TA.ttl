@@ -1,0 +1,13 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/TA> a agents:ArtDealerOrganization ;
+    schema:name "Filippo Tavazzi antichità"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_100>,
+        <https://w3id.org/zeri/data/seat/IT_106>,
+        <https://w3id.org/zeri/data/seat/IT_111>,
+        <https://w3id.org/zeri/data/seat/IT_93> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_29>,
+        <https://w3id.org/zeri/data/collaboration/R_30> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/TA_1> .
+

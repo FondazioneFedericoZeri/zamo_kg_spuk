@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_231",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "18/10/23, Intervista a Paolo Viancini."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Paolo Viancini."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VI_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VI_I_1"
+      }
+    ]
+  }
+]

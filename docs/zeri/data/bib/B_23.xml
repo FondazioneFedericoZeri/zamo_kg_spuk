@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_23">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/BookSection"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Cappellini, P, 2023., Bardini and Beyond: Wilhelm Bode and the art dealers in Florence., In Smalcerz,, pp. 125-148.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/cappellini-p"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2023</dcterms:date>
+    <dcterms:title xml:lang="it">Bardini and Beyond: Wilhelm Bode and the art dealers in Florence.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/CO_III"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Co_III_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Co_III_1"/>
+  </rdf:Description>
+</rdf:RDF>

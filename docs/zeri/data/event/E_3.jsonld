@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_3",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Purchase",
+      "http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Tra le celebri vendite attribuite agli antiquari Canessa, vi è quella degli \"Argenti Cacace\", rinvenuti a Taranto nel 1896."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Vendita all'asta \"Argenti Cacace\""
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1896"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/CA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CA_I_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_3"
+      }
+    ]
+  }
+]

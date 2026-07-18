@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_149",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Watrelot, M, 2020., Wilhelm von Bode and Prince Johann II von Liechtenstein: the Private Correspondence 1882-1925., In Catterson,, pp. 11-46."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/watrelot-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Wilhelm von Bode and Prince Johann II von Liechtenstein: the Private Correspondence 1882-1925."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CO_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Co_III_1"
+      }
+    ]
+  }
+]

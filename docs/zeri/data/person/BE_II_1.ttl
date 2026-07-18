@@ -1,0 +1,23 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/person/BE_II_1> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=bellesi> ;
+    schema:birthDate "1873"^^xsd:gYear ;
+    schema:deathDate "1955"^^xsd:gYear ;
+    schema:familyName "Bellesi"@it ;
+    schema:givenName "Giuseppe"@it ;
+    schema:workLocation <https://w3id.org/zeri/data/location/IT_81>,
+        <https://w3id.org/zeri/data/location/UK_1>,
+        <https://w3id.org/zeri/data/location/UK_2>,
+        <https://w3id.org/zeri/data/location/UK_4>,
+        <https://w3id.org/zeri/data/location/UK_5>,
+        <https://w3id.org/zeri/data/location/UK_6>,
+        <https://w3id.org/zeri/data/location/UK_7> ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/BE_II_1> .
+

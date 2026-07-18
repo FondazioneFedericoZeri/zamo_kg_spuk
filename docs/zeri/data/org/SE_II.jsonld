@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SE_II",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Sestieri"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_112"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_116"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_119"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_129"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_94"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_33"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SE_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_9/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_43/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_14/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_14_b/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_16_b/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_21/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_22/SE_II"
+      }
+    ]
+  }
+]

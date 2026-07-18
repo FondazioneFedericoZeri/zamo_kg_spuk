@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_121> <http://purl.org/dc/terms/title> "Un falso Rinascimento?: 1. Michele Lazzaroni (1863-1934), tra contraffazione e restauro."@it .
+<https://w3id.org/zeri/data/bib/B_121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_121> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+<https://w3id.org/zeri/data/bib/B_121> <http://purl.org/dc/terms/date> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_121> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_II_1> .
+<https://w3id.org/zeri/data/bib/B_121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_121> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/sambo-e> .
+<https://w3id.org/zeri/data/bib/B_121> <http://purl.org/dc/terms/bibliographicCitation> "Sambo, E, 2015., Un falso Rinascimento?: 1. Michele Lazzaroni (1863-1934), tra contraffazione e restauro., In «Studiolo», 11, 2014,, pp. 94-107, 301-302." .

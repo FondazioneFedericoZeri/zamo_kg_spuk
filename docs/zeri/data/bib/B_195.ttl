@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_195> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L., Firenze, Polistampa, 2011." ;
+    dcterms:title "Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+

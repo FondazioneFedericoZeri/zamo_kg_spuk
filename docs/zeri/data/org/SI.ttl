@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/SI> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Simonetti"@it,
+        "Simonetti Aldo Giulio & C."@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_134>,
+        <https://w3id.org/zeri/data/seat/IT_97> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_14>,
+        <https://w3id.org/zeri/data/collaboration/R_17> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/SI_1>,
+        <https://w3id.org/zeri/data/main-collaboration/SI_2>,
+        <https://w3id.org/zeri/data/main-collaboration/SI_3>,
+        <https://w3id.org/zeri/data/main-collaboration/SI_4>,
+        <https://w3id.org/zeri/data/main-collaboration/SI_5> .
+

@@ -1,0 +1,72 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_66",
+    "@type": [
+      "http://purl.org/ontology/bibo/Book",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Jandolo, A, 1947., Antiquaria., Milano, Ceschina."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/jandolo-a"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1947"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Antiquaria."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/JA"
+      }
+    ]
+  }
+]

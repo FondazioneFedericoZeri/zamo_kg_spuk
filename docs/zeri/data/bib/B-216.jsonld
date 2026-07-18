@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B-216",
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_I_1"
+      }
+    ]
+  }
+]

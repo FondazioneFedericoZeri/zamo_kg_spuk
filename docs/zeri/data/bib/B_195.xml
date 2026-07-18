@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_195">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L., Firenze, Polistampa, 2011.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Le stanze dei tesori : collezionisti e antiquari a Firenze tra Ottocento e Novecento, catalogo della mostra (Firenze, Palazzo Medici Riccardi, 3 ottobre 2011 - 15 aprile 2012), a cura di Mannini, L.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BE_I"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_5"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_4"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_1"/>
+  </rdf:Description>
+</rdf:RDF>

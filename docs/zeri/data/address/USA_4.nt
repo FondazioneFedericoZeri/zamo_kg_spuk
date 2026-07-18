@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/USA_4> <https://schema.org/addressLocality> "New York City"@it .
+<https://w3id.org/zeri/data/address/USA_4> <https://schema.org/addressRegion> "Stati Uniti d'America"@it .
+<https://w3id.org/zeri/data/address/USA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/USA_4> <https://schema.org/streetAddress> "547 5th av"@it .
+<https://w3id.org/zeri/data/address/USA_4> <https://schema.org/addressCountry> "Stati Uniti d'America"@it .

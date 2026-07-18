@@ -1,0 +1,7 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_10> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Genova"@it ;
+    schema:addressRegion "Liguria"@it .
+

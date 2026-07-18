@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/org/CO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_21> .
+<https://w3id.org/zeri/data/org/CO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_113> .
+<https://w3id.org/zeri/data/org/CO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/Co_II_1> .
+<https://w3id.org/zeri/data/org/CO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_45> .
+<https://w3id.org/zeri/data/org/CO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_113_b> .
+<https://w3id.org/zeri/data/org/CO_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/CO_II> <https://schema.org/name> "Casa di vendite Corvisieri & C."@it .

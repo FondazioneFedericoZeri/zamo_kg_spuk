@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_204> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_1> .
+<https://w3id.org/zeri/data/bib/B_204> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_2> .
+<https://w3id.org/zeri/data/bib/B_204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_204> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+<https://w3id.org/zeri/data/bib/B_204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_204> <http://purl.org/dc/terms/title> "Salvatore e Francesco Romano antiquari a Firenze, un secolo di attività a Palazzo Magnani Feroni, catalogo della vendita all'asta Sotheby's, (Firenze, 12-15 ottobre 2009)."@it .
+<https://w3id.org/zeri/data/bib/B_204> <http://purl.org/dc/terms/bibliographicCitation> "Salvatore e Francesco Romano antiquari a Firenze, un secolo di attività a Palazzo Magnani Feroni, catalogo della vendita all'asta Sotheby's, (Firenze, 12-15 ottobre 2009)., Firenze 2009." .

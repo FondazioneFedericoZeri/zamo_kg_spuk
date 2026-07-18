@@ -1,0 +1,14 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_12> a crm:E96_Purchase,
+        events:Purchase ;
+    rdfs:label "Vendita all'asta - Collezione E. Villa"@it ;
+    rdfs:comment "Per volere dello stesso Edoardo Villa, a causa di problemi economici, venne organizzata la vendita della sua collezione, che si tenne presso la Galleria Vitelli di Genova, nelle sale di Palazzo Granello, nel 1923."@it ;
+    events:hasDate "1923"^^xsd:gYear ;
+    events:hasSurrender <https://w3id.org/zeri/data/org/VI_III>,
+        <https://w3id.org/zeri/data/person/VO_III_1> ;
+    events:transfersPropertyOf <https://w3id.org/zeri/data/lot/E_12> .
+

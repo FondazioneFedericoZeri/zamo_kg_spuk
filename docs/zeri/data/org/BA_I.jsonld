@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/BA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Bacarelli antichità"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_74"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_69"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_67"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_61"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_58"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_39"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Ba_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Ba_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Ba_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_32/BA_I"
+      }
+    ]
+  }
+]

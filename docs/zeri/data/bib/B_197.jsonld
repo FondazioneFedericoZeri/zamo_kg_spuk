@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_197",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Pietro Bruschi di Arezzo., In «L'Antiquario», XIV, 2, 1927,, p. 83."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Pietro Bruschi di Arezzo."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_1"
+      }
+    ]
+  }
+]

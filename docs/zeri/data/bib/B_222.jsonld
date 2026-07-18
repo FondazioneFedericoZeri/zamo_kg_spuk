@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_222",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "6/4/2023, Intervista eredi Bellini, Firenze., Firenze"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista eredi Bellini, Firenze."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_1"
+      }
+    ]
+  }
+]

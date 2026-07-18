@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_177> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Coming italian art sale., In «American Art News», 12 luglio 1919, 17, n. 36,, p. 5." ;
+    dcterms:title "Coming italian art sale."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/TO_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+

@@ -1,0 +1,11 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/C_38_b> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    schema:familyName "Martini"@it ;
+    schema:givenName "Egidio"@it ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/collaboration/C_38_b/VI_I> .
+

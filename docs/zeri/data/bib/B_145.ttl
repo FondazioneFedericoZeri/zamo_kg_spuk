@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_145> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Tolosani, D, 1928., La donazione Contini., In «L'Antiquario», XV, 3,, pp. 123-125." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/tolosani-d> ;
+    dcterms:date "1928"^^xsd:gYear ;
+    dcterms:title "La donazione Contini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+

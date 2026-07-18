@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_75> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "L'Obiettivo, 1932., Salvatore Romano., In «L'Antiquario», XVIII-XXV, 1,, p. 48." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/l-obiettivo> ;
+    dcterms:date "1932"^^xsd:gYear ;
+    dcterms:title "Salvatore Romano."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+

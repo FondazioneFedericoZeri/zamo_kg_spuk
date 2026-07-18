@@ -1,0 +1,13 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/person/C_39> a crm:E21_Person,
+        schema:Person,
+        agents:Person ;
+    schema:familyName "Mason Perkins"@it ;
+    schema:givenName "Frederick"@it ;
+    agents:providesServiceIn <https://w3id.org/zeri/data/collaboration/C_39/CO_I>,
+        <https://w3id.org/zeri/data/collaboration/C_39/FO>,
+        <https://w3id.org/zeri/data/collaboration/C_39/SA_IV> .
+

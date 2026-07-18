@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_116> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Roma"@it ;
+    schema:addressRegion "Lazio"@it ;
+    schema:streetAddress "Via Margutta 53"@it .
+

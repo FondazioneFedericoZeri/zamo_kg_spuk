@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/USA_8> a schema:PostalAddress ;
+    schema:addressCountry "Stati Uniti d'America"@it ;
+    schema:addressLocality "New York City"@it ;
+    schema:addressRegion "Stati Uniti d'America"@it ;
+    schema:streetAddress "15 East 47th street"@it .
+

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_37",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "De Callataÿ, F, 2016., Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting., In «Anabases», XXIII,, pp. 47-73."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/de-callata-f"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2016"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il venditore d'antichità by Vincenzo Capobianchi (1880): possibly the most scholarly work of the neo-Pompeian painting."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_II_1"
+      }
+    ]
+  }
+]

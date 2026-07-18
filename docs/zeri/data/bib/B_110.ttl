@@ -1,0 +1,17 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_110> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Planiscig L, 2006., La collezione Luigi Grassi di piccoli bronzi del Rinascimento., Firenze, Centro Di." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/planiscig-l> ;
+    dcterms:date "2006"^^xsd:gYear ;
+    dcterms:title "La collezione Luigi Grassi di piccoli bronzi del Rinascimento."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+

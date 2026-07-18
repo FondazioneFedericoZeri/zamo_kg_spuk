@@ -1,0 +1,7 @@
+<https://w3id.org/zeri/data/person/C_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://w3id.org/zeri/data/person/C_50> <https://schema.org/givenName> "Ludwig"@it .
+<https://w3id.org/zeri/data/person/C_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/C_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/C_50> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_50/SA_IV> .
+<https://w3id.org/zeri/data/person/C_50> <https://schema.org/familyName> "Pollak"@it .
+<https://w3id.org/zeri/data/person/C_50> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/collaboration/C_50/BA_III> .

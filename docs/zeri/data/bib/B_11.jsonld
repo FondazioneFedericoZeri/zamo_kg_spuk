@@ -1,0 +1,177 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_11",
+    "@type": [
+      "http://purl.org/ontology/bibo/Book",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Batini, G, 1961., L'antiquario., Firenze, Vallecchi."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/batini-g"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1961"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "L'antiquario."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/RO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/OR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/NI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/LA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AN-EF"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RO_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RO_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/OR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/NI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/LA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/LA_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AN-EF_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BO_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_3"
+      }
+    ]
+  }
+]

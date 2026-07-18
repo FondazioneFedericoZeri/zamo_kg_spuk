@@ -1,0 +1,15 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/CA_II> a agents:ArtDealerOrganization ;
+    schema:name "Corvisieri &C."@it,
+        "Giacomini & C."@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_107_b>,
+        <https://w3id.org/zeri/data/seat/IT_113>,
+        <https://w3id.org/zeri/data/seat/IT_113_b>,
+        <https://w3id.org/zeri/data/seat/IT_125>,
+        <https://w3id.org/zeri/data/seat/IT_99> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_17>,
+        <https://w3id.org/zeri/data/collaboration/R_21> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/CA_II_1> .
+

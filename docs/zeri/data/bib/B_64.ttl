@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_64> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Imbert, A, 1909., Ceramiche orvietane dei secoli XIII e XIV. Note su Documenti., Roma, Forzani." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/imbert-a> ;
+    dcterms:date "1909"^^xsd:gYear ;
+    dcterms:title "Ceramiche orvietane dei secoli XIII e XIV. Note su Documenti."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/IM_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/IM> .
+

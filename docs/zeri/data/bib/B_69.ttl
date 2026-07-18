@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_69> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "L'Antiquario, 1909., La vendita Ferroni., In «L'Antiquario», I, 12,, pp. 88-92." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/l-antiquario> ;
+    dcterms:date "1909"^^xsd:gYear ;
+    dcterms:title "La vendita Ferroni."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/FE_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/FE> .
+

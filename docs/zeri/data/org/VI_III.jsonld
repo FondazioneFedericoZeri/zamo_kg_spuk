@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/VI_III",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Permanente d’Arte Antica e Moderna A. Vitelli"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_21"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_20"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/VI_III_1"
+      }
+    ]
+  }
+]

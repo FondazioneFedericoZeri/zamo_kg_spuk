@@ -1,0 +1,7 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/seat/IT_1_e> a agents:Seat ;
+    schema:name "Benno Geiger (abitazione privata)"@it ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_1_e> .
+

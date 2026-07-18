@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_103> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Olcese Spingardi, C, 2020., Villa, Giovanni Battista., In Dizionario Biografico degli Italiani, 99," ;
+    dcterms:creator <https://w3id.org/zeri/data/person/olcese-spingardi-c> ;
+    dcterms:date "2020"^^xsd:gYear ;
+    dcterms:title "Villa, Giovanni Battista."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VI_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
+

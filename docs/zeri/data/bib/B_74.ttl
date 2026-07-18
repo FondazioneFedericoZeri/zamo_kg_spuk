@@ -1,0 +1,16 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_74> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "L'Etrusco, 1925., I fratelli Pini., In «L'Antiquario», XII, 3,, p. 144." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/l-etrusco> ;
+    dcterms:date "1925"^^xsd:gYear ;
+    dcterms:title "I fratelli Pini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/PI_1>,
+        <https://w3id.org/zeri/data/reconstruction/PI_2>,
+        <https://w3id.org/zeri/data/reconstruction/PI_3>,
+        <https://w3id.org/zeri/data/reconstruction/venture/PI> .
+

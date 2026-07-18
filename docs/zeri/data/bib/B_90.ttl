@@ -1,0 +1,19 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_90> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Modestini, M, 2018., Capolavori : basato su un manoscritto di Mario Modestini., Fiesole, Cadmo." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/modestini-m> ;
+    dcterms:date "2018"^^xsd:gYear ;
+    dcterms:title "Capolavori : basato su un manoscritto di Mario Modestini."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_4>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_V>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
+

@@ -1,0 +1,19 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/USA_9",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "New York Studio: 55 E. 56th St"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/USA_9"
+      }
+    ]
+  }
+]

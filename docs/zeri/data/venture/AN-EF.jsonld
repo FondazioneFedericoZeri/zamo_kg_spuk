@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/AN-EF",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.xd.jsp?sortby=PUNTEGGIO&view=list&page=1&batch=10&decorator=layout_resp&apply=true&locale=it&percorso_ricerca=XD&fulltext=antonacci"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Antonacci-Efrati"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/AN-EF"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/AN-EF_1"
+      }
+    ]
+  }
+]

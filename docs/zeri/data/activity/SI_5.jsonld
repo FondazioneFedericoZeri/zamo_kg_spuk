@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/activity/SI_5",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_5"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#refersTo": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/SI_5"
+      }
+    ]
+  }
+]

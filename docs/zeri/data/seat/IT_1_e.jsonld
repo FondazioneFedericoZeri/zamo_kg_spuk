@@ -1,0 +1,19 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/seat/IT_1_e",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Seat"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Benno Geiger (abitazione privata)"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_1_e"
+      }
+    ]
+  }
+]

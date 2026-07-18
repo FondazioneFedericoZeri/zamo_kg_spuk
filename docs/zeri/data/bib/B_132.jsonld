@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_132",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Tolosani, D, 1924., Luigi Grassi., In «L'Antiquario. Rivista indipendente», XI, 3,, pp. 81-86."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/tolosani-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1924"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Luigi Grassi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      }
+    ]
+  }
+]

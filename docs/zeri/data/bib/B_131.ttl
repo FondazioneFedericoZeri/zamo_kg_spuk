@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_131> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Tolosani, D, 1911., I colleghi d'Italia: Napoletani., In «L'Antiquario. Rivista indipendente», 6,, pp. 45-51." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/tolosani-d> ;
+    dcterms:date "1911"^^xsd:gYear ;
+    dcterms:title "I colleghi d'Italia: Napoletani."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+

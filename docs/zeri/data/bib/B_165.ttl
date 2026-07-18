@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_165> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)., Genova 1932." ;
+    dcterms:title "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VI_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
+

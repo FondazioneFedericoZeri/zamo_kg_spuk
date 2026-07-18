@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/C_46">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <schema:familyName xml:lang="it">Pallucchini</schema:familyName>
+    <schema:givenName xml:lang="it">Rodolfo</schema:givenName>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_46/PO_II"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_46/NI"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/bib/B_167> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/DE_1> .
+<https://w3id.org/zeri/data/bib/B_167> <http://purl.org/dc/terms/title> "Catalogo della collezione De Clemente, oggetti di sola arte antica, quadri, sculture, bronzi, mobili, maioliche italiane, ecc., ecc, catalogo della vendita all'asta Ciardiello (Firenze, 29 aprile-3 maggio 1935)."@it .
+<https://w3id.org/zeri/data/bib/B_167> <http://purl.org/dc/terms/bibliographicCitation> "Catalogo della collezione De Clemente, oggetti di sola arte antica, quadri, sculture, bronzi, mobili, maioliche italiane, ecc., ecc, catalogo della vendita all'asta Ciardiello (Firenze, 29 aprile-3 maggio 1935)., Firenze 1935." .
+<https://w3id.org/zeri/data/bib/B_167> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/DE> .
+<https://w3id.org/zeri/data/bib/B_167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .

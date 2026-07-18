@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_215> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Vendita Volpi., In «L'Antiquario», II, 9-10, 1910,, pp. 57-61." ;
+    dcterms:title "Vendita Volpi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+

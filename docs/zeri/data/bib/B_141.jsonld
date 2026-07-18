@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_141",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Tolosani, D, 1913., I colleghi d'Italia: Bolognesi., In «L'Antiquario», VI, 2-3,, pp. 9-12."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/tolosani-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1913"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "I colleghi d'Italia: Bolognesi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/RA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PO_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PO_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PO_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PO_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GA_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/IT_52_d> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_52_d> <https://schema.org/addressRegion> "Toscana"@it .
+<https://w3id.org/zeri/data/address/IT_52_d> <https://schema.org/addressLocality> "Firenze"@it .
+<https://w3id.org/zeri/data/address/IT_52_d> <https://schema.org/streetAddress> "via Borgo Santi Apostoli 40r"@it .
+<https://w3id.org/zeri/data/address/IT_52_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .

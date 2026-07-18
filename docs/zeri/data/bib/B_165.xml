@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_165">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Catalogo della collezione d'arte antica di proprietà Edoardo Villa &amp; C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)., Genova 1932.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Catalogo della collezione d'arte antica di proprietà Edoardo Villa &amp; C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/VI_III"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VI_III_1"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_174> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)., Roma 1909." ;
+    dcterms:title "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/FE_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/FE> .
+

@@ -1,0 +1,49 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_228",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "9/6/2023, Intervista a Alessandra Di Castro e Alberto Di Castro., Roma"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Alessandra Di Castro e Alberto Di Castro."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/DI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DI_1"
+      }
+    ]
+  }
+]

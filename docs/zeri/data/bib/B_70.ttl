@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_70> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "L'Antiquario, 1916., Elia Volpi in America., In «L'Antiquario», VIII, 3,, pp. 17-18." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/l-antiquario> ;
+    dcterms:date "1916"^^xsd:gYear ;
+    dcterms:title "Elia Volpi in America."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+

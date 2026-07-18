@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_172",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogue de la riche collection d'armes du Moyen Age et de la Renaissance et de rares objets d'art anciens et modernes appartenant a la liquidation du patrimoine de le baron M. A. Lazzaroni, dont la vente aux encheres publiques aura lieu a Rome sous la direction de M. Dominique Corvisieri Rome Impr. Edit. Romana, 1894., Roma 1894."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogue de la riche collection d'armes du Moyen Age et de la Renaissance et de rares objets d'art anciens et modernes appartenant a la liquidation du patrimoine de le baron M. A. Lazzaroni, dont la vente aux encheres publiques aura lieu a Rome sous la direction de M. Dominique Corvisieri Rome Impr. Edit. Romana, 1894."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/LA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/LA_II_1"
+      }
+    ]
+  }
+]

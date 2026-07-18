@@ -1,0 +1,11 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_166> a bibo:Book,
+        sources:Catalog ;
+    dcterms:bibliographicCitation "Catalogo della collezione Baslini de Milano da vendersi per conto degli eredi. Quadri, avori, medaglie, placchette, armi, bronzi, ferri, maioliche, porcellano, oggetti d’arte, marmi, terre cotte, arazzi, stoffe, merletti, mobili diversi, catalogo della vendita all'asta Impresa di Vendite in Italia Giulio Sambon (Milano, 26 Novembre 1888 e giorni successivi)., Milano 1888." ;
+    dcterms:title "Catalogo della collezione Baslini de Milano da vendersi per conto degli eredi. Quadri, avori, medaglie, placchette, armi, bronzi, ferri, maioliche, porcellano, oggetti d’arte, marmi, terre cotte, arazzi, stoffe, merletti, mobili diversi, catalogo della vendita all'asta Impresa di Vendite in Italia Giulio Sambon (Milano, 26 Novembre 1888 e giorni successivi)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BA_IV>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
+

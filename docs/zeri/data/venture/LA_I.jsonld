@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/LA_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=lapiccirella"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Lapicirella"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/LA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/LA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/LA_I_1"
+      }
+    ]
+  }
+]

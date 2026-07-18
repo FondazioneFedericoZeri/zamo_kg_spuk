@@ -1,0 +1,4 @@
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/reconstruction/VO_II_5> a sources:HistoricalReconstruction .
+

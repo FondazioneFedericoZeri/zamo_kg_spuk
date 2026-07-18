@@ -1,0 +1,12 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_216> a bibo:PersonalCommunicationDocument,
+        sources:Object ;
+    dcterms:bibliographicCitation "15/2/2023, Intervista a Riccardo Bacarelli., Firenze" ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Intervista a Riccardo Bacarelli."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/BA_I> .
+

@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_118> <http://purl.org/dc/terms/bibliographicCitation> "Rizzo, R, 2016., Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato, Cinisello Balsamo, Silvana." .
+<https://w3id.org/zeri/data/bib/B_118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_118> <http://purl.org/dc/terms/title> "Pietro Accorsi il mercante di meraviglie: da rigattiere bambino a fondatore di un grande museo d'antiquariato"@it .
+<https://w3id.org/zeri/data/bib/B_118> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AC> .
+<https://w3id.org/zeri/data/bib/B_118> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/rizzo-r> .
+<https://w3id.org/zeri/data/bib/B_118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_118> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AC_1> .
+<https://w3id.org/zeri/data/bib/B_118> <http://purl.org/dc/terms/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .

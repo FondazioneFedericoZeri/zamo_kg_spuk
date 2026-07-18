@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_28_7> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Clain-Stefanelli, E. E, 1985, Numismatic bibliography, Monaco, n.3653" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/clain-stefanelli-e-e> ;
+    dcterms:date "1985"^^xsd:gYear ;
+    dcterms:title "Numismatic bibliography"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
+

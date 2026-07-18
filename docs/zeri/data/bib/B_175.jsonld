@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_175",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)., Roma 1910."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_I_1"
+      }
+    ]
+  }
+]

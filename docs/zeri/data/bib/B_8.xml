@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_8">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Bargellini, S, 1981., Antiquari di ieri a Firenze., Firenze, Bonechi.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/bargellini-s"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1981</dcterms:date>
+    <dcterms:title xml:lang="it">Antiquari di ieri a Firenze.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/VO_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/VO_I"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/SA_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/RO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GR"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GE_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/DE"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/CI"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BE_I"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BA_II"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_I_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_II_5"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_II_4"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_II_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_II_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/VO_II_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SA_II_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SA_II_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/SA_II_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/RO_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/RO_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_4"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/BE_I_5"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Ba_II_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Ba_II_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Ba_II_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/CI_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/DE_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GR_4"/>
+  </rdf:Description>
+</rdf:RDF>

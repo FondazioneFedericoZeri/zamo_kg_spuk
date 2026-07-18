@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/event/E_11> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/VO_I> .
+<https://w3id.org/zeri/data/event/E_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Purchase> .
+<https://w3id.org/zeri/data/event/E_11> <http://www.w3.org/2000/01/rdf-schema#comment> "Un'ulteriore vendita all'asta della collezione di Elia Volpi c'è stata negli Stati Uniti nel 1916 per conto di Raoul Tolentino presso l'American Art Association di New York."@it .
+<https://w3id.org/zeri/data/event/E_11> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/VO_I_1> .
+<https://w3id.org/zeri/data/event/E_11> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_11> .
+<https://w3id.org/zeri/data/event/E_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E96_Purchase> .
+<https://w3id.org/zeri/data/event/E_11> <http://www.w3.org/2000/01/rdf-schema#label> "Vendita all'asta - Collezione E. Volpi"@it .
+<https://w3id.org/zeri/data/event/E_11> <https://w3id.org/zeri/ontology/zamo/events#hasFacilitator> <https://w3id.org/zeri/data/person/TO_1> .
+<https://w3id.org/zeri/data/event/E_11> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .

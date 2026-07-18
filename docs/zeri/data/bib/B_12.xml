@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_12">
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <dcterms:bibliographicCitation>Bellania, S, 2015., Duse e Novelli nelle Glosse Zum Wiener Theater (1903-196) di Herman Bahr., In «Acting Archives Review», V, 10,, pp. 68-84.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/bellania-s"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2015</dcterms:date>
+    <dcterms:title xml:lang="it">Duse e Novelli nelle Glosse Zum Wiener Theater (1903-196) di Herman Bahr.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/GA"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/GA_1"/>
+  </rdf:Description>
+</rdf:RDF>

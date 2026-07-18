@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/CO_II",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Casa di vendite Corvisieri & C."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_113_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_113"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_45"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_21"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Co_II_1"
+      }
+    ]
+  }
+]

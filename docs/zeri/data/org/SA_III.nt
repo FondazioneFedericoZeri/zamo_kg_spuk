@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_52> .
+<https://w3id.org/zeri/data/org/SA_III> <https://schema.org/name> "Impresa di vendita in Italia Giulio Sambon"@it .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_101> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_16> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_III_1> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_110> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_4> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_49> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_80> .
+<https://w3id.org/zeri/data/org/SA_III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/SA_III> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_138> .

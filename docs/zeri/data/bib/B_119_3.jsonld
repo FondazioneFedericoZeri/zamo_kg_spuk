@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_119_3",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Rowlands, E.W, 2023, Here, There, and Everywhere: Harold Parsons, the Italian Market and a Letter of 1948, in Budd, Catterson, pp. 329-407"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/rowlands-e-w"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Here, There, and Everywhere: Harold Parsons, the Italian Market and a Letter of 1948"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_III"
+      }
+    ]
+  }
+]

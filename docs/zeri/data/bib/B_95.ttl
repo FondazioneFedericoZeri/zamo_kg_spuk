@@ -1,0 +1,20 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_95> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Napoleone, V, 2020., Between Florence and Berlin: the international art market in post-unification Rome., In Catterson,, pp. 181-208." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/napoleone-v> ;
+    dcterms:date "2020"^^xsd:gYear ;
+    dcterms:title "Between Florence and Berlin: the international art market in post-unification Rome."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Ba_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/SI_1>,
+        <https://w3id.org/zeri/data/reconstruction/SI_2>,
+        <https://w3id.org/zeri/data/reconstruction/SI_3>,
+        <https://w3id.org/zeri/data/reconstruction/SI_4>,
+        <https://w3id.org/zeri/data/reconstruction/SI_5>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_III>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SI> .
+

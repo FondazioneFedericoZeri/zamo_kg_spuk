@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_189">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919)., New York 1919.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Illustrated catalogue of the rare and valuable Italian Renaissance furniture, bronzes, ceramics, marbles, painings and textiles, greek and romann antiquities and othes rare objects comprising the Tolentino Galleries Collection, catalogo della vendita all'asta Amrican Art Association (New York, 1-2 maggio 1919).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+  </rdf:Description>
+</rdf:RDF>

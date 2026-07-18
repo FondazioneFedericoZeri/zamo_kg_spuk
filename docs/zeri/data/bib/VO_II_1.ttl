@@ -1,0 +1,4 @@
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/VO_II_1;> sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/ME> .
+

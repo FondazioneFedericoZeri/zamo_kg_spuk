@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/VO_II_3">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
+    <rdf:type rdf:resource="https://schema.org/Person"/>
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&amp;apply=true&amp;percorso_ricerca=OA&amp;sortby=LOCALIZZAZIONE&amp;batch=10&amp;view=list&amp;locale=it&amp;PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Volterra"/>
+    <crm:P152_has_parent rdf:resource="https://w3id.org/zeri/data/person/VO_II_1"/>
+    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1887</schema:birthDate>
+    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1944</schema:deathDate>
+    <schema:familyName xml:lang="it">Volterra</schema:familyName>
+    <schema:givenName xml:lang="it">Gastone</schema:givenName>
+    <schema:sibling rdf:resource="https://w3id.org/zeri/data/person/VO_II_5"/>
+    <schema:sibling rdf:resource="https://w3id.org/zeri/data/person/VO_II_4"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_86"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_75_b"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_48"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/FR_4"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_30"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_35"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_44"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/UK_3"/>
+    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_46"/>
+    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/VO_II_3"/>
+  </rdf:Description>
+</rdf:RDF>

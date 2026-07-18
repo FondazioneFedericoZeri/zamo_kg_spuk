@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_156_1> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Zorzi, E, 1934, L'arte italiana in America, in «Gazzetta di Venezia», 3 febbraio 1934" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/zorzi-e> ;
+    dcterms:date "1934"^^xsd:gYear ;
+    dcterms:title "L'arte italiana in America"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .
+

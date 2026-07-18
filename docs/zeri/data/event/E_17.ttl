@@ -1,0 +1,15 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_17> a crm:E96_Purchase,
+        events:Purchase ;
+    rdfs:label "Vendita all'asta - Collezione Simonetti"@it ;
+    rdfs:comment "L'intera collezione Simonetti fu venduta per volere dei figli nel 1932, presso la casa d'aste di Guido Tavazzi"@it ;
+    events:hasDate "1932"^^xsd:gYear ;
+    events:hasFacilitator <https://w3id.org/zeri/data/org/JA-TA>,
+        <https://w3id.org/zeri/data/person/JA-TA_4> ;
+    events:hasSurrender <https://w3id.org/zeri/data/org/SI> ;
+    events:transfersPropertyOf <https://w3id.org/zeri/data/lot/E_17> .
+

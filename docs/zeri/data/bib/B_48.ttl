@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_48> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Fina, G, 2018., Argentieri piemontesi del '700: trovati e ritrovati., Milano, Skira." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/fina-g> ;
+    dcterms:date "2018"^^xsd:gYear ;
+    dcterms:title "Argentieri piemontesi del '700: trovati e ritrovati."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/SE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/SE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SE_I> .
+

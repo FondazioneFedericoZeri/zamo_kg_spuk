@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_124> <https://schema.org/name> "Giuseppe Sangiorgi, \"Negozio di arte antica e moderna\""@it .
+<https://w3id.org/zeri/data/seat/IT_124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_124> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_124> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1898"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_124> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_124> .

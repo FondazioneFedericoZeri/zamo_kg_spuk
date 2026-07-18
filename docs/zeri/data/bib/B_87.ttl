@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_87> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Martini Stelio, M, 1966., Antiquari a Roma., In «Capitolivm», XLI,, pp. 224-235." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/martini-stelio-m> ;
+    dcterms:date "1966"^^xsd:gYear ;
+    dcterms:title "Antiquari a Roma."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/SE_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_5>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_6>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SE_II> .
+

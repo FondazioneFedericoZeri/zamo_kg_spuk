@@ -1,0 +1,8 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/museo-bardini",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Organization"
+    ]
+  }
+]

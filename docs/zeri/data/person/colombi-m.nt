@@ -1,0 +1,4 @@
+<https://w3id.org/zeri/data/person/colombi-m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://w3id.org/zeri/data/person/colombi-m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
+<https://w3id.org/zeri/data/person/colombi-m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/colombi-m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .

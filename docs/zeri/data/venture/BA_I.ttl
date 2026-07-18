@@ -1,0 +1,12 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/venture/BA_I> a agents:FamiliarVenture ;
+    rdfs:seeAlso <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=Bacarelli> ;
+    schema:name "Bacarelli"@it ;
+    agents:isCarriedOutBy <https://w3id.org/zeri/data/org/BA_I>,
+        <https://w3id.org/zeri/data/person/Ba_I_1>,
+        <https://w3id.org/zeri/data/person/Ba_I_2>,
+        <https://w3id.org/zeri/data/person/Ba_I_3> .
+

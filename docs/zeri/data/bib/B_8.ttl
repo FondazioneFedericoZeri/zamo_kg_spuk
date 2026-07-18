@@ -1,0 +1,47 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_8> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Bargellini, S, 1981., Antiquari di ieri a Firenze., Firenze, Bonechi." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/bargellini-s> ;
+    dcterms:date "1981"^^xsd:gYear ;
+    dcterms:title "Antiquari di ieri a Firenze."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/BE_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_3>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_4>,
+        <https://w3id.org/zeri/data/reconstruction/BE_I_5>,
+        <https://w3id.org/zeri/data/reconstruction/Ba_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/Ba_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/Ba_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/CI_1>,
+        <https://w3id.org/zeri/data/reconstruction/DE_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/RO_1>,
+        <https://w3id.org/zeri/data/reconstruction/RO_2>,
+        <https://w3id.org/zeri/data/reconstruction/SA_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/SA_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/SA_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_4>,
+        <https://w3id.org/zeri/data/reconstruction/VO_II_5>,
+        <https://w3id.org/zeri/data/reconstruction/VO_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BE_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/DE>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GE_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/RO>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_II>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/org/BA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_66/BA_IV> .
+<https://w3id.org/zeri/data/org/BA_IV> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_44> .
+<https://w3id.org/zeri/data/org/BA_IV> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_3> .
+<https://w3id.org/zeri/data/org/BA_IV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/BA_IV> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/BA_IV> .

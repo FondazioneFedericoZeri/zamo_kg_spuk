@@ -1,0 +1,9 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/IM> a agents:ArtDealerOrganization ;
+    schema:name "Galerie A. Imbert"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_102> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_24> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/IM_1> .
+

@@ -1,0 +1,17 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_7> a crm:E63_Beginning_of_Existence,
+        events:Event ;
+    rdfs:label "Pubblicazione rivista “Le Musée. Revue d’art mensuelle”"@it ;
+    crm:P14_carried_out_by <https://w3id.org/zeri/data/org/CA_I>,
+        <https://w3id.org/zeri/data/org/SA_III>,
+        <https://w3id.org/zeri/data/person/CA_I_1>,
+        <https://w3id.org/zeri/data/person/CA_I_2>,
+        <https://w3id.org/zeri/data/person/CA_I_3> ;
+    crm:P92_brought_into_existence <https://w3id.org/zeri/data/publication/le_musée> ;
+    rdfs:comment "Nel 1904 i Canessa, insieme ad Arthur Sambon, fodnarono la rivista “Le Musée. Revue d’art mensuelle”, che venne pubblicata fino al 1925."@it ;
+    events:hasDate "1904"^^xsd:gYear .
+

@@ -1,0 +1,75 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_33",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/BookSection"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Coen, P, 2020., La rincorsa del primato: le esportazioni di opere d'arte in Italia e nel mondo., In Coen,, pp. 177-235."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/coen-p"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "La rincorsa del primato: le esportazioni di opere d'arte in Italia e nel mondo."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/JA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SI"
+      }
+    ]
+  }
+]

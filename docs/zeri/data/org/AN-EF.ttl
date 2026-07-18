@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/AN-EF> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Antonacci-Efrati"@it,
+        "Galleria Efrati"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_103>,
+        <https://w3id.org/zeri/data/seat/IT_103_b> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_11/AN-EF>,
+        <https://w3id.org/zeri/data/collaboration/C_30/AN-EF>,
+        <https://w3id.org/zeri/data/main-collaboration/AN-EF_1>,
+        <https://w3id.org/zeri/data/main-collaboration/AN-EF_2>,
+        <https://w3id.org/zeri/data/main-collaboration/AN-EF_3>,
+        <https://w3id.org/zeri/data/main-collaboration/AN-EF_4>,
+        <https://w3id.org/zeri/data/main-collaboration/AN-EF_5> .
+

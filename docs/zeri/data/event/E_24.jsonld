@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_24",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Gift",
+      "http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1979, alla morte di Severino Crosa, parte della sua collezione venne donata alle istituzioni museali di Genova."
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Donazione collezione Crosa alle istituzioni museali di Genova"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1979"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasSurrender": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/CR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/CR_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/lot/E_24"
+      }
+    ]
+  }
+]

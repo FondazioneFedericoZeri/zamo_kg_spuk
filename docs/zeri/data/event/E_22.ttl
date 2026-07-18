@@ -1,0 +1,14 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_22> a crm:E63_Beginning_of_Existence,
+        events:Event ;
+    rdfs:label "Inaugurazione della Fiera Antiquaria"@it ;
+    crm:P92_brought_into_existence <https://w3id.org/zeri/data/initiative/fa> ;
+    rdfs:comment "Nel 1968 Ivan Bruschi fondò la Fiera antiquaria, che da allora si svolge ogni mese ad Arezzo"@it ;
+    events:hasDate "1968"^^xsd:gYear ;
+    events:hasParticipant <https://w3id.org/zeri/data/org/BR_I>,
+        <https://w3id.org/zeri/data/person/BR_I_1> .
+

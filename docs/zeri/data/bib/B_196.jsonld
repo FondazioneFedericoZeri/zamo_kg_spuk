@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_196",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Nuovi antiquari a Firenze, In «L'Antiquario», X, 4-5, 1923,, p. 57."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Nuovi antiquari a Firenze"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PI_1"
+      }
+    ]
+  }
+]

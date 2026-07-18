@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_68",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Lambrugo, C, 2018., Giulio Sambon e la sua collezione: dal commercio antiquario alla raccolta pubblica, in Il viaggio della Chimera. Gli Etruschi a Milano tra archeologia e collezionismo, catalogo della mostra (Milano, Civico Museo Archeologico, 12 dicembre 2018 - 12 maggio 2019) a cura di Paolucci, G., Provenzali, A., Milano, Johan & Levi Editore,, pp. 75-82, pp. 233-239."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/lambrugo-c"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Giulio Sambon e la sua collezione: dal commercio antiquario alla raccolta pubblica, in Il viaggio della Chimera. Gli Etruschi a Milano tra archeologia e collezionismo, catalogo della mostra (Milano, Civico Museo Archeologico, 12 dicembre 2018 - 12 maggio 2019) a cura di Paolucci, G., Provenzali, A."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_III_1"
+      }
+    ]
+  }
+]

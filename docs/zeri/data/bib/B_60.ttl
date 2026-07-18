@@ -1,0 +1,17 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_60> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Grassi, M, 2017., The American View of the “Forgotten Century” of Italian Painting. Reminescences of a Conservator and Art Dealer, in Buying Baroque: Italian Seventeenth-Century Paintings Come to America, a cura di E. Peters Boworon, University Park., Pennsylvania: The Pennsylvania State University Press,, pp. 40-53." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/grassi-m> ;
+    dcterms:date "2017"^^xsd:gYear ;
+    dcterms:title "The American View of the “Forgotten Century” of Italian Painting. Reminescences of a Conservator and Art Dealer, in Buying Baroque: Italian Seventeenth-Century Paintings Come to America, a cura di E. Peters Boworon, University Park."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/GR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GR_4>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GR> .
+

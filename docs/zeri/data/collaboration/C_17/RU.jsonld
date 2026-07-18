@@ -1,0 +1,14 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/collaboration/C_17/RU",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Collaboration"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "antiquario"
+      }
+    ]
+  }
+]

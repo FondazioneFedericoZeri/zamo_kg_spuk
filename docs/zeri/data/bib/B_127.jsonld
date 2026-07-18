@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_127",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Terris, J. J, 1952., Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]., 1952."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/terris-j-j"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1952"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/LA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/LA_II_1"
+      }
+    ]
+  }
+]

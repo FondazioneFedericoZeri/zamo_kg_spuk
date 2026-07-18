@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/C_20",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Douglas"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Robert Langton"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_20/FO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_20/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_20/BE_II"
+      }
+    ]
+  }
+]

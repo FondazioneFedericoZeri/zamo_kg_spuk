@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_61> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Guidi Bruscoli, F, 2022., Addio a Leonardo Lapiccirella., In «Il giornale dell’arte”," ;
+    dcterms:creator <https://w3id.org/zeri/data/person/guidi-bruscoli-f> ;
+    dcterms:date "2022"^^xsd:gYear ;
+    dcterms:title "Addio a Leonardo Lapiccirella."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/LA_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/LA_I_2>,
+        <https://w3id.org/zeri/data/reconstruction/venture/LA_I> .
+

@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_106> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Pazzi, S, 2016., La donazione dimenticata: l'incredibile vicenda della collezione Contini Bonacossi., Milano, Mondadori Electa." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/pazzi-s> ;
+    dcterms:date "2016"^^xsd:gYear ;
+    dcterms:title "La donazione dimenticata: l'incredibile vicenda della collezione Contini Bonacossi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_4_g> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_4_g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_4_g> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_4_g> .
+<https://w3id.org/zeri/data/seat/IT_4_g> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1866"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_4_g> <https://schema.org/name> "Antonio e Carlo Grandi, \"Ditta Antonio Grandi\""@it .

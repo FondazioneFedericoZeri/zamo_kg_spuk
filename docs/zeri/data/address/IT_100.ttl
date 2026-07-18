@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_100> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Roma"@it ;
+    schema:addressRegion "Lazio"@it ;
+    schema:streetAddress "Via dei Condotti, Campo Marzio"@it .
+

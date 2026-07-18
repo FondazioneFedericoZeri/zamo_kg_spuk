@@ -1,0 +1,69 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_119",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/BookSection"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Romanengo, M, 2001., Il mondo del collezionismo privato a Genova nel Novecento., In Orlando,, pp. 110-120."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/romanengo-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2001"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il mondo del collezionismo privato a Genova nel Novecento."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BO_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PA_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RU_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VI_III_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VI_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/RU"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VI_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VI_III"
+      }
+    ]
+  }
+]

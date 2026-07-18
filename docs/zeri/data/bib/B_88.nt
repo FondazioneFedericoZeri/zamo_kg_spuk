@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_88> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VI_I_1> .
+<https://w3id.org/zeri/data/bib/B_88> <http://purl.org/dc/terms/date> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_88> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/minervino-f> .
+<https://w3id.org/zeri/data/bib/B_88> <http://purl.org/dc/terms/bibliographicCitation> "Minervino, F, 1976., Autenticazioni, falsi, esperti, specializzazioni., In «Bolaffiarte», 2, [supllemento al n. 64 di «Bolaffiarte»],, pp. 16-22." .
+<https://w3id.org/zeri/data/bib/B_88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_88> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VI_I> .
+<https://w3id.org/zeri/data/bib/B_88> <http://purl.org/dc/terms/title> "Autenticazioni, falsi, esperti, specializzazioni."@it .

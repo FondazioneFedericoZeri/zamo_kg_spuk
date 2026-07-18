@@ -1,0 +1,20 @@
+<https://w3id.org/zeri/data/org/DI> <https://schema.org/name> "Alessandra Di Castro antichità"@it .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_4> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_2> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_107> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_104> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_6> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_5> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_98> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_16/DI> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_3> .
+<https://w3id.org/zeri/data/org/DI> <https://schema.org/name> "Antichità Alberto Di Castro"@it .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_1> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_92> .
+<https://w3id.org/zeri/data/org/DI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/DI> <https://schema.org/name> "Antichità A.L. Di Castro"@it .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/DI_6> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/DI> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_18/DI> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_5/DI> .
+<https://w3id.org/zeri/data/org/DI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_32> .

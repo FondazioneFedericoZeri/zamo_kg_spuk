@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_212",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "The Tolentino collection, important italian works of art, Gothic and renaissance marbles, scultures, bronzes and stuccos, rare forges iron of the XV and XVI centuries, superb velvets, embroideries, needlepoint and tapestries, an extensive and imposing group of itlaian furniture of the XV and XVI centuries, catalogo della vendita all'asta American art Association (New York, 29 31 gennaio 1925)., New York 1925."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "The Tolentino collection, important italian works of art, Gothic and renaissance marbles, scultures, bronzes and stuccos, rare forges iron of the XV and XVI centuries, superb velvets, embroideries, needlepoint and tapestries, an extensive and imposing group of itlaian furniture of the XV and XVI centuries, catalogo della vendita all'asta American art Association (New York, 29 31 gennaio 1925)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

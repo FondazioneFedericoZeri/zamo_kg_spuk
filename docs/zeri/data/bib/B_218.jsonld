@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_218",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "23/2/2023, Intervista ad Anita Anita Almehagen., Firenze"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista ad Anita Anita Almehagen."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BR_II_1"
+      }
+    ]
+  }
+]

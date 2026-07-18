@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_43",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "D'Orazi, L, 2018., Canessa, una famiglia di antiquari., Cassino, Associazione Culturale Italia Numismatica."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/d-orazi-l"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Canessa, una famiglia di antiquari."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CA_I_1"
+      }
+    ]
+  }
+]

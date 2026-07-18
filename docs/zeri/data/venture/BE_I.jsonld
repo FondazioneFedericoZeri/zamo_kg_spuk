@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/venture/BE_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=bellini"
+      }
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Bellini"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BE_I_1"
+      }
+    ]
+  }
+]

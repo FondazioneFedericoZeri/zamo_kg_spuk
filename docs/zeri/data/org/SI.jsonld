@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SI",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Simonetti Aldo Giulio & C."
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Simonetti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_97"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_134"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_14"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_17"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SI_1"
+      }
+    ]
+  }
+]

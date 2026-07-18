@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_27",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Foundation",
+      "http://www.cidoc-crm.org/cidoc-crm/E66_Formation"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by": [
+      {
+        "@id": "https://w3id.org/zeri/data/cessation/BE_I"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 2007 venne aperto a Firenze il Museo privato dedicato a Luigi Bellini"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Inaugurazione Museo Bellini"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/museo-bellini"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2007"
+      }
+    ]
+  }
+]

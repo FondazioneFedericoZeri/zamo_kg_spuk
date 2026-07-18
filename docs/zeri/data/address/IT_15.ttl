@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_15> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Genova"@it ;
+    schema:addressRegion "Liguria"@it ;
+    schema:streetAddress "Piazza S. Matteo 13"@it .
+

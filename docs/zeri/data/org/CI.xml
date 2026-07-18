@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/CI">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <schema:name xml:lang="it">Fabbrica di Mobili Artistici. Pia Casa di Lavoro</schema:name>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_90"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_89"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_79"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_42"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_133"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_9"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_23"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/CI_1"/>
+  </rdf:Description>
+</rdf:RDF>

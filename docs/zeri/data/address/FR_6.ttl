@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/FR_6> a schema:PostalAddress ;
+    schema:addressCountry "Francia"@it ;
+    schema:addressLocality "Parigi"@it ;
+    schema:addressRegion "Francia"@it ;
+    schema:streetAddress "Rue de Courcelles 117"@it .
+

@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_225",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Object",
+      "http://purl.org/ontology/bibo/PersonalCommunicationDocument"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "29/5/2023, Intervista a Roberto Siciliani."
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Intervista a Roberto Siciliani."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/RU"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/PA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RU_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/PA_I_1"
+      }
+    ]
+  }
+]

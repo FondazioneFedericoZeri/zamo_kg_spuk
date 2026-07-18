@@ -1,0 +1,18 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/SA_IV> a agents:ArtDealerOrganization ;
+    schema:name "Galleria Sangiorgi - Roma Palazzo Borghese"@it,
+        "Galleria dei bronzi e dei marmi, negozio di arte antica e moderna"@it,
+        "Hotel Des Ventes G. Sangiorgi"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_123>,
+        <https://w3id.org/zeri/data/seat/IT_124>,
+        <https://w3id.org/zeri/data/seat/USA_9> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_42> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/collaboration/C_39/SA_IV>,
+        <https://w3id.org/zeri/data/collaboration/C_50/SA_IV>,
+        <https://w3id.org/zeri/data/collaboration/C_63/SA_IV>,
+        <https://w3id.org/zeri/data/main-collaboration/SA_IV_1>,
+        <https://w3id.org/zeri/data/main-collaboration/SA_IV_2>,
+        <https://w3id.org/zeri/data/main-collaboration/SA_IV_3> .
+

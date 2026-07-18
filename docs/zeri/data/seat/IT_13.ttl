@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_13> a agents:Seat ;
+    schema:name "Pompeo Rubinacci e Piero Pagano, \"Rubinacci Galleria d'Arte\" (Palazzo Negrone)"@it ;
+    agents:isActiveFrom "1960"^^xsd:gYear ;
+    agents:isActiveTo "1987"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_13> .
+

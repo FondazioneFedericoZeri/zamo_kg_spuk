@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_200",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)., San Francisco 1923."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

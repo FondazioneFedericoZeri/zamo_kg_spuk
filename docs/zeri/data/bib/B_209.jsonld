@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_209",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#Catalog",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "The collection of Raoul Tolentino : paintings, with fine primitive and Renaissance examples ..., bronzes from the Roman excavations, terracotta and stucco groups and bas-reliefs, Gothic and Renaissance furniture, catalogo della vendita all'asta American Art Association, (New York, 8-11 dicembre)., New York, 1926."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "The collection of Raoul Tolentino : paintings, with fine primitive and Renaissance examples ..., bronzes from the Roman excavations, terracotta and stucco groups and bas-reliefs, Gothic and Renaissance furniture, catalogo della vendita all'asta American Art Association, (New York, 8-11 dicembre)."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TO_1"
+      }
+    ]
+  }
+]

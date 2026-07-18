@@ -1,0 +1,12 @@
+<https://w3id.org/zeri/data/bib/B_82> <http://purl.org/dc/terms/title> "Luigi Bellini antiquario, collezionista e mecenate."@it .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_1> .
+<https://w3id.org/zeri/data/bib/B_82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_82> <http://purl.org/dc/terms/bibliographicCitation> "Mannini, L, 2011., Luigi Bellini antiquario, collezionista e mecenate., In Mannini,, pp. 245-250." .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
+<https://w3id.org/zeri/data/bib/B_82> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/mannini-l> .
+<https://w3id.org/zeri/data/bib/B_82> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
+<https://w3id.org/zeri/data/bib/B_82> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

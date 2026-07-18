@@ -1,0 +1,10 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/bib/B_215_1> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "L'Antiquario Alfredo Geri ha ritrovato la \"Gioconda\", in «L'Antiquario», VI, 1913, 9-12" ;
+    dcterms:title "L'Antiquario Alfredo Geri ha ritrovato la \"Gioconda\""@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/GE_II> .
+

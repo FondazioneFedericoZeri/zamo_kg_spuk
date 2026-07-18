@@ -1,0 +1,8 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_1_d> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Venezia"@it ;
+    schema:addressRegion "Veneto"@it ;
+    schema:streetAddress "Campo de l'Abazia 3551"@it .
+

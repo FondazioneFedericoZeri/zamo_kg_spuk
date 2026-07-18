@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_120> <http://purl.org/dc/terms/date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_120> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_II_1> .
+<https://w3id.org/zeri/data/bib/B_120> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/sambo-e> .
+<https://w3id.org/zeri/data/bib/B_120> <http://purl.org/dc/terms/title> "«Braun & C.ie» nelle commissioni Lazzaroni, in I colori del bianco e nero: fotografie storiche nella Fototeca Zeri 1870 - 1920, a cura di Bacchi, A., Mambelli, F., Rossini,  M., Sambo, E."@it .
+<https://w3id.org/zeri/data/bib/B_120> <http://purl.org/dc/terms/bibliographicCitation> "Sambo, E, 2014., «Braun & C.ie» nelle commissioni Lazzaroni, in I colori del bianco e nero: fotografie storiche nella Fototeca Zeri 1870 - 1920, a cura di Bacchi, A., Mambelli, F., Rossini,  M., Sambo, E., Bologna, Fondazione Federico Zeri,, pp. 133-138." .
+<https://w3id.org/zeri/data/bib/B_120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_120> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+<https://w3id.org/zeri/data/bib/B_120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .

@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/IT_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/IT_22> <https://schema.org/streetAddress> "Viale Sauli 3"@it .
+<https://w3id.org/zeri/data/address/IT_22> <https://schema.org/addressLocality> "Genova"@it .
+<https://w3id.org/zeri/data/address/IT_22> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_22> <https://schema.org/addressRegion> "Liguria"@it .

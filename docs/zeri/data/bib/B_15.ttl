@@ -1,0 +1,16 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_15> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Bertelli, B, 2011-2012., Commercio antiquario a Firenze nel primo trentennio dopo l’Unità d’Italia: protagonisti, transazioni e circolazione delle opere d’arte, Corso di Dottorato di Ricerca in Storia dell'Arte (ciclo XXIII)., Università degli Studi di Udine." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/bertelli-b> ;
+    dcterms:date "2011"^^xsd:gYear ;
+    dcterms:title "Commercio antiquario a Firenze nel primo trentennio dopo l’Unità d’Italia: protagonisti, transazioni e circolazione delle opere d’arte, Corso di Dottorato di Ricerca in Storia dell'Arte (ciclo XXIII)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/CI_1>,
+        <https://w3id.org/zeri/data/reconstruction/SA_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SA_III> .
+

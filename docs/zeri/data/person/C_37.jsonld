@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/C_37",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Longhi"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Roberto"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_37/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_37/BR_II"
+      }
+    ]
+  }
+]

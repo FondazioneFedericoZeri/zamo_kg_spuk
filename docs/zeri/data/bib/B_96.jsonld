@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_96",
+    "@type": [
+      "http://purl.org/ontology/bibo/BookSection",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Napoleone, V, 2020., La Galleria Simonetti e la collezione di un grande antiquario romano., Capitelli,, pp. 95-115."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/napoleone-v"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2020"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "La Galleria Simonetti e la collezione di un grande antiquario romano."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_1"
+      }
+    ]
+  }
+]

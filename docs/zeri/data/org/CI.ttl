@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/org/CI> a agents:ArtDealerOrganization ;
+    schema:name "Fabbrica di Mobili Artistici. Pia Casa di Lavoro"@it ;
+    agents:hasSeat <https://w3id.org/zeri/data/seat/IT_133>,
+        <https://w3id.org/zeri/data/seat/IT_42>,
+        <https://w3id.org/zeri/data/seat/IT_79>,
+        <https://w3id.org/zeri/data/seat/IT_89>,
+        <https://w3id.org/zeri/data/seat/IT_90> ;
+    agents:isCollaboratorIn <https://w3id.org/zeri/data/collaboration/R_23>,
+        <https://w3id.org/zeri/data/collaboration/R_9> ;
+    agents:requestsServiceIn <https://w3id.org/zeri/data/main-collaboration/CI_1> .
+

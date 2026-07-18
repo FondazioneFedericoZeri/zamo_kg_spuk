@@ -1,0 +1,7 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/location/IT_128> a schema:Place,
+        agents:Location ;
+    schema:address <https://w3id.org/zeri/data/address/IT_128> .
+

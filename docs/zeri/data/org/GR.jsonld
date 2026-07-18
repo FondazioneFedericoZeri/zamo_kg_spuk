@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/GR",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Luigi Grassi & sons"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Ognissanti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_88"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_73"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_53"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_52_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_135_d"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_22"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_13"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GR_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/venture/SE_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/SE_I_2> .
+<https://w3id.org/zeri/data/venture/SE_I> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?locale=it&decorator=layout_resp&apply=true&percorso_ricerca=OA&filtrolocalizzazione_OA=4531%7C3289&sortby=LOCALIZZAZIONE&batch=10> .
+<https://w3id.org/zeri/data/venture/SE_I> <https://schema.org/name> "Segre"@it .
+<https://w3id.org/zeri/data/venture/SE_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/SE_I_1> .
+<https://w3id.org/zeri/data/venture/SE_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture> .
+<https://w3id.org/zeri/data/venture/SE_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/org/SE_I> .

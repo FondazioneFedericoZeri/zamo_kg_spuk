@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_15_2> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Bianchin R, 1987., Asta Ca’ Sagredo 1987., La Repubblica 29 novembre 1987." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/bianchin-r> ;
+    dcterms:date "1987"^^xsd:gYear ;
+    dcterms:title "Asta Ca’ Sagredo 1987."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/PO_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/PO_II> .
+

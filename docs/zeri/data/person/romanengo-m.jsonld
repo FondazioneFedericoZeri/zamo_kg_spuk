@@ -1,0 +1,11 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/romanengo-m",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person",
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ]
+  }
+]

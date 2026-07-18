@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:events="https://w3id.org/zeri/ontology/zamo/events#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/event/E_9">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/events#Purchase"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E96_Purchase"/>
+    <rdfs:comment xml:lang="it">Nel 1909, presso la casa d'aste "Jandolo&amp;Tavazzi" di Roma,  in collaborazione con la "Galleria Sangiorgi",  venne venduta parte della collezione di Giovacchino Ferroni. La vendita è stata ampiamente reclamizzate e descritta anche sulle pagine de “L’Antiquario”.</rdfs:comment>
+    <rdfs:label xml:lang="it">Vendita all'asta - collezione G. Ferroni</rdfs:label>
+    <events:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1909</events:hasDate>
+    <events:hasFacilitator rdf:resource="https://w3id.org/zeri/data/org/SA_IV"/>
+    <events:hasFacilitator rdf:resource="https://w3id.org/zeri/data/org/JA-TA"/>
+    <events:hasFacilitator rdf:resource="https://w3id.org/zeri/data/person/SA_IV_1"/>
+    <events:hasSurrender rdf:resource="https://w3id.org/zeri/data/person/FE_1"/>
+    <events:transfersPropertyOf rdf:resource="https://w3id.org/zeri/data/lot/E_9"/>
+  </rdf:Description>
+</rdf:RDF>

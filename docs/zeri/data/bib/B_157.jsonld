@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_157",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Attilio Simonetti (1843-1925) : pittore alla moda e antiquario a Roma, catalogo della mostra (Galleria Berardi, Roma, 24 gennaio - 23 febbraio 2019) a cura di Sacchi Ladispoto, T., Spinazzé, S., Roma, Berardi Galleria d'Arte, 2019."
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Attilio Simonetti (1843-1925) : pittore alla moda e antiquario a Roma, catalogo della mostra (Galleria Berardi, Roma, 24 gennaio - 23 febbraio 2019) a cura di Sacchi Ladispoto, T., Spinazzé, S."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SI_1"
+      }
+    ]
+  }
+]

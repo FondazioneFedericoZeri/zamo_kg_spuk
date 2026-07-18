@@ -1,0 +1,16 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_8> a crm:E11_Modification,
+        agents:CompanyModification ;
+    rdfs:label "Inaugurazione \"Casa di vendite Jandolo & Tavazzi\""@it ;
+    rdfs:comment "A partire dai primi anni del Novecento la famiglia di antiquari Jandolo si unirono in società con l'antiquario Filippo Tavazzi, fondando la “Casa di vendite Jandolo & Tavazzi”, documentata in via del Babuino 96, 97. Come testimoniano i cataloghi della maison des ventes pubblicati dal 1907 al 1936, questa casa d'aste è stata titolare di alcune delle vendite italiane più importanti dell’epoca, come quelle degli antiquari Gioacchino Ferroni (1854-1909) ed Elia Volpi (1858-1938)."@it ;
+    agents:hasOriginalOrganization <https://w3id.org/zeri/data/org/JA>,
+        <https://w3id.org/zeri/data/org/TA> ;
+    agents:hasResultingOrganization <https://w3id.org/zeri/data/org/JA-TA> ;
+    events:hasDate "1905"^^xsd:gYear ;
+    events:hasParticipant <https://w3id.org/zeri/data/person/TA_1> .
+

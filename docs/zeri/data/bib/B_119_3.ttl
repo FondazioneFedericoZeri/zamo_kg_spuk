@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_119_3> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Rowlands, E.W, 2023, Here, There, and Everywhere: Harold Parsons, the Italian Market and a Letter of 1948, in Budd, Catterson, pp. 329-407" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/rowlands-e-w> ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Here, There, and Everywhere: Harold Parsons, the Italian Market and a Letter of 1948"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/BR_III>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GE_I>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VE> .
+

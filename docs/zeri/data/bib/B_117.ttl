@@ -1,0 +1,40 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_117> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Riccio, B, 1996., Lettere sull’antiquariato : di Mario Praz e Luigi Magnani 1952-1981., Torino, U. Allemandi., p. 116." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/riccio-b> ;
+    dcterms:date "1996"^^xsd:gYear ;
+    dcterms:title "Lettere sull’antiquariato : di Mario Praz e Luigi Magnani 1952-1981."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/AN-EF_1>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_2>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_3>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_4>,
+        <https://w3id.org/zeri/data/reconstruction/AN-EF_5>,
+        <https://w3id.org/zeri/data/reconstruction/AP_1>,
+        <https://w3id.org/zeri/data/reconstruction/AP_2>,
+        <https://w3id.org/zeri/data/reconstruction/AP_3>,
+        <https://w3id.org/zeri/data/reconstruction/DI_1>,
+        <https://w3id.org/zeri/data/reconstruction/DI_2>,
+        <https://w3id.org/zeri/data/reconstruction/DI_3>,
+        <https://w3id.org/zeri/data/reconstruction/DI_4>,
+        <https://w3id.org/zeri/data/reconstruction/DI_5>,
+        <https://w3id.org/zeri/data/reconstruction/DI_6>,
+        <https://w3id.org/zeri/data/reconstruction/GU-BR_1>,
+        <https://w3id.org/zeri/data/reconstruction/GU-BR_2>,
+        <https://w3id.org/zeri/data/reconstruction/GU-BR_3>,
+        <https://w3id.org/zeri/data/reconstruction/GU-BR_4>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_1>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_2>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_3>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_5>,
+        <https://w3id.org/zeri/data/reconstruction/SE_II_6>,
+        <https://w3id.org/zeri/data/reconstruction/venture/AN-EF>,
+        <https://w3id.org/zeri/data/reconstruction/venture/AP>,
+        <https://w3id.org/zeri/data/reconstruction/venture/DI>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GU-BR>,
+        <https://w3id.org/zeri/data/reconstruction/venture/SE_II> .
+

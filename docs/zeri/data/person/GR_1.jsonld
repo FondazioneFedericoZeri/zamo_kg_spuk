@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/GR_1",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?batch=100&page=1&view=gallery&sortby=AUTORE&decorator=layout_resp&apply=true&percorso_ricerca=F&locale=it&PRCM_PRCD=grassi"
+      }
+    ],
+    "https://schema.org/birthDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1858"
+      }
+    ],
+    "https://schema.org/deathDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1937"
+      }
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Grassi"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Luigi"
+      }
+    ],
+    "https://schema.org/sibling": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/GR_4"
+      }
+    ],
+    "https://schema.org/workLocation": [
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_73"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/location/IT_53"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/GR_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/extended#isGrandParentOf": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/GR_3"
+      }
+    ]
+  }
+]

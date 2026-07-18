@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/activity/JA_2">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"/>
+    <sources:isReconstructedBy rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_2"/>
+    <sources:refersTo rdf:resource="https://w3id.org/zeri/data/person/JA_2"/>
+  </rdf:Description>
+</rdf:RDF>

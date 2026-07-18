@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_176">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Catalogue of the Rare and Valuable Collection Formed by the Widely Known and Eminent Expert and Connoisseur Chev. Raoul Tolentino: Removed from His Galleries at No. 57, Via Sistina, Rome, catalogo della vendita all'asta Clarke  (New York, 42 and 44 East 58th Street,  18-25 novembre 1922), a cura di Freund, K., Clarke, A. W., New York, 1922.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Catalogue of the Rare and Valuable Collection Formed by the Widely Known and Eminent Expert and Connoisseur Chev. Raoul Tolentino: Removed from His Galleries at No. 57, Via Sistina, Rome, catalogo della vendita all'asta Clarke  (New York, 42 and 44 East 58th Street,  18-25 novembre 1922), a cura di Freund, K., Clarke, A. W.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+  </rdf:Description>
+</rdf:RDF>

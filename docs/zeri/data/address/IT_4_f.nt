@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/address/IT_4_f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
+<https://w3id.org/zeri/data/address/IT_4_f> <https://schema.org/addressRegion> "Lombardia"@it .
+<https://w3id.org/zeri/data/address/IT_4_f> <https://schema.org/streetAddress> "Corso Venezia 8 (/10)"@it .
+<https://w3id.org/zeri/data/address/IT_4_f> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_4_f> <https://schema.org/addressLocality> "Milano"@it .

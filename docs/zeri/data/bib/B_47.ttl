@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_47> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Ferrazza, R, 1993., Palazzo Davanzati e le collezioni di Elia Volpi., Firenze Centro Di." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/ferrazza-r> ;
+    dcterms:date "1993"^^xsd:gYear ;
+    dcterms:title "Palazzo Davanzati e le collezioni di Elia Volpi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/VO_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+

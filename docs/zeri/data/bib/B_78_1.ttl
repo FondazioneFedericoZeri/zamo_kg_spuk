@@ -1,0 +1,13 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_78_1> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Malni Pascoletti, M, 1991, Una delle gallerie private più interessanti del mondo intero. Note su Italico Brass collezionista, in Masau Dan, pp. 43-52" ;
+    dcterms:creator <https://w3id.org/zeri/data/person/malni-pascoletti-m> ;
+    dcterms:date "1991"^^xsd:gYear ;
+    dcterms:title "Una delle gallerie private più interessanti del mondo intero. Note su Italico Brass collezionista"@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .
+

@@ -1,0 +1,7 @@
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+
+<https://w3id.org/zeri/data/transaction/CV_43> a events:Transaction ;
+    events:hasReceiver <https://w3id.org/zeri/data/client/CL_41> ;
+    events:hasSurrender <https://w3id.org/zeri/data/org/PA_II>,
+        <https://w3id.org/zeri/data/person/PA_II_1> .
+

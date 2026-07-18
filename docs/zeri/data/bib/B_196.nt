@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_196> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_2> .
+<https://w3id.org/zeri/data/bib/B_196> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_3> .
+<https://w3id.org/zeri/data/bib/B_196> <http://purl.org/dc/terms/bibliographicCitation> "Nuovi antiquari a Firenze, In «L'Antiquario», X, 4-5, 1923,, p. 57." .
+<https://w3id.org/zeri/data/bib/B_196> <http://purl.org/dc/terms/title> "Nuovi antiquari a Firenze"@it .
+<https://w3id.org/zeri/data/bib/B_196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_196> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PI_1> .
+<https://w3id.org/zeri/data/bib/B_196> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PI> .

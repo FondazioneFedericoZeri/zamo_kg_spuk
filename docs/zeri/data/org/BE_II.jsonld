@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/BE_II",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "The Italian Art Gallery"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/UK_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/UK_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/UK_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/UK_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/UK_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_81"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_18"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/BE_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_38/BE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_20/BE_II"
+      }
+    ]
+  }
+]

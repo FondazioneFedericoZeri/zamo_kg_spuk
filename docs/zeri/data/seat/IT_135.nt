@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_135> <https://schema.org/name> "Michele Lazzaroni (abitazione privata)"@it .
+<https://w3id.org/zeri/data/seat/IT_135> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_135> .
+<https://w3id.org/zeri/data/seat/IT_135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_135> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1892"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_135> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .

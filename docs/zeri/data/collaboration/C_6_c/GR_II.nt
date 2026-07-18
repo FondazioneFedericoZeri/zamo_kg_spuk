@@ -1,0 +1,2 @@
+<https://w3id.org/zeri/data/collaboration/C_6_c/GR_II> <http://www.w3.org/2000/01/rdf-schema#label> "architetto"@it .
+<https://w3id.org/zeri/data/collaboration/C_6_c/GR_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Collaboration> .

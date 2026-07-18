@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_140">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/AcademicArticle"/>
+    <dcterms:bibliographicCitation>Tolosani, D, 1913., I colleghi d'Italia: Romani., In «L'Antiquario», VI, 1,, pp. 1-4.</dcterms:bibliographicCitation>
+    <dcterms:creator rdf:resource="https://w3id.org/zeri/data/person/tolosani-d"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1913</dcterms:date>
+    <dcterms:title xml:lang="it">I colleghi d'Italia: Romani.</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/Ba_III_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_2"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_3"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_4"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_5"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_6"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/JA_7"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TA_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/TO_1"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/BA_III"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/JA"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TA"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/TO"/>
+  </rdf:Description>
+</rdf:RDF>

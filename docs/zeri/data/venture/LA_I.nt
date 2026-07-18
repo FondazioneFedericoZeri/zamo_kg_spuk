@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/venture/LA_I> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?decorator=layout_resp&apply=true&percorso_ricerca=OA&sortby=LOCALIZZAZIONE&batch=10&view=list&locale=it&PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=lapiccirella> .
+<https://w3id.org/zeri/data/venture/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/LA_I_1> .
+<https://w3id.org/zeri/data/venture/LA_I> <https://schema.org/name> "Lapicirella"@it .
+<https://w3id.org/zeri/data/venture/LA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture> .
+<https://w3id.org/zeri/data/venture/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/person/LA_I_2> .
+<https://w3id.org/zeri/data/venture/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCarriedOutBy> <https://w3id.org/zeri/data/org/LA_I> .

@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_74_b> .
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_45> .
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/FR_1> .
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_28> .
+<https://w3id.org/zeri/data/org/FR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_71> .
+<https://w3id.org/zeri/data/org/FR> <https://schema.org/name> "Galleria antiquaria Salocchi-Freschi"@it .
+<https://w3id.org/zeri/data/org/FR> <https://schema.org/name> "Galleria Freschi"@it .
+<https://w3id.org/zeri/data/org/FR> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/FR_2> .

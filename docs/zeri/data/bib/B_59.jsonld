@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_59",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "González-Palacios, A, 2014., Persona e maschera: collezionisti, antiquari e storici dell'arte., Milano, Archinto."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/gonzalez-palacios-a"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2014"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Persona e maschera: collezionisti, antiquari e storici dell'arte."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/AP"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/AP_1"
+      }
+    ]
+  }
+]

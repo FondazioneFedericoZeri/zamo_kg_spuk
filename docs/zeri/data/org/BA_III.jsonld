@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/BA_III",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Casa Buti"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_131"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_130"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_126"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_14"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Ba_III_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_66/BA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_50/BA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_24/BA_III"
+      }
+    ]
+  }
+]

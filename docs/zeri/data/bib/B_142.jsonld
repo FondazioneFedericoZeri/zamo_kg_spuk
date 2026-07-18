@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_142",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Tolosani, D, 1923., Il Museo Bardini., In «L'Antiquario», XII, 4-5,, pp. 149-159."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/tolosani-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1923"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Il Museo Bardini."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_1"
+      }
+    ]
+  }
+]

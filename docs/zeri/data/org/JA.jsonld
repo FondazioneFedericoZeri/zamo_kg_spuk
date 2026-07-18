@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/JA",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria d'Arte Ettore Jandolo"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_116"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_105"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_109"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_115"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_116_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_128"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_135_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_106"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_46"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_25"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_29"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_7"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/JA_3"
+      }
+    ]
+  }
+]

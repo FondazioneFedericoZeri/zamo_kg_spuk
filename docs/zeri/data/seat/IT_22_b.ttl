@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_22_b> a agents:Seat ;
+    schema:name "Adriano Cera"@it ;
+    agents:isActiveFrom "1976"^^xsd:gYear ;
+    agents:isActiveTo "2004"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_22_b> .
+

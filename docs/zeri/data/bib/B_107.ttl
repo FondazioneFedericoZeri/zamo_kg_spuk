@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_107> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Piccioli, A, 1929., Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva., In «L'Antiquario», XVI, 2,, pp. 65-68." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/piccioli-a> ;
+    dcterms:date "1929"^^xsd:gYear ;
+    dcterms:title "Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+

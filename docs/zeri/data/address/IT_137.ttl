@@ -1,0 +1,7 @@
+@prefix schema: <https://schema.org/> .
+
+<https://w3id.org/zeri/data/address/IT_137> a schema:PostalAddress ;
+    schema:addressCountry "Italia"@it ;
+    schema:addressLocality "Napoli"@it ;
+    schema:addressRegion "Campania"@it .
+

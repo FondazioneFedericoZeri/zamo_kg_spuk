@@ -1,0 +1,11 @@
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_34> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_59> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_I_2> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SA_I_1> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_8> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_45> .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_33/SA_I> .
+<https://w3id.org/zeri/data/org/SA_I> <https://schema.org/name> "Antiquaria Salocchi e Freschi"@it .
+<https://w3id.org/zeri/data/org/SA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/SA_I> <https://schema.org/name> "Galleria Salocchi"@it .
+<https://w3id.org/zeri/data/org/SA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_28> .

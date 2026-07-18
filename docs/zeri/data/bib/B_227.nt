@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_227> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_2> .
+<https://w3id.org/zeri/data/bib/B_227> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_3> .
+<https://w3id.org/zeri/data/bib/B_227> <http://purl.org/dc/terms/bibliographicCitation> "9/6/2023, Intervista a Marco Fabio Apolloni., Roma" .
+<https://w3id.org/zeri/data/bib/B_227> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Object> .
+<https://w3id.org/zeri/data/bib/B_227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/PersonalCommunicationDocument> .
+<https://w3id.org/zeri/data/bib/B_227> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AP> .
+<https://w3id.org/zeri/data/bib/B_227> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AP_1> .
+<https://w3id.org/zeri/data/bib/B_227> <http://purl.org/dc/terms/title> "Intervista a Marco Fabio Apolloni."@it .

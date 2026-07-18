@@ -1,0 +1,10 @@
+<https://w3id.org/zeri/data/bib/B_32> <http://purl.org/dc/terms/title> "Il nuovo mercante itaiano e internazionale: Giuseppe Sangiorgi."@it .
+<https://w3id.org/zeri/data/bib/B_32> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_32> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_IV> .
+<https://w3id.org/zeri/data/bib/B_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_32> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_IV_2> .
+<https://w3id.org/zeri/data/bib/B_32> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/coen-p> .
+<https://w3id.org/zeri/data/bib/B_32> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_IV_1> .
+<https://w3id.org/zeri/data/bib/B_32> <http://purl.org/dc/terms/bibliographicCitation> "Coen, P, 2020., Il nuovo mercante itaiano e internazionale: Giuseppe Sangiorgi., In Coen,, pp. 279-320." .
+<https://w3id.org/zeri/data/bib/B_32> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_IV_3> .
+<https://w3id.org/zeri/data/bib/B_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

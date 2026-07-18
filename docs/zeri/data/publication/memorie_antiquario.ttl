@@ -1,0 +1,10 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+
+<https://w3id.org/zeri/data/publication/memorie_antiquario> a bibo:Book,
+        crm:E71_Human-Made_Thing,
+        sources:BibliographicItem ;
+    rdfs:label "Memorie di un antiquario"@it .
+

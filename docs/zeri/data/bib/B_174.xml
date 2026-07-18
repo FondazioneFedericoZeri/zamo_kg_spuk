@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/B_174">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/sources#Catalog"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book"/>
+    <dcterms:bibliographicCitation>Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo &amp; Tavazzi (Roma, 14-22 aprile 1909)., Roma 1909.</dcterms:bibliographicCitation>
+    <dcterms:title xml:lang="it">Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo &amp; Tavazzi (Roma, 14-22 aprile 1909).</dcterms:title>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/FE"/>
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/FE_1"/>
+  </rdf:Description>
+</rdf:RDF>

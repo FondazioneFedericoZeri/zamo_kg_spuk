@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/AC",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Accorsi"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_9"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_43"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_31"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_1"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AC_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_44/AC"
+      }
+    ]
+  }
+]

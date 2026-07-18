@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/CO_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_121"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_132"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_87"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_18"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_19"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_20"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_37"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_50"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/Co_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_7/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_20/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_25/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_37/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_39/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_42/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_62/CO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_64/CO_I"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/SA_IV",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Hotel Des Ventes G. Sangiorgi"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria dei bronzi e dei marmi, negozio di arte antica e moderna"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Sangiorgi - Roma Palazzo Borghese"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/USA_9"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_124"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_123"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_42"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_IV_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_IV_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/SA_IV_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_63/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_50/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_39/SA_IV"
+      }
+    ]
+  }
+]

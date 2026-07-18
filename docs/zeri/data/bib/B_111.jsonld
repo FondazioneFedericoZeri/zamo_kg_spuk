@@ -1,0 +1,138 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_111",
+    "@type": [
+      "http://purl.org/ontology/bibo/Book",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Pollak, L; Merkel Guldan, M, 1994., Römische Memoiren : Künstler, Kunstliebhaber und Gelehrte, 1893-1943., Roma, L'Erma di Bretschneider."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/pollak-l"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/merkel-guldan-m"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1994"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Römische Memoiren : Künstler, Kunstliebhaber und Gelehrte, 1893-1943."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/TA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/JA"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/IM"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/FE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_III"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/TA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SE_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_III_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/FE_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/IM_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_6"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/JA_7"
+      }
+    ]
+  }
+]

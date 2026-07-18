@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/person/C_41_b",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#Person",
+      "https://schema.org/Person",
+      "http://www.cidoc-crm.org/cidoc-crm/E21_Person"
+    ],
+    "https://schema.org/familyName": [
+      {
+        "@language": "it",
+        "@value": "Mestrovich"
+      }
+    ],
+    "https://schema.org/givenName": [
+      {
+        "@language": "it",
+        "@value": "Ferruccio"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_41_b/VI_I"
+      }
+    ]
+  }
+]

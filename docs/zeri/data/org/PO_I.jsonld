@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/PO_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria fratelli Podio Antichità"
+      },
+      {
+        "@language": "it",
+        "@value": "Cav. Prof. Publio Podio & C."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_27"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_26"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_23"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_19"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/R_51"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/PO_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/PO_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/PO_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/PO_I_1"
+      }
+    ]
+  }
+]

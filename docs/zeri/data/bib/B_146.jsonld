@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_146",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Tolosani, D, 1928., Giuseppe Sangiorgi., In «L'Antiquario», XV, 2,, pp. 68-69."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/tolosani-d"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1928"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Giuseppe Sangiorgi."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_IV"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_IV_1"
+      }
+    ]
+  }
+]

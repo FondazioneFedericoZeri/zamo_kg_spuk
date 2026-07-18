@@ -1,0 +1,6 @@
+<https://w3id.org/zeri/data/bib/B_199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_199> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/OR> .
+<https://w3id.org/zeri/data/bib/B_199> <http://purl.org/dc/terms/bibliographicCitation> "Raimondo Orselli., In «L'Antiquario», XVII, 1, 1930,, p. 10." .
+<https://w3id.org/zeri/data/bib/B_199> <http://purl.org/dc/terms/title> "Raimondo Orselli."@it .
+<https://w3id.org/zeri/data/bib/B_199> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/OR_1> .
+<https://w3id.org/zeri/data/bib/B_199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

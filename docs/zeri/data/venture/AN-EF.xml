@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/venture/AN-EF">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#FamiliarVenture"/>
+    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.xd.jsp?sortby=PUNTEGGIO&amp;view=list&amp;page=1&amp;batch=10&amp;decorator=layout_resp&amp;apply=true&amp;locale=it&amp;percorso_ricerca=XD&amp;fulltext=antonacci"/>
+    <schema:name xml:lang="it">Antonacci-Efrati</schema:name>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/org/AN-EF"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/AN-EF_5"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/AN-EF_4"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/AN-EF_3"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/AN-EF_2"/>
+    <agents:isCarriedOutBy rdf:resource="https://w3id.org/zeri/data/person/AN-EF_1"/>
+  </rdf:Description>
+</rdf:RDF>

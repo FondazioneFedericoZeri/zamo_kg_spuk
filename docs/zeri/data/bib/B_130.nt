@@ -1,0 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_130> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
+<https://w3id.org/zeri/data/bib/B_130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_130> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CI_1> .
+<https://w3id.org/zeri/data/bib/B_130> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
+<https://w3id.org/zeri/data/bib/B_130> <http://purl.org/dc/terms/date> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_130> <http://purl.org/dc/terms/title> "Vincenzo Ciampolini."@it .
+<https://w3id.org/zeri/data/bib/B_130> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1912., Vincenzo Ciampolini., In «Il Conoscitore», V, 8-9,, pp. 43-45." .

@@ -1,0 +1,5 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+
+<https://w3id.org/zeri/data/seat/IT_30> a agents:Seat ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_30> .
+

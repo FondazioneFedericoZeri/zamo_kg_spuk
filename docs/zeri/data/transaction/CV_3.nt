@@ -1,0 +1,4 @@
+<https://w3id.org/zeri/data/transaction/CV_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Transaction> .
+<https://w3id.org/zeri/data/transaction/CV_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/BA_III> .
+<https://w3id.org/zeri/data/transaction/CV_3> <https://w3id.org/zeri/ontology/zamo/events#hasReceiver> <https://w3id.org/zeri/data/client/CL_3> .
+<https://w3id.org/zeri/data/transaction/CV_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/BA_III_1> .

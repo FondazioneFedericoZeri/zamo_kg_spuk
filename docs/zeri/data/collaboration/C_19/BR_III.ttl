@@ -1,0 +1,6 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/zeri/data/collaboration/C_19/BR_III> a agents:Collaboration ;
+    rdfs:label "antiquario"@it .
+

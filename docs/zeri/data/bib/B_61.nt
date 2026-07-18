@@ -1,0 +1,9 @@
+<https://w3id.org/zeri/data/bib/B_61> <http://purl.org/dc/terms/bibliographicCitation> "Guidi Bruscoli, F, 2022., Addio a Leonardo Lapiccirella., In «Il giornale dell’arte”," .
+<https://w3id.org/zeri/data/bib/B_61> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_I_2> .
+<https://w3id.org/zeri/data/bib/B_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_61> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/guidi-bruscoli-f> .
+<https://w3id.org/zeri/data/bib/B_61> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_I> .
+<https://w3id.org/zeri/data/bib/B_61> <http://purl.org/dc/terms/title> "Addio a Leonardo Lapiccirella."@it .
+<https://w3id.org/zeri/data/bib/B_61> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_61> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_I_1> .
+<https://w3id.org/zeri/data/bib/B_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

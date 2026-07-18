@@ -1,0 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_114> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_114> .
+<https://w3id.org/zeri/data/seat/IT_114> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_114> <https://schema.org/name> "Wladimiro Apolloni e Fabrizio, \"W. Apolloni\""@it .
+<https://w3id.org/zeri/data/seat/IT_114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_114> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1970"^^<http://www.w3.org/2001/XMLSchema#gYear> .

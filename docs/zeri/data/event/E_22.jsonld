@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/event/E_22",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/events#Event",
+      "http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence"
+    ],
+    "http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence": [
+      {
+        "@id": "https://w3id.org/zeri/data/initiative/fa"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "it",
+        "@value": "Nel 1968 Ivan Bruschi fondò la Fiera antiquaria, che da allora si svolge ogni mese ad Arezzo"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "it",
+        "@value": "Inaugurazione della Fiera Antiquaria"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasDate": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1968"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/events#hasParticipant": [
+      {
+        "@id": "https://w3id.org/zeri/data/org/BR_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/person/BR_I_1"
+      }
+    ]
+  }
+]

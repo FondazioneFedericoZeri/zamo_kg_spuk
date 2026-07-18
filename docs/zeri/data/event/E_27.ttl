@@ -1,0 +1,14 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix events: <https://w3id.org/zeri/ontology/zamo/events#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/event/E_27> a crm:E66_Formation,
+        agents:Foundation ;
+    rdfs:label "Inaugurazione Museo Bellini"@it ;
+    crm:P15_was_influenced_by <https://w3id.org/zeri/data/cessation/BE_I> ;
+    rdfs:comment "Nel 2007 venne aperto a Firenze il Museo privato dedicato a Luigi Bellini"@it ;
+    agents:hasFoundedOrganization <https://w3id.org/zeri/data/org/museo-bellini> ;
+    events:hasDate "2007"^^xsd:gYear .
+

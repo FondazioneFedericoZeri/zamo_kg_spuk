@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_27> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Cavicchi, M, 2017., Falsi di primo Novecento nell'archivio di Luigi Albrighi., In Ottani Cavina,, pp. 199-225." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/cavicchi-m> ;
+    dcterms:date "2017"^^xsd:gYear ;
+    dcterms:title "Falsi di primo Novecento nell'archivio di Luigi Albrighi."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/AL_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/AL>,
+        <https://w3id.org/zeri/data/reconstruction/venture/GE_I> .
+

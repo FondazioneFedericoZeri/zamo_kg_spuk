@@ -1,0 +1,14 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_150> a bibo:BookSection,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Zaninelli, F, 2020., The intersting Case of Alessandro Contini Bonacossi (1878-1955) and Wilhelm von Bode (1845-1929)., In Catterson,, pp. 249-305." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/zaninelli-f> ;
+    dcterms:date "2020"^^xsd:gYear ;
+    dcterms:title "The intersting Case of Alessandro Contini Bonacossi (1878-1955) and Wilhelm von Bode (1845-1929)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Co_I_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+

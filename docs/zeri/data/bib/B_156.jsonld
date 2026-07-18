@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_156",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem",
+      "http://purl.org/ontology/bibo/Book"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Zeri, F, 1995., Confesso che ho sbagliato: Ricordi autobiografici., Milano, Longanesi."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/zeri-f"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1995"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Confesso che ho sbagliato: Ricordi autobiografici."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VI_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VI_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_I_1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+@prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/seat/IT_92> a agents:Seat ;
+    schema:name "Alberto e Franco Di Castro"@it ;
+    agents:isActiveFrom "1955"^^xsd:gYear ;
+    agents:isActiveTo "2024"^^xsd:gYear ;
+    agents:isLocatedIn <https://w3id.org/zeri/data/location/IT_92> .
+

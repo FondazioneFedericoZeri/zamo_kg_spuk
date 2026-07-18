@@ -1,0 +1,18 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_228> a bibo:PersonalCommunicationDocument,
+        sources:Object ;
+    dcterms:bibliographicCitation "9/6/2023, Intervista a Alessandra Di Castro e Alberto Di Castro., Roma" ;
+    dcterms:date "2023"^^xsd:gYear ;
+    dcterms:title "Intervista a Alessandra Di Castro e Alberto Di Castro."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/DI_1>,
+        <https://w3id.org/zeri/data/reconstruction/DI_2>,
+        <https://w3id.org/zeri/data/reconstruction/DI_3>,
+        <https://w3id.org/zeri/data/reconstruction/DI_4>,
+        <https://w3id.org/zeri/data/reconstruction/DI_5>,
+        <https://w3id.org/zeri/data/reconstruction/DI_6>,
+        <https://w3id.org/zeri/data/reconstruction/venture/DI> .
+

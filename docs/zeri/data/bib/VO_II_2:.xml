@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:sources="https://w3id.org/zeri/ontology/zamo/sources#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/bib/VO_II_2:">
+    <sources:isSourceFor rdf:resource="https://w3id.org/zeri/data/reconstruction/venture/ME"/>
+  </rdf:Description>
+</rdf:RDF>

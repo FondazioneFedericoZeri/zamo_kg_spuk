@@ -1,0 +1,3 @@
+<https://w3id.org/zeri/data/activity/venture/SE_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#AgentActivity> .
+<https://w3id.org/zeri/data/activity/venture/SE_II> <https://w3id.org/zeri/ontology/zamo/sources#refersTo> <https://w3id.org/zeri/data/venture/SE_II> .
+<https://w3id.org/zeri/data/activity/venture/SE_II> <https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy> <https://w3id.org/zeri/data/reconstruction/venture/SE_II> .

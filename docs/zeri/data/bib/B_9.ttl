@@ -1,0 +1,15 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_9> a bibo:Book,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Barsanti, A; Pollak, L, 1922., Raccolta Alfredo Barsanti : bronzi italiani (Trecento - Settecento)., Roma, Istituto italiano d’arti grafiche." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/barsanti-a>,
+        <https://w3id.org/zeri/data/person/pollak-l> ;
+    dcterms:date "1922"^^xsd:gYear ;
+    dcterms:title "Raccolta Alfredo Barsanti : bronzi italiani (Trecento - Settecento)."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/Ba_III_1>,
+        <https://w3id.org/zeri/data/reconstruction/venture/BA_III> .
+

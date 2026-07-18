@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/org/SA_V">
+    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_87_e"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_87_d"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_102_d"/>
+    <agents:hasSeat rdf:resource="https://w3id.org/zeri/data/seat/IT_102_b"/>
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_39"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_68/SA_V"/>
+    <agents:requestsServiceIn rdf:resource="https://w3id.org/zeri/data/collaboration/C_15/SA_V"/>
+  </rdf:Description>
+</rdf:RDF>

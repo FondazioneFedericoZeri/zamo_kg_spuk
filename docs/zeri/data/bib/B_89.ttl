@@ -1,0 +1,20 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix sources: <https://w3id.org/zeri/ontology/zamo/sources#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/zeri/data/bib/B_89> a bibo:AcademicArticle,
+        sources:BibliographicItem ;
+    dcterms:bibliographicCitation "Misiano, S, 2012., I ritratti di Augusto Jandolo al Museo di Roma: immagini tra storia e cronache d'arte., In «Bollettino dei musei comunali di Roma», N.S.,, pp. 183-196." ;
+    dcterms:creator <https://w3id.org/zeri/data/person/misiano-s> ;
+    dcterms:date "2012"^^xsd:gYear ;
+    dcterms:title "I ritratti di Augusto Jandolo al Museo di Roma: immagini tra storia e cronache d'arte."@it ;
+    sources:isSourceFor <https://w3id.org/zeri/data/reconstruction/JA_1>,
+        <https://w3id.org/zeri/data/reconstruction/JA_2>,
+        <https://w3id.org/zeri/data/reconstruction/JA_3>,
+        <https://w3id.org/zeri/data/reconstruction/JA_4>,
+        <https://w3id.org/zeri/data/reconstruction/JA_5>,
+        <https://w3id.org/zeri/data/reconstruction/JA_6>,
+        <https://w3id.org/zeri/data/reconstruction/JA_7>,
+        <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+

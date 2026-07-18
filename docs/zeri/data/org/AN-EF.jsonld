@@ -1,0 +1,49 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/org/AN-EF",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization"
+    ],
+    "https://schema.org/name": [
+      {
+        "@language": "it",
+        "@value": "Galleria Efrati"
+      },
+      {
+        "@language": "it",
+        "@value": "Galleria Antonacci-Efrati"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#hasSeat": [
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_103_b"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/seat/IT_103"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn": [
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/main-collaboration/AN-EF_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_30/AN-EF"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/collaboration/C_11/AN-EF"
+      }
+    ]
+  }
+]

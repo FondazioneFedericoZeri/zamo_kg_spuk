@@ -1,0 +1,10 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/VO_II;",
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/ME"
+      }
+    ]
+  }
+]

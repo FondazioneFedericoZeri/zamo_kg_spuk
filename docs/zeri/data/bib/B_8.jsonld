@@ -1,0 +1,138 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/bib/B_8",
+    "@type": [
+      "http://purl.org/ontology/bibo/Book",
+      "https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem"
+    ],
+    "http://purl.org/dc/terms/bibliographicCitation": [
+      {
+        "@value": "Bargellini, S, 1981., Antiquari di ieri a Firenze., Firenze, Bonechi."
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://w3id.org/zeri/data/person/bargellini-s"
+      }
+    ],
+    "http://purl.org/dc/terms/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1981"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "it",
+        "@value": "Antiquari di ieri a Firenze."
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isSourceFor": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VO_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/VO_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/SA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/RO"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GR"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/GE_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/DE"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/CI"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BE_I"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BA_II"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/VO_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/SA_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RO_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/RO_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_4"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/BE_I_5"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/Ba_II_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/CI_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/DE_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_1"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_2"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_3"
+      },
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/GR_4"
+      }
+    ]
+  }
+]

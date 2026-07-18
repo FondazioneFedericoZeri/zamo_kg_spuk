@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/zeri/data/activity/venture/BR_I",
+    "@type": [
+      "https://w3id.org/zeri/ontology/zamo/sources#AgentActivity"
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy": [
+      {
+        "@id": "https://w3id.org/zeri/data/reconstruction/venture/BR_I"
+      }
+    ],
+    "https://w3id.org/zeri/ontology/zamo/sources#refersTo": [
+      {
+        "@id": "https://w3id.org/zeri/data/venture/BR_I"
+      }
+    ]
+  }
+]
