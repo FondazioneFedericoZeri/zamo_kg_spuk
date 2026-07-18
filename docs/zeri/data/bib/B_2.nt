@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/title> "The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli."@it .
-<https://w3id.org/zeri/data/bib/B_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
 <https://w3id.org/zeri/data/bib/B_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BA_IV> .
-<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/date> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/bibliographicCitation> "Anderson, J, 1996., The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli., In Kennerschaft: Kolloquium zum 150sten Geburtstag von Wilhelm von Bode, Jahrbuch der Berliner Museen; N.F., 38,, pp. 107-119." .
-<https://w3id.org/zeri/data/bib/B_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/anderson-j> .
+<https://w3id.org/zeri/data/bib/B_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
+<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/bibliographicCitation> "Anderson, J, 1996., The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli., In Kennerschaft: Kolloquium zum 150sten Geburtstag von Wilhelm von Bode, Jahrbuch der Berliner Museen; N.F., 38,, pp. 107-119." .
+<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/date> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_2> <http://purl.org/dc/terms/title> "The political power of connoisseurship in nineteenth-century Europe: Wilhelm von Bode versus Giovanni Morelli."@it .
+<https://w3id.org/zeri/data/bib/B_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

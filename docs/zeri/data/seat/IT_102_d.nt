@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_102_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_102_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
 <https://w3id.org/zeri/data/seat/IT_102_d> <https://schema.org/name> "Dario Sabatello, \"Galleria Sabatello\""@it .
 <https://w3id.org/zeri/data/seat/IT_102_d> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_102_d> .
+<https://w3id.org/zeri/data/seat/IT_102_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_102_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_102_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .

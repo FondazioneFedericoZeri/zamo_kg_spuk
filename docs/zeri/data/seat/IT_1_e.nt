@@ -1,3 +1,3 @@
-<https://w3id.org/zeri/data/seat/IT_1_e> <https://schema.org/name> "Benno Geiger (abitazione privata)"@it .
 <https://w3id.org/zeri/data/seat/IT_1_e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_1_e> <https://schema.org/name> "Benno Geiger (abitazione privata)"@it .
 <https://w3id.org/zeri/data/seat/IT_1_e> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_1_e> .

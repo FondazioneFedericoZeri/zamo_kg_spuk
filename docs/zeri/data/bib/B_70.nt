@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/bibliographicCitation> "L'Antiquario, 1916., Elia Volpi in America., In «L'Antiquario», VIII, 3,, pp. 17-18." .
-<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/l-antiquario> .
 <https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/title> "Elia Volpi in America."@it .
-<https://w3id.org/zeri/data/bib/B_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_70> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
-<https://w3id.org/zeri/data/bib/B_70> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
-<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/bibliographicCitation> "L'Antiquario, 1916., Elia Volpi in America., In «L'Antiquario», VIII, 3,, pp. 17-18." .
 <https://w3id.org/zeri/data/bib/B_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/date> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_70> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/l-antiquario> .
+<https://w3id.org/zeri/data/bib/B_70> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+<https://w3id.org/zeri/data/bib/B_70> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
+<https://w3id.org/zeri/data/bib/B_70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

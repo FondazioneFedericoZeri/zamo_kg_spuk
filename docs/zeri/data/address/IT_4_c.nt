@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/streetAddress> "via Borgonuovo 24bis"@it .
 <https://w3id.org/zeri/data/address/IT_4_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
-<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/addressRegion> "Lombardia"@it .
-<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/streetAddress> "via Borgonuovo 24bis"@it .
 <https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/addressLocality> "Milano"@it .
+<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_4_c> <https://schema.org/addressRegion> "Lombardia"@it .

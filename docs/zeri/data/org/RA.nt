@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/org/RA> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_24> .
-<https://w3id.org/zeri/data/org/RA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
 <https://w3id.org/zeri/data/org/RA> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_24> .
-<https://w3id.org/zeri/data/org/RA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/RA_1> .
+<https://w3id.org/zeri/data/org/RA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
 <https://w3id.org/zeri/data/org/RA> <https://schema.org/name> "Galleria di Antichità e Casa di vendite A. Rambaldi"@it .
+<https://w3id.org/zeri/data/org/RA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/RA_1> .

@@ -4,7 +4,7 @@
 @prefix schema: <https://schema.org/> .
 @prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
 
-zamo_ext:isGrandParentOf a owl:ObjectProperty ;
+zamo_ext:isUncleOrAuntOf a owl:ObjectProperty ;
     rdfs:domain agents:Person ;
     rdfs:range agents:Person ;
     rdfs:subPropertyOf schema:relatedTo .

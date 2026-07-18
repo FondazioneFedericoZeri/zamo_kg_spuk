@@ -1,3 +1,3 @@
-<https://w3id.org/zeri/data/activity/CA_II_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#AgentActivity> .
 <https://w3id.org/zeri/data/activity/CA_II_1> <https://w3id.org/zeri/ontology/zamo/sources#isReconstructedBy> <https://w3id.org/zeri/data/reconstruction/CA_II_1> .
+<https://w3id.org/zeri/data/activity/CA_II_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#AgentActivity> .
 <https://w3id.org/zeri/data/activity/CA_II_1> <https://w3id.org/zeri/ontology/zamo/sources#refersTo> <https://w3id.org/zeri/data/person/CA_II_1> .

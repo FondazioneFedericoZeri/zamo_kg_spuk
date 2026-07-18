@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/address/FR_8> <https://schema.org/addressCountry> "Francia"@it .
-<https://w3id.org/zeri/data/address/FR_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
-<https://w3id.org/zeri/data/address/FR_8> <https://schema.org/addressRegion> "Francia"@it .
 <https://w3id.org/zeri/data/address/FR_8> <https://schema.org/streetAddress> "Rue Spontini 16"@it .
 <https://w3id.org/zeri/data/address/FR_8> <https://schema.org/addressLocality> "Parigi"@it .
+<https://w3id.org/zeri/data/address/FR_8> <https://schema.org/addressRegion> "Francia"@it .
+<https://w3id.org/zeri/data/address/FR_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .

@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/event/E_2> <http://www.ics.forth.gr/isl/CRMsci/O19_encountered_object> <https://w3id.org/zeri/data/collection/tesoro-di-boscoreale> .
-<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_2> .
+<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_1> .
 <https://w3id.org/zeri/data/event/E_2> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/event/E_2> <http://www.w3.org/2000/01/rdf-schema#label> "Scoperta del tesoro di Boscoreale"@it .
-<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_1> .
+<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_2> .
+<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_3> .
 <https://w3id.org/zeri/data/event/E_2> <http://www.w3.org/2000/01/rdf-schema#comment> "Gli antiquari Canessa scoprirono nel 1895 il tesoro di Boscoreale, un servizio di argenteria di oltre 100 pezzi di epoca romana, che contribuirono ad esportare illegalmente cedendolo al barone Edmond De Rothschild. La collezione si conserva oggi al Museo del Louvre."@it .
 <https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/org/CA_I> .
-<https://w3id.org/zeri/data/event/E_2> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/CA_I_3> .
 <https://w3id.org/zeri/data/event/E_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/CRMsci/S19_Encounter_Event> .
+<https://w3id.org/zeri/data/event/E_2> <http://www.ics.forth.gr/isl/CRMsci/O19_encountered_object> <https://w3id.org/zeri/data/collection/tesoro-di-boscoreale> .

@@ -1,14 +1,14 @@
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
-<https://w3id.org/zeri/data/bib/B_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/title> "Jandolo, Augusto."@it .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
+<https://w3id.org/zeri/data/bib/B_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
+<https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/date> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
 <https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/bibliographicCitation> "Bartoli Amici, P, 2004., Jandolo, Augusto., In Dizionario biografico degli italiani, 62," .
 <https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
-<https://w3id.org/zeri/data/bib/B_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/title> "Jandolo, Augusto."@it .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
-<https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/date> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
+<https://w3id.org/zeri/data/bib/B_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_10> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bartoli-amici-p> .
-<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+<https://w3id.org/zeri/data/bib/B_10> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .

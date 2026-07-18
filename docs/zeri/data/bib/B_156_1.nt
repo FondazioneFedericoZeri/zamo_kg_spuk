@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/zorzi-e> .
+<https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/bibliographicCitation> "Zorzi, E, 1934, L'arte italiana in America, in «Gazzetta di Venezia», 3 febbraio 1934" .
+<https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/date> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_156_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/title> "L'arte italiana in America"@it .
 <https://w3id.org/zeri/data/bib/B_156_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .
 <https://w3id.org/zeri/data/bib/B_156_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_156_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_156_1> <http://purl.org/dc/terms/bibliographicCitation> "Zorzi, E, 1934, L'arte italiana in America, in «Gazzetta di Venezia», 3 febbraio 1934" .

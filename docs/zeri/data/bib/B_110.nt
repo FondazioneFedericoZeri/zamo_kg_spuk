@@ -1,11 +1,11 @@
-<https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_3> .
+<https://w3id.org/zeri/data/bib/B_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_2> .
 <https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/bibliographicCitation> "Planiscig L, 2006., La collezione Luigi Grassi di piccoli bronzi del Rinascimento., Firenze, Centro Di." .
 <https://w3id.org/zeri/data/bib/B_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/planiscig-l> .
-<https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/title> "La collezione Luigi Grassi di piccoli bronzi del Rinascimento."@it .
 <https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR> .
 <https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_1> .
+<https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_3> .
 <https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_2> .
-<https://w3id.org/zeri/data/bib/B_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_110> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_4> .
+<https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/planiscig-l> .
+<https://w3id.org/zeri/data/bib/B_110> <http://purl.org/dc/terms/title> "La collezione Luigi Grassi di piccoli bronzi del Rinascimento."@it .

@@ -1,16 +1,16 @@
 <https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_1> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_114> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AP_2> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_11/AP> .
 <https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AP_1> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_7> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_117> .
-<https://w3id.org/zeri/data/org/AP> <https://schema.org/name> "W. Apolloni"@it .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AP_3> .
-<https://w3id.org/zeri/data/org/AP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_108> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_5> .
-<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_6> .
 <https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_51/AP> .
 <https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_8> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_117> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AP_3> .
+<https://w3id.org/zeri/data/org/AP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_5> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_7> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_114> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AP_2> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_108> .
+<https://w3id.org/zeri/data/org/AP> <https://schema.org/name> "W. Apolloni"@it .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_6> .
+<https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_11/AP> .
 <https://w3id.org/zeri/data/org/AP> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/AP> .

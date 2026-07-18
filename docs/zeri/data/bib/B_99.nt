@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/natale-v> .
-<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/title> "Gotico e Rinascimento in Piemonte di Pietro Accorsi."@it .
-<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/bibliographicCitation> "Natale, V, 2022., Gotico e Rinascimento in Piemonte di Pietro Accorsi., In D'Italia, Mana, Natale, Galateri di Genola,, pp. 23-44." .
-<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_99> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AC> .
-<https://w3id.org/zeri/data/bib/B_99> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AC_1> .
 <https://w3id.org/zeri/data/bib/B_99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/title> "Gotico e Rinascimento in Piemonte di Pietro Accorsi."@it .
+<https://w3id.org/zeri/data/bib/B_99> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AC> .
+<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/bibliographicCitation> "Natale, V, 2022., Gotico e Rinascimento in Piemonte di Pietro Accorsi., In D'Italia, Mana, Natale, Galateri di Genola,, pp. 23-44." .
+<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/natale-v> .
+<https://w3id.org/zeri/data/bib/B_99> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_99> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AC_1> .

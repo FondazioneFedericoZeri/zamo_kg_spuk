@@ -1,12 +1,12 @@
-<https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/date> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
-<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
-<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
-<https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/conti-g> .
-<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_1> .
+<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
 <https://w3id.org/zeri/data/bib/B_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/bibliographicCitation> "Conti, G, 2009., I fratelli Bellini, inventori di un nuovo modo di fare antiquariato: un ricordo dei fondatori della Biennale fiorentina e dell'A.A.I., In «Gazzetta antiquaria»,  N.S. 55, 1,, pp. 22-25." .
+<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_1> .
+<https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/date> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
+<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
+<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
 <https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/title> "I fratelli Bellini, inventori di un nuovo modo di fare antiquariato: un ricordo dei fondatori della Biennale fiorentina e dell'A.A.I."@it .
+<https://w3id.org/zeri/data/bib/B_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
-<https://w3id.org/zeri/data/bib/B_35> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
+<https://w3id.org/zeri/data/bib/B_35> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/conti-g> .

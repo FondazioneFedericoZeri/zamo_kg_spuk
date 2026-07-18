@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_106_1> <http://purl.org/dc/terms/bibliographicCitation> "Pellegrini, E, 2022, Göring in Italy: the Ventura case, in Fuhrmeister, Murovec, pp. 145-162" .
-<https://w3id.org/zeri/data/bib/B_106_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_106_1> <http://purl.org/dc/terms/title> "Göring in Italy: the Ventura case"@it .
-<https://w3id.org/zeri/data/bib/B_106_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VE> .
 <https://w3id.org/zeri/data/bib/B_106_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_106_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/pellegrini-e> .
+<https://w3id.org/zeri/data/bib/B_106_1> <http://purl.org/dc/terms/bibliographicCitation> "Pellegrini, E, 2022, Göring in Italy: the Ventura case, in Fuhrmeister, Murovec, pp. 145-162" .
 <https://w3id.org/zeri/data/bib/B_106_1> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_106_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_106_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VE> .

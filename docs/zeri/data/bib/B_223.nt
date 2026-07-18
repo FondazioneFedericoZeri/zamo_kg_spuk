@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_223> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_2> .
+<https://w3id.org/zeri/data/bib/B_223> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/PersonalCommunicationDocument> .
+<https://w3id.org/zeri/data/bib/B_223> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_1> .
+<https://w3id.org/zeri/data/bib/B_223> <http://purl.org/dc/terms/title> "Intervista Tullio Calabi, Torino."@it .
 <https://w3id.org/zeri/data/bib/B_223> <http://purl.org/dc/terms/bibliographicCitation> "21/5/2023, Intervista Tullio Calabi, Torino., Torino" .
 <https://w3id.org/zeri/data/bib/B_223> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SE_I> .
-<https://w3id.org/zeri/data/bib/B_223> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_1> .
-<https://w3id.org/zeri/data/bib/B_223> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Object> .
-<https://w3id.org/zeri/data/bib/B_223> <http://purl.org/dc/terms/title> "Intervista Tullio Calabi, Torino."@it .
-<https://w3id.org/zeri/data/bib/B_223> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_2> .

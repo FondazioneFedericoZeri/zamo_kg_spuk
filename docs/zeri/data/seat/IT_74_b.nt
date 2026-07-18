@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_74_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_74_b> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_74_b> .
+<https://w3id.org/zeri/data/seat/IT_74_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_74_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_74_b> <https://schema.org/name> "Giuliano Freschi"@it .
 <https://w3id.org/zeri/data/seat/IT_74_b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_74_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .

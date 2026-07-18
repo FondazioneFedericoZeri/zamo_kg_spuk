@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/date> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_122_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
-<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/bibliographicCitation> "Santamaria P. & P, 1920, Médailles romaines, aes grave, composant la collection d’un amateur décédé, Roma 29 novembre 1920, Roma 1920" .
-<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/title> "Médailles romaines, aes grave, composant la collection d’un amateur décédé, Roma 29 novembre 1920"@it .
-<https://w3id.org/zeri/data/bib/B_122_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
 <https://w3id.org/zeri/data/bib/B_122_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_122_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
+<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/date> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/bibliographicCitation> "Santamaria P. & P, 1920, Médailles romaines, aes grave, composant la collection d’un amateur décédé, Roma 29 novembre 1920, Roma 1920" .
 <https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/santamaria-p-p> .
+<https://w3id.org/zeri/data/bib/B_122_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_122_2> <http://purl.org/dc/terms/title> "Médailles romaines, aes grave, composant la collection d’un amateur décédé, Roma 29 novembre 1920"@it .

@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/ferrazza-r> .
+<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/date> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_47> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
+<https://w3id.org/zeri/data/bib/B_47> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
+<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/title> "Palazzo Davanzati e le collezioni di Elia Volpi."@it .
 <https://w3id.org/zeri/data/bib/B_47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_47> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
-<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/ferrazza-r> .
-<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/title> "Palazzo Davanzati e le collezioni di Elia Volpi."@it .
-<https://w3id.org/zeri/data/bib/B_47> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
 <https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/bibliographicCitation> "Ferrazza, R, 1993., Palazzo Davanzati e le collezioni di Elia Volpi., Firenze Centro Di." .
-<https://w3id.org/zeri/data/bib/B_47> <http://purl.org/dc/terms/date> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .

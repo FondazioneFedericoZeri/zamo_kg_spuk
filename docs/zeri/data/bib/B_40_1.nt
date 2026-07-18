@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_40_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
-<https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/title> "Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti"@it .
 <https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/bibliographicCitation> "Di Lorenzo, A, 2002, Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti, in Di Lorenzo, pp. 37-45" .
-<https://w3id.org/zeri/data/bib/B_40_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_40_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+<https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/title> "Édouard e Nélie a Milano: i loro rapporti con gli antiquari, i restauratori e i collezionisti"@it .
 <https://w3id.org/zeri/data/bib/B_40_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/date> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_40_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/di-lorenzo-a> .
+<https://w3id.org/zeri/data/bib/B_40_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
+<https://w3id.org/zeri/data/bib/B_40_1> <http://purl.org/dc/terms/date> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_40_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .

@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/workLocation> <https://w3id.org/zeri/data/location/IT_106> .
 <https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
 <https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/deathDate> "1942"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/person/JA-TA_4> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_4> .
-<https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/givenName> "Guido Tavazzi"@it .
-<https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
-<https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
 <https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/familyName> "Jandolo-Tavazzi"@it .
+<https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .
+<https://w3id.org/zeri/data/person/JA-TA_4> <https://w3id.org/zeri/ontology/zamo/agents#providesServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_4> .
+<https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://w3id.org/zeri/data/person/JA-TA_4> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://catalogo.fondazionezeri.unibo.it/> .
+<https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/workLocation> <https://w3id.org/zeri/data/location/IT_106> .
+<https://w3id.org/zeri/data/person/JA-TA_4> <https://schema.org/givenName> "Guido Tavazzi"@it .

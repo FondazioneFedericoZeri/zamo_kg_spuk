@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/title> "Vittorio Cini e Federico Zeri."@it .
-<https://w3id.org/zeri/data/bib/B_98> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_I> .
-<https://w3id.org/zeri/data/bib/B_98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/bibliographicCitation> "Natale M, 2021., Vittorio Cini e Federico Zeri., In Barbero,, pp. 75-94." .
-<https://w3id.org/zeri/data/bib/B_98> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_I_1> .
-<https://w3id.org/zeri/data/bib/B_98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/natale-m> .
+<https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/bibliographicCitation> "Natale M, 2021., Vittorio Cini e Federico Zeri., In Barbero,, pp. 75-94." .
+<https://w3id.org/zeri/data/bib/B_98> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_I> .
+<https://w3id.org/zeri/data/bib/B_98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_98> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_I_1> .
+<https://w3id.org/zeri/data/bib/B_98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_98> <http://purl.org/dc/terms/title> "Vittorio Cini e Federico Zeri."@it .
 <https://w3id.org/zeri/data/bib/B_98> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_I_2> .

@@ -1,12 +1,12 @@
-<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/date> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
-<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/title> "Galleria Bellini."@it .
-<https://w3id.org/zeri/data/bib/B_144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
-<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
-<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
-<https://w3id.org/zeri/data/bib/B_144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
 <https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1926., Galleria Bellini., In «L'Antiquario», XIII,2,, pp. 53-54." .
-<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
-<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
+<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/title> "Galleria Bellini."@it .
+<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
+<https://w3id.org/zeri/data/bib/B_144> <http://purl.org/dc/terms/date> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_1> .
+<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
+<https://w3id.org/zeri/data/bib/B_144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
+<https://w3id.org/zeri/data/bib/B_144> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
+<https://w3id.org/zeri/data/bib/B_144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

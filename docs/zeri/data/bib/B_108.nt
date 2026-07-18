@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/bibliographicCitation> "Pini, S, 2011., Fondazione Salvatore Romano: guida alla visita del museo., Firenze, Polistampa." .
 <https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/pini-s> .
-<https://w3id.org/zeri/data/bib/B_108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/title> "Fondazione Salvatore Romano: guida alla visita del museo."@it .
+<https://w3id.org/zeri/data/bib/B_108> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RO> .
 <https://w3id.org/zeri/data/bib/B_108> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_2> .
 <https://w3id.org/zeri/data/bib/B_108> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RO_1> .
+<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/pini-s> .
+<https://w3id.org/zeri/data/bib/B_108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_108> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RO> .
+<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/title> "Fondazione Salvatore Romano: guida alla visita del museo."@it .
+<https://w3id.org/zeri/data/bib/B_108> <http://purl.org/dc/terms/bibliographicCitation> "Pini, S, 2011., Fondazione Salvatore Romano: guida alla visita del museo., Firenze, Polistampa." .

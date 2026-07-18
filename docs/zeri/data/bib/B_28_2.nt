@@ -1,7 +1,7 @@
 <https://w3id.org/zeri/data/bib/B_28_2> <http://purl.org/dc/terms/bibliographicCitation> "Cecutti, D, 2013, Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento, Firenze, Maschietto Editore, pp. 82, 202-203, 238" .
-<https://w3id.org/zeri/data/bib/B_28_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_28_2> <http://purl.org/dc/terms/date> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_28_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_28_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
 <https://w3id.org/zeri/data/bib/B_28_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/cecutti-d> .
+<https://w3id.org/zeri/data/bib/B_28_2> <http://purl.org/dc/terms/date> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_28_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_28_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
 <https://w3id.org/zeri/data/bib/B_28_2> <http://purl.org/dc/terms/title> "Una miniera inesauribile. Collezionisti e antiquari di arte islamica. L'Italia e il contesto internazionale tra Ottocento e Novecento"@it .
+<https://w3id.org/zeri/data/bib/B_28_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .

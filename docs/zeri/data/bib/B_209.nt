@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
 <https://w3id.org/zeri/data/bib/B_209> <http://purl.org/dc/terms/bibliographicCitation> "The collection of Raoul Tolentino : paintings, with fine primitive and Renaissance examples ..., bronzes from the Roman excavations, terracotta and stucco groups and bas-reliefs, Gothic and Renaissance furniture, catalogo della vendita all'asta American Art Association, (New York, 8-11 dicembre)., New York, 1926." .
-<https://w3id.org/zeri/data/bib/B_209> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
-<https://w3id.org/zeri/data/bib/B_209> <http://purl.org/dc/terms/title> "The collection of Raoul Tolentino : paintings, with fine primitive and Renaissance examples ..., bronzes from the Roman excavations, terracotta and stucco groups and bas-reliefs, Gothic and Renaissance furniture, catalogo della vendita all'asta American Art Association, (New York, 8-11 dicembre)."@it .
-<https://w3id.org/zeri/data/bib/B_209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_209> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_209> <http://purl.org/dc/terms/title> "The collection of Raoul Tolentino : paintings, with fine primitive and Renaissance examples ..., bronzes from the Roman excavations, terracotta and stucco groups and bas-reliefs, Gothic and Renaissance furniture, catalogo della vendita all'asta American Art Association, (New York, 8-11 dicembre)."@it .
+<https://w3id.org/zeri/data/bib/B_209> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .

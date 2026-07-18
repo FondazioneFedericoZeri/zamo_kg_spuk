@@ -1,20 +1,20 @@
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_III> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_III_1> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
-<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
 <https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .
-<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
-<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1913., I colleghi d'Italia: Romani., In «L'Antiquario», VI, 1,, pp. 1-4." .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
 <https://w3id.org/zeri/data/bib/B_140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TA> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TA_1> .
-<https://w3id.org/zeri/data/bib/B_140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/title> "I colleghi d'Italia: Romani."@it .
 <https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
-<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/title> "I colleghi d'Italia: Romani."@it .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_140> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1913., I colleghi d'Italia: Romani., In «L'Antiquario», VI, 1,, pp. 1-4." .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_III> .
 <https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TA_1> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_III_1> .
+<https://w3id.org/zeri/data/bib/B_140> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TA> .

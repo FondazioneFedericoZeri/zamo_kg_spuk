@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_13> <http://purl.org/dc/terms/title> "Tolentino."@it .
 <https://w3id.org/zeri/data/bib/B_13> <http://purl.org/dc/terms/bibliographicCitation> "Bellini, L, 1924., Tolentino., In «L'Antiquario», 1924,, pp. 139-141." .
-<https://w3id.org/zeri/data/bib/B_13> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
 <https://w3id.org/zeri/data/bib/B_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_13> <http://purl.org/dc/terms/date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_13> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
-<https://w3id.org/zeri/data/bib/B_13> <http://purl.org/dc/terms/title> "Tolentino."@it .
 <https://w3id.org/zeri/data/bib/B_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_13> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
+<https://w3id.org/zeri/data/bib/B_13> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
 <https://w3id.org/zeri/data/bib/B_13> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bellini-l> .

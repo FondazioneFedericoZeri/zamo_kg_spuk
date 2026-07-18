@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/RU_1> .
-<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_15> .
 <https://w3id.org/zeri/data/org/RU> <https://schema.org/name> "Studio d'Arte"@it .
-<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_27> .
-<https://w3id.org/zeri/data/org/RU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
-<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_17/RU> .
 <https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_13> .
+<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_27> .
+<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_15> .
+<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_17/RU> .
+<https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/RU_1> .
 <https://w3id.org/zeri/data/org/RU> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_17> .
+<https://w3id.org/zeri/data/org/RU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .

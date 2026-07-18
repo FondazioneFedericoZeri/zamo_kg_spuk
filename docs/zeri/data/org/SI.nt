@@ -1,12 +1,12 @@
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_5> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_97> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_2> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_1> .
-<https://w3id.org/zeri/data/org/SI> <https://schema.org/name> "Simonetti Aldo Giulio & C."@it .
-<https://w3id.org/zeri/data/org/SI> <https://schema.org/name> "Galleria Simonetti"@it .
 <https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_134> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_4> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_3> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_17> .
-<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_14> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_5> .
 <https://w3id.org/zeri/data/org/SI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_4> .
+<https://w3id.org/zeri/data/org/SI> <https://schema.org/name> "Simonetti Aldo Giulio & C."@it .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_97> .
+<https://w3id.org/zeri/data/org/SI> <https://schema.org/name> "Galleria Simonetti"@it .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_14> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_3> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_2> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_17> .
+<https://w3id.org/zeri/data/org/SI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/SI_1> .

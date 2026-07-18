@@ -1,12 +1,12 @@
+<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_103> .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_11/AN-EF> .
-<https://w3id.org/zeri/data/org/AN-EF> <https://schema.org/name> "Galleria Antonacci-Efrati"@it .
+<https://w3id.org/zeri/data/org/AN-EF> <https://schema.org/name> "Galleria Efrati"@it .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_5> .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_1> .
-<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/AN-EF> .
-<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_103> .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_4> .
-<https://w3id.org/zeri/data/org/AN-EF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_3> .
-<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_2> .
-<https://w3id.org/zeri/data/org/AN-EF> <https://schema.org/name> "Galleria Efrati"@it .
+<https://w3id.org/zeri/data/org/AN-EF> <https://schema.org/name> "Galleria Antonacci-Efrati"@it .
 <https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_103_b> .
+<https://w3id.org/zeri/data/org/AN-EF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/AN-EF_2> .
+<https://w3id.org/zeri/data/org/AN-EF> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_30/AN-EF> .

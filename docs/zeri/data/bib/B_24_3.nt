@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/bibliographicCitation> "Carotti, G, 1905, Una nuova raccolta di opere d'arte, in «L’Arte», VIII, 1905, pp. 50-52" .
 <https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/carotti-g> .
+<https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/date> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_24_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_24_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
 <https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/title> "Una nuova raccolta di opere d'arte"@it .
 <https://w3id.org/zeri/data/bib/B_24_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_24_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/date> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_24_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+<https://w3id.org/zeri/data/bib/B_24_3> <http://purl.org/dc/terms/bibliographicCitation> "Carotti, G, 1905, Una nuova raccolta di opere d'arte, in «L’Arte», VIII, 1905, pp. 50-52" .

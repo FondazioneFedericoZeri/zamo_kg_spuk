@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_39> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CI_1> .
-<https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_39> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
-<https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/del-giorgio-l> .
-<https://w3id.org/zeri/data/bib/B_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/title> "Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo."@it .
+<https://w3id.org/zeri/data/bib/B_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/del-giorgio-l> .
+<https://w3id.org/zeri/data/bib/B_39> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
 <https://w3id.org/zeri/data/bib/B_39> <http://purl.org/dc/terms/bibliographicCitation> "Del Giorgio, L, 2021-2022., Vincenzo Ciampolini : Negoziante e Commissario di oggetti d'arte antichi nella Firenze tra diciannovesimo e ventesimo secolo., Università degli Studi di Firenze." .

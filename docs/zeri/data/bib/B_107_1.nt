@@ -1,7 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_107_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/title> "La collezione dispersa: le opere Cagnola-Lattuada prima e dopo l'asta Geri del 1916"@it .
 <https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/piccolo-o> .
+<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/date> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/bibliographicCitation> "Piccolo, O, 2008, La collezione dispersa: le opere Cagnola-Lattuada prima e dopo l'asta Geri del 1916, Verona, Scripta Edizioni" .
 <https://w3id.org/zeri/data/bib/B_107_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GE_II> .
 <https://w3id.org/zeri/data/bib/B_107_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/bibliographicCitation> "Piccolo, O, 2008, La collezione dispersa: le opere Cagnola-Lattuada prima e dopo l'asta Geri del 1916, Verona, Scripta Edizioni" .
-<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/title> "La collezione dispersa: le opere Cagnola-Lattuada prima e dopo l'asta Geri del 1916"@it .
-<https://w3id.org/zeri/data/bib/B_107_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_107_1> <http://purl.org/dc/terms/date> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .

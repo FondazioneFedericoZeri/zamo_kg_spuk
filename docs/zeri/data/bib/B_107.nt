@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_107> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
-<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/bibliographicCitation> "Piccioli, A, 1929., Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva., In «L'Antiquario», XVI, 2,, pp. 65-68." .
-<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/piccioli-a> .
-<https://w3id.org/zeri/data/bib/B_107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/title> "Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva."@it .
-<https://w3id.org/zeri/data/bib/B_107> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
 <https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/date> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/title> "Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva."@it .
 <https://w3id.org/zeri/data/bib/B_107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/bibliographicCitation> "Piccioli, A, 1929., Un altro atto di mecenatismo dei Conti Contini: La Pietà di Attilio Selva., In «L'Antiquario», XVI, 2,, pp. 65-68." .
+<https://w3id.org/zeri/data/bib/B_107> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+<https://w3id.org/zeri/data/bib/B_107> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
+<https://w3id.org/zeri/data/bib/B_107> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/piccioli-a> .

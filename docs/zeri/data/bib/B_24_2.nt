@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/carletti-l-giometti-c> .
 <https://w3id.org/zeri/data/bib/B_24_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_24_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/bibliographicCitation> "Carletti, L., Giometti, C, 2016, Raffaello on the road. Rinascimento e propaganda fascista in America (1938-40), Roma, Carocci" .
+<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_24_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VE> .
+<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/bibliographicCitation> "Carletti, L., Giometti, C, 2016, Raffaello on the road. Rinascimento e propaganda fascista in America (1938-40), Roma, Carocci" .
 <https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/title> "Raffaello on the road. Rinascimento e propaganda fascista in America (1938-40)"@it .
+<https://w3id.org/zeri/data/bib/B_24_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/carletti-l-giometti-c> .

@@ -1,11 +1,11 @@
+<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/LA_I_2> .
 <https://w3id.org/zeri/data/org/LA_I> <https://schema.org/name> "Galleria Lapiccirella"@it .
 <https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_50> .
 <https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_84> .
-<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_51> .
 <https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_36> .
-<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_26> .
-<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/LA_I_2> .
-<https://w3id.org/zeri/data/org/LA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
-<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_87_b> .
 <https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/LA_I_1> .
+<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_26> .
+<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_87_b> .
+<https://w3id.org/zeri/data/org/LA_I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
 <https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_77> .
+<https://w3id.org/zeri/data/org/LA_I> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_51> .

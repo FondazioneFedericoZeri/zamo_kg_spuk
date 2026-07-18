@@ -1,5 +1,5 @@
 from jinja2 import Environment, FileSystemLoader
-from src.utils import escape_html, uri_to_filename, get_uri_label, remove_root, generate_base_path, generate_path
+from src.utils import escape_html, uri_to_filename, get_uri_label, remove_root, generate_base_path, generate_path, get_prefix
 from rdflib import Graph, URIRef, Literal, RDF
 from urllib.parse import urlparse
 import os
@@ -25,7 +25,8 @@ class HTMLPage:
             subject_label = self.subject,
             property_object_pairs = self.property_object_pairs,
             base_path = self.base_path,
-            path = f"{remove_root(self.get_path())}/{uri_to_filename(self.subject)}"
+            path = f"{remove_root(self.get_path())}/{uri_to_filename(self.subject)}",
+            prefix = get_prefix()
         )
 
     def save(self):
@@ -106,7 +107,8 @@ class IndexPage:
         return template.render(
             entities = items, 
             summary = self.summary,
-            base_path = self.base_path
+            base_path = self.base_path,
+            prefix = get_prefix()
         )
 
     def save(self, output_dir="docs"):
@@ -127,7 +129,8 @@ class QueryPage:
         template = env.get_template("sparql.html")
         return template.render(
             source = self.source,
-            base_path = self.base_path
+            base_path = self.base_path,
+            prefix = get_prefix()
         )
 
     def save(self, output_dir="docs"):
@@ -148,7 +151,8 @@ class DocPage:
         template = env.get_template("documentation.html")
         return template.render(
             source = self.source,
-            base_path = self.base_path
+            base_path = self.base_path,
+            prefix = get_prefix()
         )
 
     def save(self, output_dir="docs"):

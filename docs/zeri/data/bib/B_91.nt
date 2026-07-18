@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/morandotti-a> .
 <https://w3id.org/zeri/data/bib/B_91> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .
+<https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/bibliographicCitation> "Morandotti, A, 2001., Italico Bras, pittore, conoscitore e mercante nell’età di Giuseppe Fiocco., In Orlando,, pp. 241-250." .
+<https://w3id.org/zeri/data/bib/B_91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/date> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/title> "Italico Bras, pittore, conoscitore e mercante nell’età di Giuseppe Fiocco."@it .
 <https://w3id.org/zeri/data/bib/B_91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/bibliographicCitation> "Morandotti, A, 2001., Italico Bras, pittore, conoscitore e mercante nell’età di Giuseppe Fiocco., In Orlando,, pp. 241-250." .
+<https://w3id.org/zeri/data/bib/B_91> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/morandotti-a> .

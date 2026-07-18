@@ -1,22 +1,22 @@
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/UK_3> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_3> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_2> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_67/VO_II> .
-<https://w3id.org/zeri/data/org/VO_II> <https://schema.org/name> "Volterra e Melli"@it .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_1> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_20> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_48> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_41> .
 <https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_41/VO_II> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_35> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_4> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_1> .
+<https://w3id.org/zeri/data/org/VO_II> <https://schema.org/name> "Galleria Leonardo"@it .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_48> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_40/VO_II> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/UK_3> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_4> .
 <https://w3id.org/zeri/data/org/VO_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
 <https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_5> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_35/VO_II> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_86> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_40/VO_II> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_46> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/FR_4> .
-<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_4> .
 <https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_75_b> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_20> .
 <https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_44> .
-<https://w3id.org/zeri/data/org/VO_II> <https://schema.org/name> "Galleria Leonardo"@it .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_67/VO_II> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_35/VO_II> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_2> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_41> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/VO_II_3> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_35> .
+<https://w3id.org/zeri/data/org/VO_II> <https://schema.org/name> "Volterra e Melli"@it .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_46> .
+<https://w3id.org/zeri/data/org/VO_II> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_86> .

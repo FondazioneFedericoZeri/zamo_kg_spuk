@@ -1,20 +1,20 @@
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_3> .
+<https://w3id.org/zeri/data/bib/B_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/bibliographicCitation> "Coen, P, 2020., La rincorsa del primato: le esportazioni di opere d'arte in Italia e nel mondo., In Coen,, pp. 177-235." .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
-<https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
 <https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/coen-p> .
 <https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SI> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
-<https://w3id.org/zeri/data/bib/B_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_1> .
-<https://w3id.org/zeri/data/bib/B_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_5> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_2> .
 <https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_4> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_3> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
-<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
-<https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/title> "La rincorsa del primato: le esportazioni di opere d'arte in Italia e nel mondo."@it .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_1> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_2> .
+<https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .
+<https://w3id.org/zeri/data/bib/B_33> <http://purl.org/dc/terms/title> "La rincorsa del primato: le esportazioni di opere d'arte in Italia e nel mondo."@it .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SI_5> .
+<https://w3id.org/zeri/data/bib/B_33> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
+<https://w3id.org/zeri/data/bib/B_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .

@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_151> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
-<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/zaninelli-f> .
-<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/bibliographicCitation> "Zaninelli, F, 2018., Alessandro Contini Bonacossi ( 1878-1955). Cenni biografici, in La collezione Contini Bonacossi nelle Gallerie degli Uffizi. A cura di Draghi, S., Tosone, A., Firenze, Giunti,, pp. 301-317." .
 <https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/title> "Alessandro Contini Bonacossi ( 1878-1955). Cenni biografici, in La collezione Contini Bonacossi nelle Gallerie degli Uffizi. A cura di Draghi, S., Tosone, A."@it .
+<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/zaninelli-f> .
+<https://w3id.org/zeri/data/bib/B_151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_151> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
+<https://w3id.org/zeri/data/bib/B_151> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
+<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_151> <http://purl.org/dc/terms/bibliographicCitation> "Zaninelli, F, 2018., Alessandro Contini Bonacossi ( 1878-1955). Cenni biografici, in La collezione Contini Bonacossi nelle Gallerie degli Uffizi. A cura di Draghi, S., Tosone, A., Firenze, Giunti,, pp. 301-317." .

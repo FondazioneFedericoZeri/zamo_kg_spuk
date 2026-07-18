@@ -1,12 +1,12 @@
-<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_5> .
-<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/date> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_1> .
 <https://w3id.org/zeri/data/bib/B_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_5> .
+<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_4> .
+<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/glaros-m> .
 <https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
-<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/title> "Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II."@it .
 <https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_2> .
 <https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/bibliographicCitation> "Glaros, M, 2012., Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II., PhD diss., University of Western Sidney,, pp.  337-342." .
-<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/glaros-m> .
-<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_4> .
+<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/date> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_57> <http://purl.org/dc/terms/title> "Sometimes a Little Injustice Must Be Suffered for the Public Good: How National Security (Aliens Control) Regulations 1939 (CHT) Affected lives of German, Italian, Japanese, and Australian-born Women Living in Australia during World War II."@it .
 <https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_3> .
-<https://w3id.org/zeri/data/bib/B_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_57> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_1> .

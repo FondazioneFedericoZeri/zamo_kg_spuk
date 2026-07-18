@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
-<https://w3id.org/zeri/data/bib/B_127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_127> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
-<https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/terris-j-j> .
-<https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/date> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/bibliographicCitation> "Terris, J. J, 1952., Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]., 1952." .
+<https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/terris-j-j> .
+<https://w3id.org/zeri/data/bib/B_127> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
+<https://w3id.org/zeri/data/bib/B_127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
 <https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/title> "Catalogue des meubles et objets d'art anciens et modernes, très important tableaux ... très nombreuses sculptures ... provenant des collections des Barons Lazzaroni et garnissant la Villa Madeleine ... Nice : vente ... sur lieu ... lundi 16 ... samedi 21 juin 1952. [S.l. s.n.]."@it .
+<https://w3id.org/zeri/data/bib/B_127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_127> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_II_1> .
+<https://w3id.org/zeri/data/bib/B_127> <http://purl.org/dc/terms/date> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .

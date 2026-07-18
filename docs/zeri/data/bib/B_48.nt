@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/bibliographicCitation> "Fina, G, 2018., Argentieri piemontesi del '700: trovati e ritrovati., Milano, Skira." .
-<https://w3id.org/zeri/data/bib/B_48> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_2> .
 <https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_48> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SE_I> .
+<https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/title> "Argentieri piemontesi del '700: trovati e ritrovati."@it .
+<https://w3id.org/zeri/data/bib/B_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_48> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_1> .
+<https://w3id.org/zeri/data/bib/B_48> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SE_I> .
+<https://w3id.org/zeri/data/bib/B_48> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_I_2> .
 <https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/fina-g> .
-<https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/title> "Argentieri piemontesi del '700: trovati e ritrovati."@it .
+<https://w3id.org/zeri/data/bib/B_48> <http://purl.org/dc/terms/bibliographicCitation> "Fina, G, 2018., Argentieri piemontesi del '700: trovati e ritrovati., Milano, Skira." .

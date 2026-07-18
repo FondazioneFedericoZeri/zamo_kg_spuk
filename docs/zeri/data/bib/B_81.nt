@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_81> <http://purl.org/dc/terms/bibliographicCitation> "Mana, L, 2022., Pietro Accorsi e il riuso dell'antico. Un avvio di ricerche., In  D'Italia, Mana, Natale, Galateri di Genola,, pp. 45-52." .
 <https://w3id.org/zeri/data/bib/B_81> <http://purl.org/dc/terms/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_81> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AC> .
 <https://w3id.org/zeri/data/bib/B_81> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AC_1> .
+<https://w3id.org/zeri/data/bib/B_81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_81> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AC> .
 <https://w3id.org/zeri/data/bib/B_81> <http://purl.org/dc/terms/title> "Pietro Accorsi e il riuso dell'antico. Un avvio di ricerche."@it .
+<https://w3id.org/zeri/data/bib/B_81> <http://purl.org/dc/terms/bibliographicCitation> "Mana, L, 2022., Pietro Accorsi e il riuso dell'antico. Un avvio di ricerche., In  D'Italia, Mana, Natale, Galateri di Genola,, pp. 45-52." .
 <https://w3id.org/zeri/data/bib/B_81> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/mana-l> .

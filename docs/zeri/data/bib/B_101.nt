@@ -1,10 +1,10 @@
-<https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_II_1> .
-<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/bibliographicCitation> "Niemeyer Chini, V, 2009., Stefano Bardini e Wilhelm Bode: mercanti e connaisseur fra Ottocento e Novecento., Firenze, Polistampa." .
-<https://w3id.org/zeri/data/bib/B_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/niemeyer-chini-v> .
-<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/date> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_II> .
 <https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/title> "Stefano Bardini e Wilhelm Bode: mercanti e connaisseur fra Ottocento e Novecento."@it .
 <https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_II_2> .
-<https://w3id.org/zeri/data/bib/B_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_II_3> .
+<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/niemeyer-chini-v> .
+<https://w3id.org/zeri/data/bib/B_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/bibliographicCitation> "Niemeyer Chini, V, 2009., Stefano Bardini e Wilhelm Bode: mercanti e connaisseur fra Ottocento e Novecento., Firenze, Polistampa." .
+<https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_II> .
+<https://w3id.org/zeri/data/bib/B_101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_101> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Ba_II_1> .
+<https://w3id.org/zeri/data/bib/B_101> <http://purl.org/dc/terms/date> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .

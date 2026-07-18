@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/bibliographicCitation> "Boccardo, P, 2001., Costantino Nigro, antiquario e mecenate, e i suoi rapporti con Roberto Longhi, Caterina Marcenaro e Angelo Costa., In Orlando,, pp. 80-91." .
 <https://w3id.org/zeri/data/bib/B_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/boccardo-p> .
 <https://w3id.org/zeri/data/bib/B_16> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/NI_1> .
+<https://w3id.org/zeri/data/bib/B_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/date> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_16> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/NI> .
 <https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/title> "Costantino Nigro, antiquario e mecenate, e i suoi rapporti con Roberto Longhi, Caterina Marcenaro e Angelo Costa."@it .
-<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/bibliographicCitation> "Boccardo, P, 2001., Costantino Nigro, antiquario e mecenate, e i suoi rapporti con Roberto Longhi, Caterina Marcenaro e Angelo Costa., In Orlando,, pp. 80-91." .
-<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/date> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_16> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/boccardo-p> .

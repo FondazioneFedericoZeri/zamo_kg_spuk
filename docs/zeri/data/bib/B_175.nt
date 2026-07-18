@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_175> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
-<https://w3id.org/zeri/data/bib/B_175> <http://purl.org/dc/terms/bibliographicCitation> "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)., Roma 1910." .
 <https://w3id.org/zeri/data/bib/B_175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_175> <http://purl.org/dc/terms/title> "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)."@it .
+<https://w3id.org/zeri/data/bib/B_175> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
 <https://w3id.org/zeri/data/bib/B_175> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
 <https://w3id.org/zeri/data/bib/B_175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_175> <http://purl.org/dc/terms/title> "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)."@it .
+<https://w3id.org/zeri/data/bib/B_175> <http://purl.org/dc/terms/bibliographicCitation> "Catalogue de la vente des objets d’art ancien composant les collections Elie Volpi, catalogo della vendita all'asta Jandolo & Tavazzi (Roma 25 aprile-3 maggio 1910)., Roma 1910." .

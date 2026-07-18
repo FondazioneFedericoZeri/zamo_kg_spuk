@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_22> <http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence> <https://w3id.org/zeri/data/initiative/fa> .
+<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BR_I_1> .
+<https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/2000/01/rdf-schema#comment> "Nel 1968 Ivan Bruschi fondò la Fiera antiquaria, che da allora si svolge ogni mese ad Arezzo"@it .
+<https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Event> .
+<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/org/BR_I> .
 <https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence> .
 <https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione della Fiera Antiquaria"@it .
-<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BR_I_1> .
-<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/org/BR_I> .
-<https://w3id.org/zeri/data/event/E_22> <http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence> <https://w3id.org/zeri/data/initiative/fa> .
-<https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Event> .
-<https://w3id.org/zeri/data/event/E_22> <http://www.w3.org/2000/01/rdf-schema#comment> "Nel 1968 Ivan Bruschi fondò la Fiera antiquaria, che da allora si svolge ogni mese ad Arezzo"@it .
-<https://w3id.org/zeri/data/event/E_22> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .

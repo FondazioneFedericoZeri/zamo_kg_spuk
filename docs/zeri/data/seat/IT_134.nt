@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/seat/IT_134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_134> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_134> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_134> .
 <https://w3id.org/zeri/data/seat/IT_134> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_134> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1890"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_134> <https://schema.org/name> "Attilio Simonetti e figli, \"Galleria Simonetti\", dal 1925 \"Simonetti Aldo Giulio & C.\" (Palazzo Odescalchi)"@it .

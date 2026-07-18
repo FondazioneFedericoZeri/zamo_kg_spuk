@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/address/IT_1_d> <https://schema.org/addressRegion> "Veneto"@it .
-<https://w3id.org/zeri/data/address/IT_1_d> <https://schema.org/addressCountry> "Italia"@it .
 <https://w3id.org/zeri/data/address/IT_1_d> <https://schema.org/addressLocality> "Venezia"@it .
 <https://w3id.org/zeri/data/address/IT_1_d> <https://schema.org/streetAddress> "Campo de l'Abazia 3551"@it .
+<https://w3id.org/zeri/data/address/IT_1_d> <https://schema.org/addressCountry> "Italia"@it .
 <https://w3id.org/zeri/data/address/IT_1_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .

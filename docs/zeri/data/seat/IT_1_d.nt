@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_1_d> <https://schema.org/name> "Brass (Scuola Vecchia di S. Maria della Misericordia, atelier e sede)"@it .
-<https://w3id.org/zeri/data/seat/IT_1_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1974"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_1_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
 <https://w3id.org/zeri/data/seat/IT_1_d> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_1_d> .
 <https://w3id.org/zeri/data/seat/IT_1_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_1_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_1_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1974"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_1_d> <https://schema.org/name> "Brass (Scuola Vecchia di S. Maria della Misericordia, atelier e sede)"@it .

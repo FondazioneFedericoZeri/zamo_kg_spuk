@@ -1,8 +1,8 @@
 <https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/teodori-b-celani-j> .
+<https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/bibliographicCitation> "Teodori, B., Celani, J, 2017., 1916-1956-2016 : dall'asta al museo : Elia Volpi e Palazzo Davanzati nel collezionismo pubblico e privato del Novecento., Firenze, Polistampa." .
-<https://w3id.org/zeri/data/bib/B_126> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
+<https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/title> "1916-1956-2016 : dall'asta al museo : Elia Volpi e Palazzo Davanzati nel collezionismo pubblico e privato del Novecento."@it .
 <https://w3id.org/zeri/data/bib/B_126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/title> "1916-1956-2016 : dall'asta al museo : Elia Volpi e Palazzo Davanzati nel collezionismo pubblico e privato del Novecento."@it .
 <https://w3id.org/zeri/data/bib/B_126> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
-<https://w3id.org/zeri/data/bib/B_126> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_126> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .

@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/bib/B_215_4> <http://purl.org/dc/terms/title> "Mostra dei quarant'anni della Biennale: 1895-1935. Venezia, maggio-luglio 1935"@it .
-<https://w3id.org/zeri/data/bib/B_215_4> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .
-<https://w3id.org/zeri/data/bib/B_215_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_215_4> <http://purl.org/dc/terms/bibliographicCitation> "Mostra dei quarant'anni della Biennale: 1895-1935. Venezia, maggio-luglio 1935, Venezia, Tip. C. Ferrari" .
 <https://w3id.org/zeri/data/bib/B_215_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_215_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_215_4> <http://purl.org/dc/terms/title> "Mostra dei quarant'anni della Biennale: 1895-1935. Venezia, maggio-luglio 1935"@it .
+<https://w3id.org/zeri/data/bib/B_215_4> <http://purl.org/dc/terms/bibliographicCitation> "Mostra dei quarant'anni della Biennale: 1895-1935. Venezia, maggio-luglio 1935, Venezia, Tip. C. Ferrari" .
+<https://w3id.org/zeri/data/bib/B_215_4> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BR_III> .

@@ -1,6 +1,6 @@
+<https://w3id.org/zeri/data/bib/B_188> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_188> <http://purl.org/dc/terms/title> "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)."@it .
+<https://w3id.org/zeri/data/bib/B_188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_188> <http://purl.org/dc/terms/bibliographicCitation> "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)., New York 1924." .
 <https://w3id.org/zeri/data/bib/B_188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_188> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
-<https://w3id.org/zeri/data/bib/B_188> <http://purl.org/dc/terms/title> "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)."@it .
-<https://w3id.org/zeri/data/bib/B_188> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
-<https://w3id.org/zeri/data/bib/B_188> <http://purl.org/dc/terms/bibliographicCitation> "Illustrated catalogue of gothic and renaissance italian and frech art gathered by chevalier Raoul Tolentino, expert antiquarian of Rome, catalogo della vendita all'asta American Art Galleries (New York, 22-26 aprile 1924)., New York 1924." .
-<https://w3id.org/zeri/data/bib/B_188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .

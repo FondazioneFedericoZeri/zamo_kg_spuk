@@ -1,12 +1,12 @@
+<https://w3id.org/zeri/data/bib/B_115> <http://purl.org/dc/terms/bibliographicCitation> "Rasario, G, 2004., De Chirico pendant Bellini., In «Metafisica», 3-4,, pp. 271-298." .
+<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
+<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
 <https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_1> .
 <https://w3id.org/zeri/data/bib/B_115> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/rasario-g> .
+<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .
+<https://w3id.org/zeri/data/bib/B_115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
 <https://w3id.org/zeri/data/bib/B_115> <http://purl.org/dc/terms/title> "De Chirico pendant Bellini."@it .
+<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
 <https://w3id.org/zeri/data/bib/B_115> <http://purl.org/dc/terms/date> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_5> .
-<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_I> .
-<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_2> .
-<https://w3id.org/zeri/data/bib/B_115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_115> <http://purl.org/dc/terms/bibliographicCitation> "Rasario, G, 2004., De Chirico pendant Bellini., In «Metafisica», 3-4,, pp. 271-298." .
-<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_3> .
-<https://w3id.org/zeri/data/bib/B_115> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_I_4> .

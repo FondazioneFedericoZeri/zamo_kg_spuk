@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/guida-genovese> .
-<https://w3id.org/zeri/data/bib/B_60_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RU> .
 <https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/title> "Opera Pompei."@it .
-<https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/bibliographicCitation> "Guida Genovese, 1933., Opera Pompei., Genova, Istituto Derelitti." .
-<https://w3id.org/zeri/data/bib/B_60_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_60_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RU_1> .
 <https://w3id.org/zeri/data/bib/B_60_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/date> "1933"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/bibliographicCitation> "Guida Genovese, 1933., Opera Pompei., Genova, Istituto Derelitti." .
+<https://w3id.org/zeri/data/bib/B_60_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RU_1> .
+<https://w3id.org/zeri/data/bib/B_60_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RU> .
+<https://w3id.org/zeri/data/bib/B_60_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_60_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/guida-genovese> .

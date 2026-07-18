@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/addressCountry> "Italia"@it .
-<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/addressLocality> "Arezzo"@it .
-<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/streetAddress> "Corso Italia    14  BR_I 1967"@it .
-<https://w3id.org/zeri/data/address/IT_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
 <https://w3id.org/zeri/data/address/IT_30> <https://schema.org/addressRegion> "Toscana"@it .
+<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/streetAddress> "Corso Italia    14  BR_I 1967"@it .
+<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/addressLocality> "Arezzo"@it .
+<https://w3id.org/zeri/data/address/IT_30> <https://schema.org/addressCountry> "Italia"@it .
+<https://w3id.org/zeri/data/address/IT_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .

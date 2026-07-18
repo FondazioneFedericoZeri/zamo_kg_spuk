@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
-   xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:schema="https://schema.org/"
 >
-  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/Ba_II_3">
-    <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
-    <rdf:type rdf:resource="https://schema.org/Person"/>
-    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
-    <rdfs:seeAlso rdf:resource="https://catalogo.fondazionezeri.unibo.it/ricerca.v2.jsp?view=list&amp;batch=10&amp;sortby=LOCALIZZAZIONE&amp;page=3&amp;decorator=layout_resp&amp;apply=true&amp;percorso_ricerca=OA&amp;locale=it&amp;PVCS_PVCR_PVCP_PVCC_PVCL_LDCN_PRVS_PRVR_PRVP_PRVC_PRVL_PRCD=S.+Bardini"/>
-    <crm:P152_has_parent rdf:resource="https://w3id.org/zeri/data/person/Ba_II_1"/>
-    <schema:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1892</schema:birthDate>
-    <schema:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1965</schema:deathDate>
-    <schema:familyName xml:lang="it">Bardini</schema:familyName>
-    <schema:givenName xml:lang="it">Ugo</schema:givenName>
-    <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_37"/>
-    <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/Ba_II_3"/>
+  <rdf:Description rdf:about="https://w3id.org/zeri/data/person/BA_II_3">
+    <agents:isCollaboratorIn rdf:resource="https://w3id.org/zeri/data/collaboration/R_11"/>
   </rdf:Description>
 </rdf:RDF>

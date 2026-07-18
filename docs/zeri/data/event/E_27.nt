@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/event/E_27> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/cessation/BE_I> .
-<https://w3id.org/zeri/data/event/E_27> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione Museo Bellini"@it .
 <https://w3id.org/zeri/data/event/E_27> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/event/E_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E66_Formation> .
 <https://w3id.org/zeri/data/event/E_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Foundation> .
-<https://w3id.org/zeri/data/event/E_27> <https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization> <https://w3id.org/zeri/data/org/museo-bellini> .
+<https://w3id.org/zeri/data/event/E_27> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione Museo Bellini"@it .
 <https://w3id.org/zeri/data/event/E_27> <http://www.w3.org/2000/01/rdf-schema#comment> "Nel 2007 venne aperto a Firenze il Museo privato dedicato a Luigi Bellini"@it .
+<https://w3id.org/zeri/data/event/E_27> <https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization> <https://w3id.org/zeri/data/org/museo-bellini> .
+<https://w3id.org/zeri/data/event/E_27> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/cessation/BE_I> .

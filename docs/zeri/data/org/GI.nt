@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/org/GI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/GI_1> .
-<https://w3id.org/zeri/data/org/GI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
-<https://w3id.org/zeri/data/org/GI> <https://schema.org/name> "Galleria d’Arte"@it .
-<https://w3id.org/zeri/data/org/GI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_70> .
 <https://w3id.org/zeri/data/org/GI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_54> .
+<https://w3id.org/zeri/data/org/GI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/GI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_70> .
+<https://w3id.org/zeri/data/org/GI> <https://schema.org/name> "Galleria d’Arte"@it .

@@ -1,7 +1,7 @@
 <https://w3id.org/zeri/data/bib/B_21_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/date> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/calzini-r> .
-<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/bibliographicCitation> "Calzini, R, 1946, Milano fin de siècle, Milano, Hoepli, pp. 111-113" .
-<https://w3id.org/zeri/data/bib/B_21_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
-<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/title> "Milano fin de siècle"@it .
 <https://w3id.org/zeri/data/bib/B_21_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/calzini-r> .
+<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/title> "Milano fin de siècle"@it .
+<https://w3id.org/zeri/data/bib/B_21_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR_II> .
+<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/bibliographicCitation> "Calzini, R, 1946, Milano fin de siècle, Milano, Hoepli, pp. 111-113" .
+<https://w3id.org/zeri/data/bib/B_21_3> <http://purl.org/dc/terms/date> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .

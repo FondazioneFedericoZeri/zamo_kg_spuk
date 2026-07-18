@@ -2,9 +2,11 @@ import html, os
 from urllib.parse import urlparse
 
 
-GITHUB_DEPLOY = False
+GITHUB_DEPLOY = True
 REPO_NAME = "zamo_kg_spuk"
 
+def get_prefix():
+    return f"/{REPO_NAME}/" if GITHUB_DEPLOY else "/"
 
 def get_uri_label(uri: str) -> str:
     """Extracts the last fragment or path segment of a URI."""

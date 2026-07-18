@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/bibliographicCitation> "Cappellini, P, 2023., Bardini and Beyond: Wilhelm Bode and the art dealers in Florence., In Smalcerz,, pp. 125-148." .
-<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/title> "Bardini and Beyond: Wilhelm Bode and the art dealers in Florence."@it .
-<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_23> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_III> .
-<https://w3id.org/zeri/data/bib/B_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_23> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_1> .
+<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/bibliographicCitation> "Cappellini, P, 2023., Bardini and Beyond: Wilhelm Bode and the art dealers in Florence., In Smalcerz,, pp. 125-148." .
+<https://w3id.org/zeri/data/bib/B_23> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_2> .
 <https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/cappellini-p> .
 <https://w3id.org/zeri/data/bib/B_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_23> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_2> .
+<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_23> <http://purl.org/dc/terms/title> "Bardini and Beyond: Wilhelm Bode and the art dealers in Florence."@it .

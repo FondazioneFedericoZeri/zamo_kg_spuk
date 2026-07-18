@@ -1,8 +1,8 @@
 <https://w3id.org/zeri/data/event/E_14_0> <http://www.w3.org/2000/01/rdf-schema#label> "Donazione della collezione di Stefano Bardini"@it .
-<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/BA_II_1> .
 <https://w3id.org/zeri/data/event/E_14_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> .
+<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_14_0> <http://www.w3.org/2000/01/rdf-schema#comment> "L'antiquario Stefano Bardini, morto nel 1922, donò la sua collezione e il palazzo di sua proprietà al comune di Firenze, che decise tre anni dopo di aprire un museo a lui dedicato."@it .
+<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_14_0> .
 <https://w3id.org/zeri/data/event/E_14_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Gift> .
 <https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/BA_II> .
-<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/BA_II_1> .
-<https://w3id.org/zeri/data/event/E_14_0> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_14_0> .
-<https://w3id.org/zeri/data/event/E_14_0> <http://www.w3.org/2000/01/rdf-schema#comment> "L'antiquario Stefano Bardini, morto nel 1922, donò la sua collezione e il palazzo di sua proprietà al comune di Firenze, che decise tre anni dopo di aprire un museo a lui dedicato."@it .

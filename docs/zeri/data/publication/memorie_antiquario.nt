@@ -1,4 +1,4 @@
-<https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing> .
-<https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/2000/01/rdf-schema#label> "Memorie di un antiquario"@it .
 <https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E71_Human-Made_Thing> .
+<https://w3id.org/zeri/data/publication/memorie_antiquario> <http://www.w3.org/2000/01/rdf-schema#label> "Memorie di un antiquario"@it .

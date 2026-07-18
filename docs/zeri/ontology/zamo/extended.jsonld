@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/zeri/ontology/zamo/extended#isGrandParentOf",
+    "@id": "https://w3id.org/zeri/ontology/zamo/extended#isUncleOrAuntOf",
     "@type": [
       "http://www.w3.org/2002/07/owl#ObjectProperty"
     ],

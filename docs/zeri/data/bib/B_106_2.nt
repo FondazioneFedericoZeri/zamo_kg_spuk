@@ -1,7 +1,7 @@
 <https://w3id.org/zeri/data/bib/B_106_2> <http://purl.org/dc/terms/title> "Gli scambi di opere d’arte nella politica del Ventennio. I Busti Vanchetoni per la Pietà di Palestrina e il caso Ventura-Goering"@it .
 <https://w3id.org/zeri/data/bib/B_106_2> <http://purl.org/dc/terms/date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_106_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_106_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VE> .
 <https://w3id.org/zeri/data/bib/B_106_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_106_2> <http://purl.org/dc/terms/bibliographicCitation> "Pellegrini, E, 2014, Gli scambi di opere d’arte nella politica del Ventennio. I Busti Vanchetoni per la Pietà di Palestrina e il caso Ventura-Goering, in Cipriani Curzi Picardi, pp. 245-251" .
-<https://w3id.org/zeri/data/bib/B_106_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_106_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/pellegrini-e> .

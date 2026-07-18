@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/client/CL_32> <https://schema.org/familyName> "Freud"@it .
-<https://w3id.org/zeri/data/client/CL_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://w3id.org/zeri/data/client/CL_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Person> .
 <https://w3id.org/zeri/data/client/CL_32> <https://schema.org/givenName> "Sigmund"@it .
+<https://w3id.org/zeri/data/client/CL_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://w3id.org/zeri/data/client/CL_32> <https://schema.org/familyName> "Freud"@it .
 <https://w3id.org/zeri/data/client/CL_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person> .

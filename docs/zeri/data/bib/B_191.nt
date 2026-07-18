@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_2> .
-<https://w3id.org/zeri/data/bib/B_191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_4> .
+<https://w3id.org/zeri/data/bib/B_191> <http://purl.org/dc/terms/title> "Italian Count marries American society woman."@it .
 <https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_1> .
 <https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_3> .
-<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR> .
-<https://w3id.org/zeri/data/bib/B_191> <http://purl.org/dc/terms/title> "Italian Count marries American society woman."@it .
+<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_4> .
 <https://w3id.org/zeri/data/bib/B_191> <http://purl.org/dc/terms/bibliographicCitation> "Italian Count marries American society woman., In «The New York Herald», 20 settembre 1922,, p. 1." .
+<https://w3id.org/zeri/data/bib/B_191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GR_2> .
+<https://w3id.org/zeri/data/bib/B_191> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GR> .

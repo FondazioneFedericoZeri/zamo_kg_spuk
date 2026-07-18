@@ -1,4 +1,4 @@
-<https://w3id.org/zeri/data/transaction/CV_60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Transaction> .
 <https://w3id.org/zeri/data/transaction/CV_60> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/VO_I_1> .
-<https://w3id.org/zeri/data/transaction/CV_60> <https://w3id.org/zeri/ontology/zamo/events#hasReceiver> <https://w3id.org/zeri/data/client/CL_54> .
 <https://w3id.org/zeri/data/transaction/CV_60> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/VO_I> .
+<https://w3id.org/zeri/data/transaction/CV_60> <https://w3id.org/zeri/ontology/zamo/events#hasReceiver> <https://w3id.org/zeri/data/client/CL_54> .
+<https://w3id.org/zeri/data/transaction/CV_60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Transaction> .

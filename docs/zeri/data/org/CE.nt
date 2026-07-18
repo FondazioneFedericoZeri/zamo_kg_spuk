@@ -1,3 +1,3 @@
 <https://w3id.org/zeri/data/org/CE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
-<https://w3id.org/zeri/data/org/CE> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_51> .
 <https://w3id.org/zeri/data/org/CE> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_22_b> .
+<https://w3id.org/zeri/data/org/CE> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_51> .
