@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_182> <http://purl.org/dc/terms/title> "Commemorazione di Vincenzo Ciampolini."@it .
+<https://w3id.org/zeri/data/bib/B_182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_182> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CI_1> .
 <https://w3id.org/zeri/data/bib/B_182> <http://purl.org/dc/terms/bibliographicCitation> "Commemorazione di Vincenzo Ciampolini., In «L'Antiquario», XVIII-XXV, 1, 1932,, p. 46." .
-<https://w3id.org/zeri/data/bib/B_182> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
-<https://w3id.org/zeri/data/bib/B_182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_182> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
+<https://w3id.org/zeri/data/bib/B_182> <http://purl.org/dc/terms/title> "Commemorazione di Vincenzo Ciampolini."@it .

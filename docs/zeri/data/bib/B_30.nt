@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_30> <http://purl.org/dc/terms/bibliographicCitation> "Coen P, 2020., Il dibattito arte-industria, fra aspirazioni museologiche e casi concreti., In Coen,, pp. 51-94." .
 <https://w3id.org/zeri/data/bib/B_30> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_30> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_II> .
+<https://w3id.org/zeri/data/bib/B_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_30> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/coen-p> .
 <https://w3id.org/zeri/data/bib/B_30> <http://purl.org/dc/terms/title> "Il dibattito arte-industria, fra aspirazioni museologiche e casi concreti."@it .
-<https://w3id.org/zeri/data/bib/B_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_30> <http://purl.org/dc/terms/bibliographicCitation> "Coen P, 2020., Il dibattito arte-industria, fra aspirazioni museologiche e casi concreti., In Coen,, pp. 51-94." .
-<https://w3id.org/zeri/data/bib/B_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_30> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_II_1> .
+<https://w3id.org/zeri/data/bib/B_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_30> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_II> .

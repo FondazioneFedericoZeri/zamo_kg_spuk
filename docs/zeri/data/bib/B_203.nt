@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_203> <http://purl.org/dc/terms/bibliographicCitation> "Roman antiquarian killed by autobus., In «The Paris Time», 5 p.m. Ed., 2 agosto 1928,, p. 1." .
+<https://w3id.org/zeri/data/bib/B_203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_203> <http://purl.org/dc/terms/title> "Roman antiquarian killed by autobus."@it .
 <https://w3id.org/zeri/data/bib/B_203> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
 <https://w3id.org/zeri/data/bib/B_203> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
-<https://w3id.org/zeri/data/bib/B_203> <http://purl.org/dc/terms/title> "Roman antiquarian killed by autobus."@it .
 <https://w3id.org/zeri/data/bib/B_203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

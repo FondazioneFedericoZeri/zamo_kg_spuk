@@ -1,4 +1,4 @@
-<https://w3id.org/zeri/data/seat/IT_135_d> <https://schema.org/name> "Palazzo Simonetti"@it .
-<https://w3id.org/zeri/data/seat/IT_135_d> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_135_d> .
 <https://w3id.org/zeri/data/seat/IT_135_d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_135_d> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_135_d> .
 <https://w3id.org/zeri/data/seat/IT_135_d> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1915"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_135_d> <https://schema.org/name> "Palazzo Simonetti"@it .

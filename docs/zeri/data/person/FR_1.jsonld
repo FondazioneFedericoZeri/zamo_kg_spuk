@@ -48,7 +48,7 @@
         "@id": "https://w3id.org/zeri/data/main-collaboration/FR_1"
       }
     ],
-    "https://w3id.org/zeri/ontology/zamo/extended#isInLawOf": [
+    "https://w3id.org/zeri/ontology/zamo/extended#isChildInLaw": [
       {
         "@id": "https://w3id.org/zeri/data/person/SA_I_1"
       }

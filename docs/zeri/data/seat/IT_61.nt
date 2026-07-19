@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_61> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_61> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_61> <https://schema.org/name> "Riccardo Bacarelli (Palazzo della Manifattura Arte della Seta)"@it .
 <https://w3id.org/zeri/data/seat/IT_61> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_61> .
-<https://w3id.org/zeri/data/seat/IT_61> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_61> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .

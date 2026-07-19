@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/FR_5> .
-<https://w3id.org/zeri/data/seat/FR_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/FR_5> <https://schema.org/name> "Ercole Canessa, \"Ercole Canessa\""@it .
+<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/FR_5> .
+<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/FR_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/FR_5> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .

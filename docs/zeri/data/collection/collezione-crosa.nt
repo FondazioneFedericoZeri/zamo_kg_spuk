@@ -1,2 +1,2 @@
-<https://w3id.org/zeri/data/collection/collezione-crosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#CuratedHolding> .
 <https://w3id.org/zeri/data/collection/collezione-crosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E78_Curated_Holding> .
+<https://w3id.org/zeri/data/collection/collezione-crosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#CuratedHolding> .

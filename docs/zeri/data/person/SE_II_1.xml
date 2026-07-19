@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:extended="https://w3id.org/zeri/ontology/zamo/extended#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:schema="https://schema.org/"
-   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
 >
   <rdf:Description rdf:about="https://w3id.org/zeri/data/person/SE_II_1">
     <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
@@ -16,7 +16,7 @@
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_119"/>
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_112"/>
     <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/SE_II_1"/>
-    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/SE_II_6"/>
-    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/SE_II_5"/>
+    <extended:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/SE_II_6"/>
+    <extended:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/SE_II_5"/>
   </rdf:Description>
 </rdf:RDF>

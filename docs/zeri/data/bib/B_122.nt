@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/sanvitale-f> .
-<https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/bibliographicCitation> "Sanvitale, F, 2002., La romanza italiana da salotto., Torino, EDT." .
+<https://w3id.org/zeri/data/bib/B_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/title> "La romanza italiana da salotto."@it .
+<https://w3id.org/zeri/data/bib/B_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_122> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BE_II_1> .
-<https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/date> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_122> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BE_II> .
+<https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/bibliographicCitation> "Sanvitale, F, 2002., La romanza italiana da salotto., Torino, EDT." .
+<https://w3id.org/zeri/data/bib/B_122> <http://purl.org/dc/terms/date> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .

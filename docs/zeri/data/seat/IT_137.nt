@@ -1,5 +1,5 @@
+<https://w3id.org/zeri/data/seat/IT_137> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_137> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1902"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_137> <https://schema.org/name> "Salvatore Romano"@it .
 <https://w3id.org/zeri/data/seat/IT_137> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_137> .
-<https://w3id.org/zeri/data/seat/IT_137> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1902"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_137> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .

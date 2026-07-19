@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/title> "The antiquarian Carlo Alberto Foresti of Carpi, a correspondent of Bernard Berenson: unknown documents for the history of a dispersed collection"@it .
-<https://w3id.org/zeri/data/bib/B_68_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FO> .
-<https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/bibliographicCitation> "Landi, E, 2014, The antiquarian Carlo Alberto Foresti of Carpi, a correspondent of Bernard Berenson: unknown documents for the history of a dispersed collection, in Connors, Waldman, pp. 309-330" .
-<https://w3id.org/zeri/data/bib/B_68_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_68_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FO> .
 <https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/landi-e> .
 <https://w3id.org/zeri/data/bib/B_68_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_68_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/title> "The antiquarian Carlo Alberto Foresti of Carpi, a correspondent of Bernard Berenson: unknown documents for the history of a dispersed collection"@it .
+<https://w3id.org/zeri/data/bib/B_68_1> <http://purl.org/dc/terms/date> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .

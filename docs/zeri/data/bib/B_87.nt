@@ -1,12 +1,12 @@
+<https://w3id.org/zeri/data/bib/B_87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_6> .
+<https://w3id.org/zeri/data/bib/B_87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_87> <http://purl.org/dc/terms/bibliographicCitation> "Martini Stelio, M, 1966., Antiquari a Roma., In «Capitolivm», XLI,, pp. 224-235." .
-<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_1> .
-<https://w3id.org/zeri/data/bib/B_87> <http://purl.org/dc/terms/title> "Antiquari a Roma."@it .
 <https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_3> .
 <https://w3id.org/zeri/data/bib/B_87> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/martini-stelio-m> .
-<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_2> .
-<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_6> .
-<https://w3id.org/zeri/data/bib/B_87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SE_II> .
-<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_5> .
-<https://w3id.org/zeri/data/bib/B_87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_1> .
 <https://w3id.org/zeri/data/bib/B_87> <http://purl.org/dc/terms/date> "1966"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_87> <http://purl.org/dc/terms/title> "Antiquari a Roma."@it .
+<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SE_II> .
+<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_2> .
+<https://w3id.org/zeri/data/bib/B_87> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SE_II_5> .

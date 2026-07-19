@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E96_Purchase> .
+<https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/DE> .
+<https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_16> .
 <https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/DE_1> .
+<https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Purchase> .
 <https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1931"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/2000/01/rdf-schema#comment> "Nel 1931, presso la casa d'aste \"American Art Association\" di New York, venne venduta parte della collezione di Achille De Clemente."@it .
-<https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Purchase> .
 <https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/2000/01/rdf-schema#label> "Vendita all'asta - collezione Achille De Clemente"@it .
-<https://w3id.org/zeri/data/event/E_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E96_Purchase> .
-<https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_16> .
-<https://w3id.org/zeri/data/event/E_16> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/DE> .

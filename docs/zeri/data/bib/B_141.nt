@@ -1,15 +1,15 @@
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_4> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_2> .
 <https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PO_I> .
-<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/title> "I colleghi d'Italia: Bolognesi."@it .
 <https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/RA> .
-<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RA_1> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_1> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GA> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_3> .
-<https://w3id.org/zeri/data/bib/B_141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GA_1> .
-<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1913., I colleghi d'Italia: Bolognesi., In «L'Antiquario», VI, 2-3,, pp. 9-12." .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/RA_1> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GA> .
+<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/date> "1913"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_1> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_3> .
+<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
+<https://w3id.org/zeri/data/bib/B_141> <http://purl.org/dc/terms/title> "I colleghi d'Italia: Bolognesi."@it .
+<https://w3id.org/zeri/data/bib/B_141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_4> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/GA_1> .
+<https://w3id.org/zeri/data/bib/B_141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_141> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_I_2> .

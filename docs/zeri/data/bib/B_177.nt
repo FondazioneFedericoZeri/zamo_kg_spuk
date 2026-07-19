@@ -1,6 +1,6 @@
 <https://w3id.org/zeri/data/bib/B_177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_177> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
-<https://w3id.org/zeri/data/bib/B_177> <http://purl.org/dc/terms/title> "Coming italian art sale."@it .
-<https://w3id.org/zeri/data/bib/B_177> <http://purl.org/dc/terms/bibliographicCitation> "Coming italian art sale., In «American Art News», 12 luglio 1919, 17, n. 36,, p. 5." .
-<https://w3id.org/zeri/data/bib/B_177> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
 <https://w3id.org/zeri/data/bib/B_177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_177> <http://purl.org/dc/terms/title> "Coming italian art sale."@it .
+<https://w3id.org/zeri/data/bib/B_177> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_177> <http://purl.org/dc/terms/bibliographicCitation> "Coming italian art sale., In «American Art News», 12 luglio 1919, 17, n. 36,, p. 5." .

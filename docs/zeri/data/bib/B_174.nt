@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_174> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FE> .
-<https://w3id.org/zeri/data/bib/B_174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
-<https://w3id.org/zeri/data/bib/B_174> <http://purl.org/dc/terms/title> "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)."@it .
 <https://w3id.org/zeri/data/bib/B_174> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/FE_1> .
+<https://w3id.org/zeri/data/bib/B_174> <http://purl.org/dc/terms/title> "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)."@it .
+<https://w3id.org/zeri/data/bib/B_174> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FE> .
 <https://w3id.org/zeri/data/bib/B_174> <http://purl.org/dc/terms/bibliographicCitation> "Catalogue de la vente après décès de mr Joachim Ferroni : se composant de tableaux des maîtres italiens et étrangers, catalogo della vendita all'asta  Jandolo & Tavazzi (Roma, 14-22 aprile 1909)., Roma 1909." .
 <https://w3id.org/zeri/data/bib/B_174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .

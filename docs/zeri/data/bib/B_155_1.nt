@@ -1,7 +1,7 @@
+<https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/date> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_155_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/title> "Una sala Alitalia ad Assisi nel sacro Convento. Le 57 opere più belle della collezione Mason Perkins"@it .
 <https://w3id.org/zeri/data/bib/B_155_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_155_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/FO> .
 <https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/zeri-f> .
-<https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/date> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/bibliographicCitation> "Zeri, F, 1986, Una sala Alitalia ad Assisi nel sacro Convento. Le 57 opere più belle della collezione Mason Perkins, in «Il Giornale dell'Arte», numero 37, p. 16" .
-<https://w3id.org/zeri/data/bib/B_155_1> <http://purl.org/dc/terms/title> "Una sala Alitalia ad Assisi nel sacro Convento. Le 57 opere più belle della collezione Mason Perkins"@it .
-<https://w3id.org/zeri/data/bib/B_155_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .

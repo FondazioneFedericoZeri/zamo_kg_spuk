@@ -33,7 +33,7 @@
         "@id": "https://w3id.org/zeri/data/main-collaboration/BR_II_3"
       }
     ],
-    "https://w3id.org/zeri/ontology/zamo/extended#isInLawOf": [
+    "https://w3id.org/zeri/ontology/zamo/extended#isChildInLaw": [
       {
         "@id": "https://w3id.org/zeri/data/person/BR_II_2"
       },

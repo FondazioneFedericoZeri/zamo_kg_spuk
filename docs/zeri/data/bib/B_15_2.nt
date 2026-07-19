@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bianchin-r> .
-<https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/title> "Asta Ca’ Sagredo 1987."@it .
-<https://w3id.org/zeri/data/bib/B_15_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_15_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
 <https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/bibliographicCitation> "Bianchin R, 1987., Asta Ca’ Sagredo 1987., La Repubblica 29 novembre 1987." .
-<https://w3id.org/zeri/data/bib/B_15_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PO_II> .
 <https://w3id.org/zeri/data/bib/B_15_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PO_II_1> .
+<https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/title> "Asta Ca’ Sagredo 1987."@it .
+<https://w3id.org/zeri/data/bib/B_15_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PO_II> .
+<https://w3id.org/zeri/data/bib/B_15_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/date> "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_15_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_15_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bianchin-r> .

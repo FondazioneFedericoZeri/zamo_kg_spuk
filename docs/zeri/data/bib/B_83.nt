@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_83> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_83> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/mannini-l> .
 <https://w3id.org/zeri/data/bib/B_83> <http://purl.org/dc/terms/bibliographicCitation> "Mannini, L, 2011., Alessandro e Vittoria Contini Bonacossi, antiquari e collezionisti a Villa Vittoria., In Mannini,, pp. 237-244." .
-<https://w3id.org/zeri/data/bib/B_83> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_83> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_I> .
-<https://w3id.org/zeri/data/bib/B_83> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
-<https://w3id.org/zeri/data/bib/B_83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_83> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_I_1> .
 <https://w3id.org/zeri/data/bib/B_83> <http://purl.org/dc/terms/title> "Alessandro e Vittoria Contini Bonacossi, antiquari e collezionisti a Villa Vittoria."@it .
+<https://w3id.org/zeri/data/bib/B_83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .

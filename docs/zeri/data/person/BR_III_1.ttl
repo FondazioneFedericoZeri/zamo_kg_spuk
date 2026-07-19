@@ -1,4 +1,4 @@
-@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
+@prefix extended: <https://w3id.org/zeri/ontology/zamo/extended#> .
 
-<https://w3id.org/zeri/data/person/BR_III_1> zamo_ext:isGrandParentOf <https://w3id.org/zeri/data/person/BR_III_3> .
+<https://w3id.org/zeri/data/person/BR_III_1> extended:isGrandParentOf <https://w3id.org/zeri/data/person/BR_III_3> .
 

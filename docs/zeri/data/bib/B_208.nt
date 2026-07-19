@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_208> <http://purl.org/dc/terms/title> "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)."@it .
-<https://w3id.org/zeri/data/bib/B_208> <http://purl.org/dc/terms/bibliographicCitation> "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)., New York 1924." .
-<https://w3id.org/zeri/data/bib/B_208> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PA_II> .
-<https://w3id.org/zeri/data/bib/B_208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
 <https://w3id.org/zeri/data/bib/B_208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_208> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PA_II_1> .
+<https://w3id.org/zeri/data/bib/B_208> <http://purl.org/dc/terms/title> "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)."@it .
+<https://w3id.org/zeri/data/bib/B_208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_208> <http://purl.org/dc/terms/bibliographicCitation> "The collection of Professor Paolo Paolini,  distinguished paintings & sculptures by celebrated italian masters X-XVI Century, catalogo della vendita all'asta American Art Association (New York, 10-11 febbraio 1924)., New York 1924." .
+<https://w3id.org/zeri/data/bib/B_208> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PA_II> .

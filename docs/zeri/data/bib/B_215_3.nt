@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/bib/B_215_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_VI> .
+<https://w3id.org/zeri/data/bib/B_215_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_215_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_215_3> <http://purl.org/dc/terms/bibliographicCitation> "La Madonna del Giambellino rubata e recuperata a Venezia, in «L'Antiquario», II, 1909, 1, pp. 6-8" .
 <https://w3id.org/zeri/data/bib/B_215_3> <http://purl.org/dc/terms/title> "La Madonna del Giambellino rubata e recuperata a Venezia"@it .
-<https://w3id.org/zeri/data/bib/B_215_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_215_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_215_3> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_VI> .

@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_30> .
 <https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_4> .
-<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_3> .
 <https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_1> .
 <https://w3id.org/zeri/data/org/JA-TA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_3> .
 <https://w3id.org/zeri/data/org/JA-TA> <https://schema.org/name> "Casa di vendite Jandolo&Tavazzi"@it .
-<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_30> .
-<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_25> .
 <https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/JA-TA_2> .
+<https://w3id.org/zeri/data/org/JA-TA> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_25> .

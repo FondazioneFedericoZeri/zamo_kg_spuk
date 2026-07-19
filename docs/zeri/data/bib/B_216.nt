@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_216> <http://purl.org/dc/terms/bibliographicCitation> "15/2/2023, Intervista a Riccardo Bacarelli., Firenze" .
 <https://w3id.org/zeri/data/bib/B_216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/PersonalCommunicationDocument> .
-<https://w3id.org/zeri/data/bib/B_216> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_I> .
 <https://w3id.org/zeri/data/bib/B_216> <http://purl.org/dc/terms/title> "Intervista a Riccardo Bacarelli."@it .
-<https://w3id.org/zeri/data/bib/B_216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Object> .
 <https://w3id.org/zeri/data/bib/B_216> <http://purl.org/dc/terms/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Object> .
+<https://w3id.org/zeri/data/bib/B_216> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_I> .
+<https://w3id.org/zeri/data/bib/B_216> <http://purl.org/dc/terms/bibliographicCitation> "15/2/2023, Intervista a Riccardo Bacarelli., Firenze" .

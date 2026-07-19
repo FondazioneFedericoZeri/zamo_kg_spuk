@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_4_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_4_c> <https://schema.org/name> "Alfredo Geri, Aldo Geri, \"Casa di vendite Arte Antica e Moderna\" (Palazzo Sormani, sede e abitazione privata)"@it .
-<https://w3id.org/zeri/data/seat/IT_4_c> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_4_c> .
 <https://w3id.org/zeri/data/seat/IT_4_c> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_4_c> <https://schema.org/name> "Alfredo Geri, Aldo Geri, \"Casa di vendite Arte Antica e Moderna\" (Palazzo Sormani, sede e abitazione privata)"@it .
 <https://w3id.org/zeri/data/seat/IT_4_c> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_4_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_4_c> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_4_c> .

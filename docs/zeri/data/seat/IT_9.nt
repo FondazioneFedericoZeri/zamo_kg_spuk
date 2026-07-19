@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_9> .
-<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_9> <https://schema.org/name> "Pietro Accorsi,\"Galleria Accorsi\""@it .
+<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_9> .
+<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1912"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_9> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .

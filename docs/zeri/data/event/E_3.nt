@@ -1,10 +1,10 @@
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_1> .
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_2> .
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_3> .
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_3> .
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/CA_I> .
-<https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/2000/01/rdf-schema#label> "Vendita all'asta \"Argenti Cacace\""@it .
-<https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/2000/01/rdf-schema#comment> "Tra le celebri vendite attribuite agli antiquari Canessa, vi è quella degli \"Argenti Cacace\", rinvenuti a Taranto nel 1896."@it .
 <https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Purchase> .
-<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/org/CA_I> .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_1> .
+<https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/2000/01/rdf-schema#label> "Vendita all'asta \"Argenti Cacace\""@it .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_2> .
+<https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/2000/01/rdf-schema#comment> "Tra le celebri vendite attribuite agli antiquari Canessa, vi è quella degli \"Argenti Cacace\", rinvenuti a Taranto nel 1896."@it .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasSurrender> <https://w3id.org/zeri/data/person/CA_I_3> .
 <https://w3id.org/zeri/data/event/E_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E96_Purchase> .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#transfersPropertyOf> <https://w3id.org/zeri/data/lot/E_3> .
+<https://w3id.org/zeri/data/event/E_3> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> .

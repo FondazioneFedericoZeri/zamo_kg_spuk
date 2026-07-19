@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/event/E_23> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E66_Formation> .
+<https://w3id.org/zeri/data/event/E_23> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/C_44> .
+<https://w3id.org/zeri/data/event/E_23> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/cessation/AC> .
 <https://w3id.org/zeri/data/event/E_23> <http://www.w3.org/2000/01/rdf-schema#comment> "Negli spazi della \"Galleria Accorsi\" di via Po' venne istitutita nel 1975 la Fondazione Accorsi-Ometto, oggi sede del museo di Arti Decorative, che accoglie, oltre alla collezione Accorsi, anche parte degli oggetti raccolti da un suo collaboratore, Giulio Ometto (1942-2019)."@it .
 <https://w3id.org/zeri/data/event/E_23> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione Fondazione Accorsi-Ometto"@it .
 <https://w3id.org/zeri/data/event/E_23> <https://w3id.org/zeri/ontology/zamo/agents#hasFoundedOrganization> <https://w3id.org/zeri/data/org/fondazione-accorsi-ometto> .
-<https://w3id.org/zeri/data/event/E_23> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/C_44> .
-<https://w3id.org/zeri/data/event/E_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E66_Formation> .
 <https://w3id.org/zeri/data/event/E_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Foundation> .
-<https://w3id.org/zeri/data/event/E_23> <http://www.cidoc-crm.org/cidoc-crm/P15_was_influenced_by> <https://w3id.org/zeri/data/cessation/AC> .
+<https://w3id.org/zeri/data/event/E_23> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .

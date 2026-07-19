@@ -1,8 +1,8 @@
 @prefix agents: <https://w3id.org/zeri/ontology/zamo/agents#> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix extended: <https://w3id.org/zeri/ontology/zamo/extended#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix zamo_ext: <https://w3id.org/zeri/ontology/zamo/extended#> .
 
 <https://w3id.org/zeri/data/person/JA_4> a crm:E21_Person,
         schema:Person,
@@ -15,7 +15,7 @@
         <https://w3id.org/zeri/data/location/IT_109>,
         <https://w3id.org/zeri/data/location/IT_115> ;
     agents:providesServiceIn <https://w3id.org/zeri/data/main-collaboration/JA_4> ;
-    zamo_ext:isUncleOrAuntOf <https://w3id.org/zeri/data/person/JA_5>,
+    extended:isUncleOrAuntOf <https://w3id.org/zeri/data/person/JA_5>,
         <https://w3id.org/zeri/data/person/JA_6>,
         <https://w3id.org/zeri/data/person/JA_7> .
 

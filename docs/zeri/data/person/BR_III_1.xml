@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
+   xmlns:extended="https://w3id.org/zeri/ontology/zamo/extended#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
 >
   <rdf:Description rdf:about="https://w3id.org/zeri/data/person/BR_III_1">
-    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/BR_III_3"/>
+    <extended:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/BR_III_3"/>
   </rdf:Description>
 </rdf:RDF>

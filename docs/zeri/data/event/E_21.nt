@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BE_I_3> .
-<https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence> .
-<https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/2000/01/rdf-schema#comment> "La famiglia di antiquari Bellini ideò la Mostra Nazionale di Antiquariato, che nel 1959 divenne la Biennale Internazionale di Antiquariato."@it .
-<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/org/BE_I> .
 <https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1959"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/2000/01/rdf-schema#comment> "La famiglia di antiquari Bellini ideò la Mostra Nazionale di Antiquariato, che nel 1959 divenne la Biennale Internazionale di Antiquariato."@it .
 <https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/2000/01/rdf-schema#label> "Inaugurazione della Biennale Internazionale di Antiquariato"@it .
-<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BE_I_4> .
+<https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence> .
+<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BE_I_3> .
 <https://w3id.org/zeri/data/event/E_21> <http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence> <https://w3id.org/zeri/data/initiative/biaf> .
+<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/person/BE_I_4> .
+<https://w3id.org/zeri/data/event/E_21> <https://w3id.org/zeri/ontology/zamo/events#hasParticipant> <https://w3id.org/zeri/data/org/BE_I> .
 <https://w3id.org/zeri/data/event/E_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Event> .

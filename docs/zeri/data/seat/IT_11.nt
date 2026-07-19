@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_11> .
-<https://w3id.org/zeri/data/seat/IT_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
 <https://w3id.org/zeri/data/seat/IT_11> <https://schema.org/name> "Piero Pagano, \"Casa d'Aste Rubinacci\""@it .
+<https://w3id.org/zeri/data/seat/IT_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_11> .
+<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_11> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .

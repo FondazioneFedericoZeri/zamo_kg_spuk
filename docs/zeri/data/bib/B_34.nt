@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/colombi-m> .
-<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/bibliographicCitation> "Colombi, M, 2021., «Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)., In «Acme», vol. 74, 2,, pp. 95-121." .
 <https://w3id.org/zeri/data/bib/B_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/title> "«Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)."@it .
+<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_34> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/BA_IV> .
+<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/title> "«Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)."@it .
+<https://w3id.org/zeri/data/bib/B_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/bibliographicCitation> "Colombi, M, 2021., «Une des figures les plus originales de Milan»: l'antiquario Giuseppe Baslini (1817-1887)., In «Acme», vol. 74, 2,, pp. 95-121." .
 <https://w3id.org/zeri/data/bib/B_34> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/BA_IV> .
+<https://w3id.org/zeri/data/bib/B_34> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/colombi-m> .

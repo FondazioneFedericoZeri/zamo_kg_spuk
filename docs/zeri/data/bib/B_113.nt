@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_113> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PA_II> .
-<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/title> "Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market."@it .
-<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/bibliographicCitation> "Provo, A, 2017., Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market., In Catterson,, pp. 269-190." .
 <https://w3id.org/zeri/data/bib/B_113> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/PA_II_1> .
+<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/bibliographicCitation> "Provo, A, 2017., Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market., In Catterson,, pp. 269-190." .
+<https://w3id.org/zeri/data/bib/B_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/title> "Surrogates and Intermediaries: The Informational Role of Photographs in the Art Market."@it .
+<https://w3id.org/zeri/data/bib/B_113> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/PA_II> .
+<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/provo-a> .
 <https://w3id.org/zeri/data/bib/B_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_113> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/provo-a> .

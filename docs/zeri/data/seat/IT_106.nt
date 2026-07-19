@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/seat/IT_106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
-<https://w3id.org/zeri/data/seat/IT_106> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_106> <http://www.w3.org/2000/01/rdf-schema#comment> "data di apertura/chiusura incerta"@it .
-<https://w3id.org/zeri/data/seat/IT_106> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_106> .
 <https://w3id.org/zeri/data/seat/IT_106> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_106> <https://schema.org/name> "Augusto e Salvatore Jandolo, Filippo e Guido Tavazzi, \"Casa di Vendita Jandolo & Tavazzi\""@it .
+<https://w3id.org/zeri/data/seat/IT_106> <http://www.w3.org/2000/01/rdf-schema#comment> "data di apertura/chiusura incerta"@it .
+<https://w3id.org/zeri/data/seat/IT_106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_106> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1907"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_106> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_106> .

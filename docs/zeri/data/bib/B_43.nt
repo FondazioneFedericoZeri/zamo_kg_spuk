@@ -1,10 +1,10 @@
-<https://w3id.org/zeri/data/bib/B_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/title> "Canessa, una famiglia di antiquari."@it .
-<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_I_3> .
-<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/d-orazi-l> .
-<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_I> .
-<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/bibliographicCitation> "D'Orazi, L, 2018., Canessa, una famiglia di antiquari., Cassino, Associazione Culturale Italia Numismatica." .
-<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_I_2> .
 <https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_I_1> .
+<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_I> .
+<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/d-orazi-l> .
+<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/title> "Canessa, una famiglia di antiquari."@it .
+<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_I_2> .
+<https://w3id.org/zeri/data/bib/B_43> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CA_I_3> .
+<https://w3id.org/zeri/data/bib/B_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_43> <http://purl.org/dc/terms/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .

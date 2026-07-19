@@ -1,5 +1,5 @@
 <https://w3id.org/zeri/data/address/IT_9> <https://schema.org/addressRegion> "Piemonte"@it .
-<https://w3id.org/zeri/data/address/IT_9> <https://schema.org/addressCountry> "Italia"@it .
 <https://w3id.org/zeri/data/address/IT_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/PostalAddress> .
 <https://w3id.org/zeri/data/address/IT_9> <https://schema.org/streetAddress> "Via Po 55"@it .
 <https://w3id.org/zeri/data/address/IT_9> <https://schema.org/addressLocality> "Torino"@it .
+<https://w3id.org/zeri/data/address/IT_9> <https://schema.org/addressCountry> "Italia"@it .

@@ -1,5 +1,5 @@
-<https://w3id.org/zeri/data/seat/IT_54_b> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_54_b> .
-<https://w3id.org/zeri/data/seat/IT_54_b> <https://schema.org/name> "Giuseppe Volterra e fratelli, \"Gustavo Volterra\""@it .
-<https://w3id.org/zeri/data/seat/IT_54_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/seat/IT_54_b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_54_b> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_54_b> .
 <https://w3id.org/zeri/data/seat/IT_54_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_54_b> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_54_b> <https://schema.org/name> "Giuseppe Volterra e fratelli, \"Gustavo Volterra\""@it .

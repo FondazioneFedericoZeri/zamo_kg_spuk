@@ -1,10 +1,10 @@
-<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_90> .
-<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_89> .
-<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_79> .
-<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CI_1> .
 <https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_133> .
-<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_9> .
 <https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_42> .
 <https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_23> .
-<https://w3id.org/zeri/data/org/CI> <https://schema.org/name> "Fabbrica di Mobili Artistici. Pia Casa di Lavoro"@it .
 <https://w3id.org/zeri/data/org/CI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_79> .
+<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_90> .
+<https://w3id.org/zeri/data/org/CI> <https://schema.org/name> "Fabbrica di Mobili Artistici. Pia Casa di Lavoro"@it .
+<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#isCollaboratorIn> <https://w3id.org/zeri/data/collaboration/R_9> .
+<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_89> .
+<https://w3id.org/zeri/data/org/CI> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/CI_1> .

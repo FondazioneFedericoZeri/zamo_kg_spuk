@@ -1,10 +1,10 @@
-<https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
+<https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_III> .
 <https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/SA_III_1> .
-<https://w3id.org/zeri/data/bib/B_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/title> "Commercio antiquario a Firenze nel primo trentennio dopo l’Unità d’Italia: protagonisti, transazioni e circolazione delle opere d’arte, Corso di Dottorato di Ricerca in Storia dell'Arte (ciclo XXIII)."@it .
 <https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/bertelli-b> .
+<https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/date> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/title> "Commercio antiquario a Firenze nel primo trentennio dopo l’Unità d’Italia: protagonisti, transazioni e circolazione delle opere d’arte, Corso di Dottorato di Ricerca in Storia dell'Arte (ciclo XXIII)."@it .
+<https://w3id.org/zeri/data/bib/B_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CI> .
 <https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/CI_1> .
 <https://w3id.org/zeri/data/bib/B_15> <http://purl.org/dc/terms/bibliographicCitation> "Bertelli, B, 2011-2012., Commercio antiquario a Firenze nel primo trentennio dopo l’Unità d’Italia: protagonisti, transazioni e circolazione delle opere d’arte, Corso di Dottorato di Ricerca in Storia dell'Arte (ciclo XXIII)., Università degli Studi di Udine." .
-<https://w3id.org/zeri/data/bib/B_15> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/SA_III> .
+<https://w3id.org/zeri/data/bib/B_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

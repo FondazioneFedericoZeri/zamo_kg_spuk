@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/seat/IT_51> <https://schema.org/name> "Carlo e Riccardo Bruscoli, Marcello Guidi; dal 1957 al 1966 il negozio ai civici 50-52r è rilevato da Leonardo Lapiccirella"@it .
-<https://w3id.org/zeri/data/seat/IT_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
 <https://w3id.org/zeri/data/seat/IT_51> <https://w3id.org/zeri/ontology/zamo/agents#isLocatedIn> <https://w3id.org/zeri/data/location/IT_51> .
 <https://w3id.org/zeri/data/seat/IT_51> <https://w3id.org/zeri/ontology/zamo/agents#isActiveTo> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/seat/IT_51> <http://www.w3.org/2000/01/rdf-schema#comment> "data di apertura/chiusura incerta"@it .
 <https://w3id.org/zeri/data/seat/IT_51> <https://w3id.org/zeri/ontology/zamo/agents#isActiveFrom> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/seat/IT_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Seat> .
+<https://w3id.org/zeri/data/seat/IT_51> <http://www.w3.org/2000/01/rdf-schema#comment> "data di apertura/chiusura incerta"@it .
+<https://w3id.org/zeri/data/seat/IT_51> <https://schema.org/name> "Carlo e Riccardo Bruscoli, Marcello Guidi; dal 1957 al 1966 il negozio ai civici 50-52r è rilevato da Leonardo Lapiccirella"@it .

@@ -2,10 +2,10 @@
 <rdf:RDF
    xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:extended="https://w3id.org/zeri/ontology/zamo/extended#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:schema="https://schema.org/"
-   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
 >
   <rdf:Description rdf:about="https://w3id.org/zeri/data/person/AN-EF_2">
     <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
@@ -17,7 +17,7 @@
     <schema:givenName xml:lang="it">Luigia Efrati</schema:givenName>
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_103"/>
     <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/AN-EF_2"/>
-    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/AN-EF_5"/>
-    <zamo_ext:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/AN-EF_4"/>
+    <extended:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/AN-EF_5"/>
+    <extended:isGrandParentOf rdf:resource="https://w3id.org/zeri/data/person/AN-EF_4"/>
   </rdf:Description>
 </rdf:RDF>

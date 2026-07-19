@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_200> <http://purl.org/dc/terms/bibliographicCitation> "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)., San Francisco 1923." .
+<https://w3id.org/zeri/data/bib/B_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
 <https://w3id.org/zeri/data/bib/B_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_200> <http://purl.org/dc/terms/title> "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)."@it .
-<https://w3id.org/zeri/data/bib/B_200> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_200> <http://purl.org/dc/terms/bibliographicCitation> "Rare artistic properties collected by the expert and connoisseur chevalier Raoul Tolentino of Rome, catalogo della vendita all'asta Curtis Studio (San Francisco, 21-24 marzo 1923)., San Francisco 1923." .
 <https://w3id.org/zeri/data/bib/B_200> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .
-<https://w3id.org/zeri/data/bib/B_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
+<https://w3id.org/zeri/data/bib/B_200> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .

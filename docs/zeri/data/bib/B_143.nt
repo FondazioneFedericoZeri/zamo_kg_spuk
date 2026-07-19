@@ -1,8 +1,8 @@
-<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/title> "Raoul Tolentino."@it .
-<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1924., Raoul Tolentino., In «L'Antiquario», XI, 6-7,, p. 187." .
 <https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/tolosani-d> .
-<https://w3id.org/zeri/data/bib/B_143> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/title> "Raoul Tolentino."@it .
 <https://w3id.org/zeri/data/bib/B_143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_143> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/TO_1> .
+<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/date> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_143> <http://purl.org/dc/terms/bibliographicCitation> "Tolosani, D, 1924., Raoul Tolentino., In «L'Antiquario», XI, 6-7,, p. 187." .
 <https://w3id.org/zeri/data/bib/B_143> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/TO> .

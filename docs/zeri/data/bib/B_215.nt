@@ -1,6 +1,6 @@
-<https://w3id.org/zeri/data/bib/B_215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_215> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_I_1> .
-<https://w3id.org/zeri/data/bib/B_215> <http://purl.org/dc/terms/title> "Vendita Volpi."@it .
-<https://w3id.org/zeri/data/bib/B_215> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .
 <https://w3id.org/zeri/data/bib/B_215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_215> <http://purl.org/dc/terms/title> "Vendita Volpi."@it .
 <https://w3id.org/zeri/data/bib/B_215> <http://purl.org/dc/terms/bibliographicCitation> "Vendita Volpi., In «L'Antiquario», II, 9-10, 1910,, pp. 57-61." .
+<https://w3id.org/zeri/data/bib/B_215> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_I> .

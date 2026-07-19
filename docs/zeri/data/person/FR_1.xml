@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
+   xmlns:extended="https://w3id.org/zeri/ontology/zamo/extended#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:schema="https://schema.org/"
-   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
 >
   <rdf:Description rdf:about="https://w3id.org/zeri/data/person/FR_1">
     <rdf:type rdf:resource="https://w3id.org/zeri/ontology/zamo/agents#Person"/>
@@ -18,6 +18,6 @@
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_45"/>
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_74"/>
     <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/FR_1"/>
-    <zamo_ext:isInLawOf rdf:resource="https://w3id.org/zeri/data/person/SA_I_1"/>
+    <extended:isChildInLaw rdf:resource="https://w3id.org/zeri/data/person/SA_I_1"/>
   </rdf:Description>
 </rdf:RDF>

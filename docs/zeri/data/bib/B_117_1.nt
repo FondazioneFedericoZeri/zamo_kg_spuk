@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_117_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_117_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CE> .
 <https://w3id.org/zeri/data/bib/B_117_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/bibliographicCitation> "Riccomini, M, 2021, Adriano Cera, in «Gazzetta Antiquaria», 7 gennaio 2021" .
-<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/title> "Adriano Cera"@it .
+<https://w3id.org/zeri/data/bib/B_117_1> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CE> .
+<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/riccomini-m> .
+<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/title> "Adriano Cera"@it .
+<https://w3id.org/zeri/data/bib/B_117_1> <http://purl.org/dc/terms/bibliographicCitation> "Riccomini, M, 2021, Adriano Cera, in «Gazzetta Antiquaria», 7 gennaio 2021" .
+<https://w3id.org/zeri/data/bib/B_117_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

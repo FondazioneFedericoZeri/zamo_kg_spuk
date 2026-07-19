@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/title> "Numismatic bibliography"@it .
-<https://w3id.org/zeri/data/bib/B_28_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_28_7> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
-<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/date> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/bibliographicCitation> "Clain-Stefanelli, E. E, 1985, Numismatic bibliography, Monaco, n.3653" .
 <https://w3id.org/zeri/data/bib/B_28_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_28_7> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CA_III> .
+<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/title> "Numismatic bibliography"@it .
+<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/bibliographicCitation> "Clain-Stefanelli, E. E, 1985, Numismatic bibliography, Monaco, n.3653" .
+<https://w3id.org/zeri/data/bib/B_28_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/date> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/bib/B_28_7> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/clain-stefanelli-e-e> .

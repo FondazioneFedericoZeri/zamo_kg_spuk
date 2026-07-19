@@ -1,7 +1,7 @@
-<https://w3id.org/zeri/data/event/E_19> <http://www.w3.org/2000/01/rdf-schema#comment> "Augusto Jandolo pubblicò nel 1935 l'autobiografia \"Memorie di un antiquario\", fonte imprescindibile per la comprensione del mercato dell’arte romano a cavallo tra Otto e Novecento."@it .
+<https://w3id.org/zeri/data/event/E_19> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/JA_6> .
 <https://w3id.org/zeri/data/event/E_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/events#Event> .
 <https://w3id.org/zeri/data/event/E_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence> .
-<https://w3id.org/zeri/data/event/E_19> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://w3id.org/zeri/data/person/JA_6> .
-<https://w3id.org/zeri/data/event/E_19> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://w3id.org/zeri/data/event/E_19> <http://www.w3.org/2000/01/rdf-schema#label> "Pubblicazione \"Memorie di un antiquario\""@it .
+<https://w3id.org/zeri/data/event/E_19> <https://w3id.org/zeri/ontology/zamo/events#hasDate> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/event/E_19> <http://www.w3.org/2000/01/rdf-schema#comment> "Augusto Jandolo pubblicò nel 1935 l'autobiografia \"Memorie di un antiquario\", fonte imprescindibile per la comprensione del mercato dell’arte romano a cavallo tra Otto e Novecento."@it .
 <https://w3id.org/zeri/data/event/E_19> <http://www.cidoc-crm.org/cidoc-crm/P92_brought_into_existence> <https://w3id.org/zeri/data/publication/memorie_antiquario> .

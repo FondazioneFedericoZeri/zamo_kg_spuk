@@ -1,6 +1,6 @@
+<https://w3id.org/zeri/data/bib/B_165> <http://purl.org/dc/terms/title> "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)."@it .
 <https://w3id.org/zeri/data/bib/B_165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#Catalog> .
-<https://w3id.org/zeri/data/bib/B_165> <http://purl.org/dc/terms/bibliographicCitation> "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)., Genova 1932." .
-<https://w3id.org/zeri/data/bib/B_165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
 <https://w3id.org/zeri/data/bib/B_165> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VI_III> .
 <https://w3id.org/zeri/data/bib/B_165> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VI_III_1> .
-<https://w3id.org/zeri/data/bib/B_165> <http://purl.org/dc/terms/title> "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)."@it .
+<https://w3id.org/zeri/data/bib/B_165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_165> <http://purl.org/dc/terms/bibliographicCitation> "Catalogo della collezione d'arte antica di proprietà Edoardo Villa & C., catalogo della vendita all'asta Vitelli (Genova, 15-22 dicembre 1923)., Genova 1932." .

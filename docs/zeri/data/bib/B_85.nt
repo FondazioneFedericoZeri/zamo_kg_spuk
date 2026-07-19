@@ -1,12 +1,12 @@
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_2> .
-<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/bibliographicCitation> "Marano, V, 2007-2008., Due generazioni di antiquari, i Volterra., Tesi di Laurea, Università di Bologna." .
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_3> .
-<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/marano-v> .
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_4> .
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_1> .
-<https://w3id.org/zeri/data/bib/B_85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
-<https://w3id.org/zeri/data/bib/B_85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_5> .
-<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/title> "Due generazioni di antiquari, i Volterra."@it .
-<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
 <https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/date> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/bibliographicCitation> "Marano, V, 2007-2008., Due generazioni di antiquari, i Volterra., Tesi di Laurea, Università di Bologna." .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_1> .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_3> .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_5> .
+<https://w3id.org/zeri/data/bib/B_85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Book> .
+<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/marano-v> .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/VO_II> .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_2> .
+<https://w3id.org/zeri/data/bib/B_85> <http://purl.org/dc/terms/title> "Due generazioni di antiquari, i Volterra."@it .
+<https://w3id.org/zeri/data/bib/B_85> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/VO_II_4> .
+<https://w3id.org/zeri/data/bib/B_85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .

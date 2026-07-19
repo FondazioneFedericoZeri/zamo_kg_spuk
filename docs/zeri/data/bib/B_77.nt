@@ -1,8 +1,8 @@
+<https://w3id.org/zeri/data/bib/B_77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
+<https://w3id.org/zeri/data/bib/B_77> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_II_1> .
 <https://w3id.org/zeri/data/bib/B_77> <http://purl.org/dc/terms/title> "Un falso Rinascimento?: 2. il barone Michele Lazzaroni e la scultura."@it .
 <https://w3id.org/zeri/data/bib/B_77> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/lorizzo-l> .
-<https://w3id.org/zeri/data/bib/B_77> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
 <https://w3id.org/zeri/data/bib/B_77> <http://purl.org/dc/terms/bibliographicCitation> "Lorizzo, L, 2015., Un falso Rinascimento?: 2. il barone Michele Lazzaroni e la scultura., In «Studiolo», 11, 2014,, pp. 108-119, 301-302." .
-<https://w3id.org/zeri/data/bib/B_77> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/LA_II_1> .
-<https://w3id.org/zeri/data/bib/B_77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_77> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/LA_II> .
 <https://w3id.org/zeri/data/bib/B_77> <http://purl.org/dc/terms/date> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .

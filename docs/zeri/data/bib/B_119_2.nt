@@ -1,14 +1,14 @@
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
-<https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/bibliographicCitation> "Romiti, A, 1952., L'antiquario, in «Strenna dei Romanisti»., 13.1952, pp. 22-25;" .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
-<https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/title> "L'antiquario, in «Strenna dei Romanisti»."@it .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
 <https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_6> .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
 <https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/romiti-a> .
-<https://w3id.org/zeri/data/bib/B_119_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
-<https://w3id.org/zeri/data/bib/B_119_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
-<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_4> .
 <https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/date> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_119_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/JA> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_7> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_5> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_1> .
+<https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/bibliographicCitation> "Romiti, A, 1952., L'antiquario, in «Strenna dei Romanisti»., 13.1952, pp. 22-25;" .
+<https://w3id.org/zeri/data/bib/B_119_2> <http://purl.org/dc/terms/title> "L'antiquario, in «Strenna dei Romanisti»."@it .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_2> .
+<https://w3id.org/zeri/data/bib/B_119_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
+<https://w3id.org/zeri/data/bib/B_119_2> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/JA_3> .

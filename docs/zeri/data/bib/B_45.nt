@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/bibliographicCitation> "Fehér, I, 2012., Károly Pulszky and the Florentine acquisitions for the Szépmúvészeti Múzeum in Budapest between 1893 and 1895., In «Mitteilungen des Kunsthistorischen Institutes in Florenz», vol. 54 (2010/2012), 2,, pp. 319-364." .
+<https://w3id.org/zeri/data/bib/B_45> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_III> .
+<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/title> "Károly Pulszky and the Florentine acquisitions for the Szépmúvészeti Múzeum in Budapest between 1893 and 1895."@it .
+<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/feher-i> .
 <https://w3id.org/zeri/data/bib/B_45> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_2> .
 <https://w3id.org/zeri/data/bib/B_45> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/Co_III_1> .
-<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/title> "Károly Pulszky and the Florentine acquisitions for the Szépmúvészeti Múzeum in Budapest between 1893 and 1895."@it .
-<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/date> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_45> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/CO_III> .
+<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/bibliographicCitation> "Fehér, I, 2012., Károly Pulszky and the Florentine acquisitions for the Szépmúvészeti Múzeum in Budapest between 1893 and 1895., In «Mitteilungen des Kunsthistorischen Institutes in Florenz», vol. 54 (2010/2012), 2,, pp. 319-364." .
 <https://w3id.org/zeri/data/bib/B_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
 <https://w3id.org/zeri/data/bib/B_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/AcademicArticle> .
-<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/feher-i> .
+<https://w3id.org/zeri/data/bib/B_45> <http://purl.org/dc/terms/date> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .

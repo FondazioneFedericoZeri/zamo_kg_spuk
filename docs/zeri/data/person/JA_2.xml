@@ -2,10 +2,10 @@
 <rdf:RDF
    xmlns:agents="https://w3id.org/zeri/ontology/zamo/agents#"
    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:extended="https://w3id.org/zeri/ontology/zamo/extended#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:schema="https://schema.org/"
-   xmlns:zamo_ext="https://w3id.org/zeri/ontology/zamo/extended#"
 >
   <rdf:Description rdf:about="https://w3id.org/zeri/data/person/JA_2">
     <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E21_Person"/>
@@ -22,8 +22,8 @@
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_109"/>
     <schema:workLocation rdf:resource="https://w3id.org/zeri/data/location/IT_128"/>
     <agents:providesServiceIn rdf:resource="https://w3id.org/zeri/data/main-collaboration/JA_2"/>
-    <zamo_ext:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_5"/>
-    <zamo_ext:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_6"/>
-    <zamo_ext:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_7"/>
+    <extended:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_5"/>
+    <extended:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_6"/>
+    <extended:isUncleOrAuntOf rdf:resource="https://w3id.org/zeri/data/person/JA_7"/>
   </rdf:Description>
 </rdf:RDF>

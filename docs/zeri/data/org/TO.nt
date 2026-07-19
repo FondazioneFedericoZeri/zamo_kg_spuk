@@ -1,8 +1,8 @@
 <https://w3id.org/zeri/data/org/TO> <https://schema.org/name> "Galerie d’Art Ancien"@it .
 <https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/USA_2> .
 <https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_34> .
-<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_127> .
 <https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_49> .
-<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/TO_1> .
-<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_18_b/TO> .
 <https://w3id.org/zeri/data/org/TO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#ArtDealerOrganization> .
+<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/main-collaboration/TO_1> .
+<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#hasSeat> <https://w3id.org/zeri/data/seat/IT_127> .
+<https://w3id.org/zeri/data/org/TO> <https://w3id.org/zeri/ontology/zamo/agents#requestsServiceIn> <https://w3id.org/zeri/data/collaboration/C_18_b/TO> .

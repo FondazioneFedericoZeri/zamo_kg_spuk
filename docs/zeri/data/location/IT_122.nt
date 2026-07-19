@@ -1,3 +1,3 @@
-<https://w3id.org/zeri/data/location/IT_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Location> .
-<https://w3id.org/zeri/data/location/IT_122> <https://schema.org/address> <https://w3id.org/zeri/data/address/IT_122> .
 <https://w3id.org/zeri/data/location/IT_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Place> .
+<https://w3id.org/zeri/data/location/IT_122> <https://schema.org/address> <https://w3id.org/zeri/data/address/IT_122> .
+<https://w3id.org/zeri/data/location/IT_122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/agents#Location> .

@@ -1,9 +1,9 @@
-<https://w3id.org/zeri/data/bib/B_27> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GE_I> .
-<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/cavicchi-m> .
-<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/bibliographicCitation> "Cavicchi, M, 2017., Falsi di primo Novecento nell'archivio di Luigi Albrighi., In Ottani Cavina,, pp. 199-225." .
-<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/title> "Falsi di primo Novecento nell'archivio di Luigi Albrighi."@it .
-<https://w3id.org/zeri/data/bib/B_27> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AL_1> .
-<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<https://w3id.org/zeri/data/bib/B_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/zeri/ontology/zamo/sources#BibliographicItem> .
+<https://w3id.org/zeri/data/bib/B_27> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/GE_I> .
+<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/title> "Falsi di primo Novecento nell'archivio di Luigi Albrighi."@it .
+<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/creator> <https://w3id.org/zeri/data/person/cavicchi-m> .
+<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/zeri/data/bib/B_27> <http://purl.org/dc/terms/bibliographicCitation> "Cavicchi, M, 2017., Falsi di primo Novecento nell'archivio di Luigi Albrighi., In Ottani Cavina,, pp. 199-225." .
+<https://w3id.org/zeri/data/bib/B_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/BookSection> .
 <https://w3id.org/zeri/data/bib/B_27> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/venture/AL> .
+<https://w3id.org/zeri/data/bib/B_27> <https://w3id.org/zeri/ontology/zamo/sources#isSourceFor> <https://w3id.org/zeri/data/reconstruction/AL_1> .
